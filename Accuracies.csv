@@ -1,0 +1,2161 @@
+Strategy,Scenario,Group,Gen,Cat,Cor
+ClassGen,0_100,home,21,Fathers,-0.07318272505093446
+ClassGen,0_100,home,21,Female candidates,0.03933311616034808
+ClassGen,0_100,home,21,Male candidates,0.03847124030561002
+ClassGen,0_100,home,21,Male candidates1,-0.07879778972412073
+ClassGen,0_100,home,21,Mothers,0.1884914529450766
+ClassGen,0_100,home,22,Fathers,-0.03643281017812089
+ClassGen,0_100,home,22,Female candidates,0.08761966654494414
+ClassGen,0_100,home,22,Male candidates,0.22023301924309324
+ClassGen,0_100,home,22,Male candidates1,0.03624787827932
+ClassGen,0_100,home,22,Mothers,0.27146346646010233
+ClassGen,0_100,home,23,Fathers,-0.11673948664794921
+ClassGen,0_100,home,23,Female candidates,0.14627344716450932
+ClassGen,0_100,home,23,Male candidates,0.3237126525606833
+ClassGen,0_100,home,23,Male candidates1,0.08787018467223483
+ClassGen,0_100,home,23,Mothers,0.32852609109190367
+ClassGen,0_100,home,24,Fathers,0.05075692565901577
+ClassGen,0_100,home,24,Female candidates,0.23103802334619794
+ClassGen,0_100,home,24,Male candidates,0.16015950800387446
+ClassGen,0_100,home,24,Male candidates1,-0.0945700340340683
+ClassGen,0_100,home,24,Mothers,0.337912270558776
+ClassGen,0_100,home,25,Fathers,-0.23069426346276384
+ClassGen,0_100,home,25,Female candidates,0.17450027514096125
+ClassGen,0_100,home,25,Male candidates,0.5293524028502384
+ClassGen,0_100,home,25,Male candidates1,0.0811022300849259
+ClassGen,0_100,home,25,Mothers,0.2887390453858835
+ClassGen,0_100,home,26,Fathers,0.05829308464482301
+ClassGen,0_100,home,26,Female candidates,0.10472980364378234
+ClassGen,0_100,home,26,Male candidates,0.14081670421583392
+ClassGen,0_100,home,26,Male candidates1,-0.031735775490938964
+ClassGen,0_100,home,26,Mothers,0.26298253701877256
+ClassGen,0_100,home,27,Fathers,0.02272080302445461
+ClassGen,0_100,home,27,Female candidates,0.06942815311400538
+ClassGen,0_100,home,27,Male candidates,0.1350508970670882
+ClassGen,0_100,home,27,Male candidates1,0.10834417640553556
+ClassGen,0_100,home,27,Mothers,0.21827965568793883
+ClassGen,0_100,home,28,Fathers,-0.12019870257051495
+ClassGen,0_100,home,28,Female candidates,-0.02374791557707069
+ClassGen,0_100,home,28,Male candidates,0.16228944251701574
+ClassGen,0_100,home,28,Male candidates1,-0.06418040608408092
+ClassGen,0_100,home,28,Mothers,0.1429311506756514
+ClassGen,0_100,home,29,Fathers,-0.12507019583078596
+ClassGen,0_100,home,29,Female candidates,-0.028056909464463986
+ClassGen,0_100,home,29,Male candidates,0.05845030865069618
+ClassGen,0_100,home,29,Male candidates1,-0.049128658942814527
+ClassGen,0_100,home,29,Mothers,0.1049629655300555
+ClassGen,0_100,home,30,Fathers,-0.3847108019628472
+ClassGen,0_100,home,30,Female candidates,-0.11326082123009262
+ClassGen,0_100,home,30,Male candidates,0.05678320347160816
+ClassGen,0_100,home,30,Male candidates1,-0.0902528957136858
+ClassGen,0_100,home,30,Mothers,0.05570603889717893
+ClassGen,0_100,home,31,Fathers,0.08394126763161491
+ClassGen,0_100,home,31,Female candidates,-0.14887353708428602
+ClassGen,0_100,home,31,Male candidates,0.4773115086991176
+ClassGen,0_100,home,31,Male candidates1,0.29011868095257715
+ClassGen,0_100,home,31,Mothers,0.04697775156336076
+ClassGen,0_100,home,32,Fathers,0.14346259612524734
+ClassGen,0_100,home,32,Female candidates,-0.15855741355406855
+ClassGen,0_100,home,32,Male candidates,0.5143863429157269
+ClassGen,0_100,home,32,Male candidates1,-0.12312055192771505
+ClassGen,0_100,home,32,Mothers,0.057328816285743225
+ClassGen,0_100,home,33,Fathers,0.2323926472401983
+ClassGen,0_100,home,33,Female candidates,-0.12049933163720088
+ClassGen,0_100,home,33,Male candidates,0.5066296046594022
+ClassGen,0_100,home,33,Male candidates1,-0.00706502442232553
+ClassGen,0_100,home,33,Mothers,0.05272216543749386
+ClassGen,0_100,home,34,Fathers,0.3132246475277076
+ClassGen,0_100,home,34,Female candidates,-0.1064624338817088
+ClassGen,0_100,home,34,Male candidates,0.47134393952925524
+ClassGen,0_100,home,34,Male candidates1,0.2349693452640773
+ClassGen,0_100,home,34,Mothers,0.05341088995561632
+ClassGen,0_100,home,35,Fathers,0.3283117188366518
+ClassGen,0_100,home,35,Female candidates,-0.15485404386659676
+ClassGen,0_100,home,35,Male candidates,0.46450376253147924
+ClassGen,0_100,home,35,Male candidates1,-0.4257192746376777
+ClassGen,0_100,home,35,Mothers,0.043189371709246714
+ClassGen,0_100,home,36,Fathers,0.46689114915349184
+ClassGen,0_100,home,36,Female candidates,-0.17678830344452226
+ClassGen,0_100,home,36,Male candidates,0.4928970043265076
+ClassGen,0_100,home,36,Male candidates1,0.1122413261968007
+ClassGen,0_100,home,36,Mothers,0.04187470761309589
+ClassGen,0_100,home,37,Fathers,0.4509381298401005
+ClassGen,0_100,home,37,Female candidates,-0.2415381317883695
+ClassGen,0_100,home,37,Male candidates,0.5643633289115138
+ClassGen,0_100,home,37,Male candidates1,0.4299991308148101
+ClassGen,0_100,home,37,Mothers,0.053686839615676996
+ClassGen,0_100,home,38,Fathers,0.4276617685991668
+ClassGen,0_100,home,38,Female candidates,-0.2585083275944729
+ClassGen,0_100,home,38,Male candidates,0.5397749711159652
+ClassGen,0_100,home,38,Male candidates1,-0.22483984122019346
+ClassGen,0_100,home,38,Mothers,0.048202992131508644
+ClassGen,0_100,home,39,Fathers,0.4092195329518316
+ClassGen,0_100,home,39,Female candidates,-0.25893522841090993
+ClassGen,0_100,home,39,Male candidates,0.45295936525420916
+ClassGen,0_100,home,39,Male candidates1,-0.10979524156485757
+ClassGen,0_100,home,39,Mothers,0.03593061051813207
+ClassGen,0_100,home,40,Fathers,0.43422354268518126
+ClassGen,0_100,home,40,Female candidates,-0.2661624646629093
+ClassGen,0_100,home,40,Male candidates,0.3402872513916655
+ClassGen,0_100,home,40,Male candidates1,0.2865726153507828
+ClassGen,0_100,home,40,Mothers,-0.004969420153409796
+ClassGen,0_100,home,41,Fathers,-0.021804085799770653
+ClassGen,0_100,home,41,Female candidates,-0.21036877715756366
+ClassGen,0_100,home,41,Male candidates,0.094054619756283
+ClassGen,0_100,home,41,Mothers,0.0466868439152507
+ClassGen,0_100,home,42,Fathers,0.03185139903209683
+ClassGen,0_100,home,42,Female candidates,-0.19771187696950626
+ClassGen,0_100,home,42,Male candidates,0.2077258315363945
+ClassGen,0_100,home,42,Mothers,0.07114777515079228
+ClassGen,0_100,home,43,Fathers,0.10028164428815607
+ClassGen,0_100,home,43,Female candidates,-0.1101868806292899
+ClassGen,0_100,home,43,Male candidates,0.14490989099080326
+ClassGen,0_100,home,43,Mothers,0.07773810637485332
+ClassGen,0_100,home,44,Fathers,0.11206389363234921
+ClassGen,0_100,home,44,Female candidates,-0.08612460831140631
+ClassGen,0_100,home,44,Male candidates,0.11782429004646305
+ClassGen,0_100,home,44,Mothers,0.0779722309495788
+ClassGen,0_100,home,45,Fathers,0.16247391591081162
+ClassGen,0_100,home,45,Female candidates,0.016582873327647574
+ClassGen,0_100,home,45,Male candidates,0.06241455897489341
+ClassGen,0_100,home,45,Mothers,0.11103752247494952
+ClassGen,0_100,home,46,Fathers,0.2372562699652744
+ClassGen,0_100,home,46,Female candidates,0.029666001381423945
+ClassGen,0_100,home,46,Male candidates,0.13699391562186786
+ClassGen,0_100,home,46,Mothers,0.13797147564847392
+ClassGen,0_100,home,47,Fathers,0.20156719240655296
+ClassGen,0_100,home,47,Female candidates,0.006171561304175841
+ClassGen,0_100,home,47,Male candidates,0.19829569589836707
+ClassGen,0_100,home,47,Mothers,0.17697874512862333
+ClassGen,0_100,home,48,Fathers,0.17579051524431435
+ClassGen,0_100,home,48,Female candidates,0.021885248325178783
+ClassGen,0_100,home,48,Male candidates,0.25176945341355944
+ClassGen,0_100,home,48,Mothers,0.21437615589489017
+ClassGen,0_100,home,49,Fathers,0.16773450103909818
+ClassGen,0_100,home,49,Female candidates,0.061206965769001365
+ClassGen,0_100,home,49,Male candidates,0.2297318187621253
+ClassGen,0_100,home,49,Mothers,0.2459624502680117
+ClassGen,0_100,home,50,Fathers,0.12348358052419331
+ClassGen,0_100,home,50,Female candidates,0.06212431744476131
+ClassGen,0_100,home,50,Male candidates,0.3005404511853173
+ClassGen,0_100,home,50,Mothers,0.25184549239497483
+ClassGen,0_100,import,21,Fathers,-0.07318272505093446
+ClassGen,0_100,import,21,Female candidates,0.03933311616034808
+ClassGen,0_100,import,21,Male candidates,0.03847124030561002
+ClassGen,0_100,import,21,Male candidates1,-0.07879778972412073
+ClassGen,0_100,import,21,Mothers,0.1884914529450766
+ClassGen,0_100,import,22,Fathers,-0.03643281017812089
+ClassGen,0_100,import,22,Female candidates,0.08761966654494414
+ClassGen,0_100,import,22,Male candidates,0.22023301924309324
+ClassGen,0_100,import,22,Male candidates1,0.03624787827932
+ClassGen,0_100,import,22,Mothers,0.27146346646010233
+ClassGen,0_100,import,23,Fathers,-0.11673948664794921
+ClassGen,0_100,import,23,Female candidates,0.14627344716450932
+ClassGen,0_100,import,23,Male candidates,0.3237126525606833
+ClassGen,0_100,import,23,Male candidates1,0.08787018467223483
+ClassGen,0_100,import,23,Mothers,0.32852609109190367
+ClassGen,0_100,import,24,Fathers,0.05075692565901577
+ClassGen,0_100,import,24,Female candidates,0.23103802334619794
+ClassGen,0_100,import,24,Male candidates,0.16015950800387446
+ClassGen,0_100,import,24,Male candidates1,-0.0945700340340683
+ClassGen,0_100,import,24,Mothers,0.337912270558776
+ClassGen,0_100,import,25,Fathers,-0.23069426346276384
+ClassGen,0_100,import,25,Female candidates,0.17450027514096125
+ClassGen,0_100,import,25,Male candidates,0.5293524028502384
+ClassGen,0_100,import,25,Male candidates1,0.0811022300849259
+ClassGen,0_100,import,25,Mothers,0.2887390453858835
+ClassGen,0_100,import,26,Fathers,0.05829308464482301
+ClassGen,0_100,import,26,Female candidates,0.10472980364378234
+ClassGen,0_100,import,26,Male candidates,0.14081670421583392
+ClassGen,0_100,import,26,Male candidates1,-0.031735775490938964
+ClassGen,0_100,import,26,Mothers,0.26298253701877256
+ClassGen,0_100,import,27,Fathers,0.02272080302445461
+ClassGen,0_100,import,27,Female candidates,0.06942815311400538
+ClassGen,0_100,import,27,Male candidates,0.1350508970670882
+ClassGen,0_100,import,27,Male candidates1,0.10834417640553556
+ClassGen,0_100,import,27,Mothers,0.21827965568793883
+ClassGen,0_100,import,28,Fathers,-0.12019870257051495
+ClassGen,0_100,import,28,Female candidates,-0.02374791557707069
+ClassGen,0_100,import,28,Male candidates,0.16228944251701574
+ClassGen,0_100,import,28,Male candidates1,-0.06418040608408092
+ClassGen,0_100,import,28,Mothers,0.1429311506756514
+ClassGen,0_100,import,29,Fathers,-0.12507019583078596
+ClassGen,0_100,import,29,Female candidates,-0.028056909464463986
+ClassGen,0_100,import,29,Male candidates,0.05845030865069618
+ClassGen,0_100,import,29,Male candidates1,-0.049128658942814527
+ClassGen,0_100,import,29,Mothers,0.1049629655300555
+ClassGen,0_100,import,30,Fathers,-0.3847108019628472
+ClassGen,0_100,import,30,Female candidates,-0.11326082123009262
+ClassGen,0_100,import,30,Male candidates,0.05678320347160816
+ClassGen,0_100,import,30,Male candidates1,-0.0902528957136858
+ClassGen,0_100,import,30,Mothers,0.05570603889717893
+ClassGen,0_100,import,31,Fathers,0.08394126763161491
+ClassGen,0_100,import,31,Female candidates,-0.14887353708428602
+ClassGen,0_100,import,31,Male candidates,0.4773115086991176
+ClassGen,0_100,import,31,Male candidates1,0.29011868095257715
+ClassGen,0_100,import,31,Mothers,0.04697775156336076
+ClassGen,0_100,import,32,Fathers,0.14346259612524734
+ClassGen,0_100,import,32,Female candidates,-0.15855741355406855
+ClassGen,0_100,import,32,Male candidates,0.5143863429157269
+ClassGen,0_100,import,32,Male candidates1,-0.12312055192771505
+ClassGen,0_100,import,32,Mothers,0.057328816285743225
+ClassGen,0_100,import,33,Fathers,0.2323926472401983
+ClassGen,0_100,import,33,Female candidates,-0.12049933163720088
+ClassGen,0_100,import,33,Male candidates,0.5066296046594022
+ClassGen,0_100,import,33,Male candidates1,-0.00706502442232553
+ClassGen,0_100,import,33,Mothers,0.05272216543749386
+ClassGen,0_100,import,34,Fathers,0.3132246475277076
+ClassGen,0_100,import,34,Female candidates,-0.1064624338817088
+ClassGen,0_100,import,34,Male candidates,0.47134393952925524
+ClassGen,0_100,import,34,Male candidates1,0.2349693452640773
+ClassGen,0_100,import,34,Mothers,0.05341088995561632
+ClassGen,0_100,import,35,Fathers,0.3283117188366518
+ClassGen,0_100,import,35,Female candidates,-0.15485404386659676
+ClassGen,0_100,import,35,Male candidates,0.46450376253147924
+ClassGen,0_100,import,35,Male candidates1,-0.4257192746376777
+ClassGen,0_100,import,35,Mothers,0.043189371709246714
+ClassGen,0_100,import,36,Fathers,0.46689114915349184
+ClassGen,0_100,import,36,Female candidates,-0.17678830344452226
+ClassGen,0_100,import,36,Male candidates,0.4928970043265076
+ClassGen,0_100,import,36,Male candidates1,0.1122413261968007
+ClassGen,0_100,import,36,Mothers,0.04187470761309589
+ClassGen,0_100,import,37,Fathers,0.4509381298401005
+ClassGen,0_100,import,37,Female candidates,-0.2415381317883695
+ClassGen,0_100,import,37,Male candidates,0.5643633289115138
+ClassGen,0_100,import,37,Male candidates1,0.4299991308148101
+ClassGen,0_100,import,37,Mothers,0.053686839615676996
+ClassGen,0_100,import,38,Fathers,0.4276617685991668
+ClassGen,0_100,import,38,Female candidates,-0.2585083275944729
+ClassGen,0_100,import,38,Male candidates,0.5397749711159652
+ClassGen,0_100,import,38,Male candidates1,-0.22483984122019346
+ClassGen,0_100,import,38,Mothers,0.048202992131508644
+ClassGen,0_100,import,39,Fathers,0.4092195329518316
+ClassGen,0_100,import,39,Female candidates,-0.25893522841090993
+ClassGen,0_100,import,39,Male candidates,0.45295936525420916
+ClassGen,0_100,import,39,Male candidates1,-0.10979524156485757
+ClassGen,0_100,import,39,Mothers,0.03593061051813207
+ClassGen,0_100,import,40,Fathers,0.43422354268518126
+ClassGen,0_100,import,40,Female candidates,-0.2661624646629093
+ClassGen,0_100,import,40,Male candidates,0.3402872513916655
+ClassGen,0_100,import,40,Male candidates1,0.2865726153507828
+ClassGen,0_100,import,40,Mothers,-0.004969420153409796
+ClassGen,0_100,import,41,Fathers,-0.021804085799770653
+ClassGen,0_100,import,41,Female candidates,-0.21036877715756366
+ClassGen,0_100,import,41,Male candidates,0.094054619756283
+ClassGen,0_100,import,41,Mothers,0.0466868439152507
+ClassGen,0_100,import,42,Fathers,0.03185139903209683
+ClassGen,0_100,import,42,Female candidates,-0.19771187696950626
+ClassGen,0_100,import,42,Male candidates,0.2077258315363945
+ClassGen,0_100,import,42,Mothers,0.07114777515079228
+ClassGen,0_100,import,43,Fathers,0.10028164428815607
+ClassGen,0_100,import,43,Female candidates,-0.1101868806292899
+ClassGen,0_100,import,43,Male candidates,0.14490989099080326
+ClassGen,0_100,import,43,Mothers,0.07773810637485332
+ClassGen,0_100,import,44,Fathers,0.11206389363234921
+ClassGen,0_100,import,44,Female candidates,-0.08612460831140631
+ClassGen,0_100,import,44,Male candidates,0.11782429004646305
+ClassGen,0_100,import,44,Mothers,0.0779722309495788
+ClassGen,0_100,import,45,Fathers,0.16247391591081162
+ClassGen,0_100,import,45,Female candidates,0.016582873327647574
+ClassGen,0_100,import,45,Male candidates,0.06241455897489341
+ClassGen,0_100,import,45,Mothers,0.11103752247494952
+ClassGen,0_100,import,46,Fathers,0.2372562699652744
+ClassGen,0_100,import,46,Female candidates,0.029666001381423945
+ClassGen,0_100,import,46,Male candidates,0.13699391562186786
+ClassGen,0_100,import,46,Mothers,0.13797147564847392
+ClassGen,0_100,import,47,Fathers,0.20156719240655296
+ClassGen,0_100,import,47,Female candidates,0.006171561304175841
+ClassGen,0_100,import,47,Male candidates,0.19829569589836707
+ClassGen,0_100,import,47,Mothers,0.17697874512862333
+ClassGen,0_100,import,48,Fathers,0.17579051524431435
+ClassGen,0_100,import,48,Female candidates,0.021885248325178783
+ClassGen,0_100,import,48,Male candidates,0.25176945341355944
+ClassGen,0_100,import,48,Mothers,0.21437615589489017
+ClassGen,0_100,import,49,Fathers,0.16773450103909818
+ClassGen,0_100,import,49,Female candidates,0.061206965769001365
+ClassGen,0_100,import,49,Male candidates,0.2297318187621253
+ClassGen,0_100,import,49,Mothers,0.2459624502680117
+ClassGen,0_100,import,50,Fathers,0.12348358052419331
+ClassGen,0_100,import,50,Female candidates,0.06212431744476131
+ClassGen,0_100,import,50,Male candidates,0.3005404511853173
+ClassGen,0_100,import,50,Mothers,0.25184549239497483
+ClassGen,100_100,home,21,Fathers,-0.07318272505093446
+ClassGen,100_100,home,21,Female candidates,0.03933311616034808
+ClassGen,100_100,home,21,Male candidates,0.03847124030561002
+ClassGen,100_100,home,21,Male candidates1,-0.07879778972412073
+ClassGen,100_100,home,21,Mothers,0.1884914529450766
+ClassGen,100_100,home,22,Fathers,-0.03643281017812089
+ClassGen,100_100,home,22,Female candidates,0.08761966654494414
+ClassGen,100_100,home,22,Male candidates,0.22023301924309324
+ClassGen,100_100,home,22,Male candidates1,0.03624787827932
+ClassGen,100_100,home,22,Mothers,0.27146346646010233
+ClassGen,100_100,home,23,Fathers,-0.11673948664794921
+ClassGen,100_100,home,23,Female candidates,0.14627344716450932
+ClassGen,100_100,home,23,Male candidates,0.3237126525606833
+ClassGen,100_100,home,23,Male candidates1,0.08787018467223483
+ClassGen,100_100,home,23,Mothers,0.32852609109190367
+ClassGen,100_100,home,24,Fathers,0.05075692565901577
+ClassGen,100_100,home,24,Female candidates,0.23103802334619794
+ClassGen,100_100,home,24,Male candidates,0.16015950800387446
+ClassGen,100_100,home,24,Male candidates1,-0.0945700340340683
+ClassGen,100_100,home,24,Mothers,0.337912270558776
+ClassGen,100_100,home,25,Fathers,-0.23069426346276384
+ClassGen,100_100,home,25,Female candidates,0.17450027514096125
+ClassGen,100_100,home,25,Male candidates,0.5293524028502384
+ClassGen,100_100,home,25,Male candidates1,0.0811022300849259
+ClassGen,100_100,home,25,Mothers,0.2887390453858835
+ClassGen,100_100,home,26,Fathers,0.05829308464482301
+ClassGen,100_100,home,26,Female candidates,0.10472980364378234
+ClassGen,100_100,home,26,Male candidates,0.14081670421583392
+ClassGen,100_100,home,26,Male candidates1,-0.031735775490938964
+ClassGen,100_100,home,26,Mothers,0.26298253701877256
+ClassGen,100_100,home,27,Fathers,0.02272080302445461
+ClassGen,100_100,home,27,Female candidates,0.06942815311400538
+ClassGen,100_100,home,27,Male candidates,0.1350508970670882
+ClassGen,100_100,home,27,Male candidates1,0.10834417640553556
+ClassGen,100_100,home,27,Mothers,0.21827965568793883
+ClassGen,100_100,home,28,Fathers,-0.12019870257051495
+ClassGen,100_100,home,28,Female candidates,-0.02374791557707069
+ClassGen,100_100,home,28,Male candidates,0.16228944251701574
+ClassGen,100_100,home,28,Male candidates1,-0.06418040608408092
+ClassGen,100_100,home,28,Mothers,0.1429311506756514
+ClassGen,100_100,home,29,Fathers,-0.12507019583078596
+ClassGen,100_100,home,29,Female candidates,-0.028056909464463986
+ClassGen,100_100,home,29,Male candidates,0.05845030865069618
+ClassGen,100_100,home,29,Male candidates1,-0.049128658942814527
+ClassGen,100_100,home,29,Mothers,0.1049629655300555
+ClassGen,100_100,home,30,Fathers,-0.3847108019628472
+ClassGen,100_100,home,30,Female candidates,-0.11326082123009262
+ClassGen,100_100,home,30,Male candidates,0.05678320347160816
+ClassGen,100_100,home,30,Male candidates1,-0.0902528957136858
+ClassGen,100_100,home,30,Mothers,0.05570603889717893
+ClassGen,100_100,home,31,Fathers,0.0867631968017128
+ClassGen,100_100,home,31,Female candidates,-0.14762400237761011
+ClassGen,100_100,home,31,Male candidates,0.4765303820185045
+ClassGen,100_100,home,31,Male candidates1,0.20321777152197493
+ClassGen,100_100,home,31,Mothers,0.05340820046128016
+ClassGen,100_100,home,32,Fathers,0.16038108169941148
+ClassGen,100_100,home,32,Female candidates,-0.04965606855924858
+ClassGen,100_100,home,32,Male candidates,0.5159531299920093
+ClassGen,100_100,home,32,Male candidates1,0.07382325753081052
+ClassGen,100_100,home,32,Mothers,0.05746054614347908
+ClassGen,100_100,home,33,Fathers,0.2685771071829509
+ClassGen,100_100,home,33,Female candidates,-0.08447314343875795
+ClassGen,100_100,home,33,Male candidates,0.5125502834075124
+ClassGen,100_100,home,33,Male candidates1,0.12609460741317374
+ClassGen,100_100,home,33,Mothers,0.05119188010820659
+ClassGen,100_100,home,34,Fathers,0.3690213501662064
+ClassGen,100_100,home,34,Female candidates,-0.033053583279848094
+ClassGen,100_100,home,34,Male candidates,0.48534224544329
+ClassGen,100_100,home,34,Male candidates1,0.3815292852614854
+ClassGen,100_100,home,34,Mothers,0.07880137822251915
+ClassGen,100_100,home,35,Fathers,0.50180360252243
+ClassGen,100_100,home,35,Female candidates,-0.0575421591629637
+ClassGen,100_100,home,35,Male candidates,0.321747295799091
+ClassGen,100_100,home,35,Male candidates1,-0.059569139102078186
+ClassGen,100_100,home,35,Mothers,0.0918923298357339
+ClassGen,100_100,home,36,Fathers,0.44162929111164334
+ClassGen,100_100,home,36,Female candidates,-0.017214488655233815
+ClassGen,100_100,home,36,Male candidates,0.43456912152522403
+ClassGen,100_100,home,36,Male candidates1,0.2486960988917643
+ClassGen,100_100,home,36,Mothers,0.092871389030942
+ClassGen,100_100,home,37,Fathers,0.40220463729392125
+ClassGen,100_100,home,37,Female candidates,0.07125897273975854
+ClassGen,100_100,home,37,Male candidates,0.43605644388551346
+ClassGen,100_100,home,37,Male candidates1,0.2538334685793246
+ClassGen,100_100,home,37,Mothers,0.11951760903084561
+ClassGen,100_100,home,38,Fathers,0.3721874657588977
+ClassGen,100_100,home,38,Female candidates,0.07562990537966235
+ClassGen,100_100,home,38,Male candidates,0.4473936464304573
+ClassGen,100_100,home,38,Male candidates1,0.2391651807140425
+ClassGen,100_100,home,38,Mothers,0.143347314115843
+ClassGen,100_100,home,39,Fathers,0.25772489172480706
+ClassGen,100_100,home,39,Female candidates,0.06140147366319911
+ClassGen,100_100,home,39,Male candidates,0.5324683683550145
+ClassGen,100_100,home,39,Male candidates1,0.04617319139938822
+ClassGen,100_100,home,39,Mothers,0.15292044963918439
+ClassGen,100_100,home,40,Fathers,0.29625809610168896
+ClassGen,100_100,home,40,Female candidates,0.07862434807220886
+ClassGen,100_100,home,40,Male candidates,0.5075779893507256
+ClassGen,100_100,home,40,Male candidates1,0.09114551679585813
+ClassGen,100_100,home,40,Mothers,0.18012739022075638
+ClassGen,100_100,home,41,Fathers,0.4516043427361932
+ClassGen,100_100,home,41,Female candidates,0.16630521957317934
+ClassGen,100_100,home,41,Male candidates,0.10694754534844332
+ClassGen,100_100,home,41,Mothers,0.24766037326231752
+ClassGen,100_100,home,42,Fathers,0.40417784797373585
+ClassGen,100_100,home,42,Female candidates,0.2504435289851757
+ClassGen,100_100,home,42,Male candidates,0.2472517568925792
+ClassGen,100_100,home,42,Mothers,0.2909306731140236
+ClassGen,100_100,home,43,Fathers,0.40240013798966684
+ClassGen,100_100,home,43,Female candidates,0.2483823938898209
+ClassGen,100_100,home,43,Male candidates,0.2286727371269693
+ClassGen,100_100,home,43,Mothers,0.34624567552252056
+ClassGen,100_100,home,44,Fathers,0.4116940909803227
+ClassGen,100_100,home,44,Female candidates,0.2790386518086774
+ClassGen,100_100,home,44,Male candidates,0.3198360976562918
+ClassGen,100_100,home,44,Mothers,0.38136914189552334
+ClassGen,100_100,home,45,Fathers,0.39061477061151606
+ClassGen,100_100,home,45,Female candidates,0.2984473064735461
+ClassGen,100_100,home,45,Male candidates,0.35415027225411105
+ClassGen,100_100,home,45,Mothers,0.4020819942449054
+ClassGen,100_100,home,46,Fathers,0.44119426277673685
+ClassGen,100_100,home,46,Female candidates,0.29224593946555977
+ClassGen,100_100,home,46,Male candidates,0.3049279074821604
+ClassGen,100_100,home,46,Mothers,0.4139351421578158
+ClassGen,100_100,home,47,Fathers,0.45963367828949925
+ClassGen,100_100,home,47,Female candidates,0.28217182702208105
+ClassGen,100_100,home,47,Male candidates,0.23489303979918896
+ClassGen,100_100,home,47,Mothers,0.4283492597273002
+ClassGen,100_100,home,48,Fathers,0.38764780845340907
+ClassGen,100_100,home,48,Female candidates,0.2706663564322137
+ClassGen,100_100,home,48,Male candidates,0.2286052329079997
+ClassGen,100_100,home,48,Mothers,0.43705088912447926
+ClassGen,100_100,home,49,Fathers,0.2399986269180082
+ClassGen,100_100,home,49,Female candidates,0.2475955151171597
+ClassGen,100_100,home,49,Male candidates,0.3124144684996679
+ClassGen,100_100,home,49,Mothers,0.4570576995230317
+ClassGen,100_100,home,50,Fathers,0.37882666962949
+ClassGen,100_100,home,50,Female candidates,0.2344958642118967
+ClassGen,100_100,home,50,Male candidates,0.3135927058524325
+ClassGen,100_100,home,50,Mothers,0.46921624457108974
+ClassGen,100_100,import,21,Fathers,-0.07318272505093446
+ClassGen,100_100,import,21,Female candidates,0.03933311616034808
+ClassGen,100_100,import,21,Male candidates,0.03847124030561002
+ClassGen,100_100,import,21,Male candidates1,-0.07879778972412073
+ClassGen,100_100,import,21,Mothers,0.1884914529450766
+ClassGen,100_100,import,22,Fathers,-0.03643281017812089
+ClassGen,100_100,import,22,Female candidates,0.08761966654494414
+ClassGen,100_100,import,22,Male candidates,0.22023301924309324
+ClassGen,100_100,import,22,Male candidates1,0.03624787827932
+ClassGen,100_100,import,22,Mothers,0.27146346646010233
+ClassGen,100_100,import,23,Fathers,-0.11673948664794921
+ClassGen,100_100,import,23,Female candidates,0.14627344716450932
+ClassGen,100_100,import,23,Male candidates,0.3237126525606833
+ClassGen,100_100,import,23,Male candidates1,0.08787018467223483
+ClassGen,100_100,import,23,Mothers,0.32852609109190367
+ClassGen,100_100,import,24,Fathers,0.05075692565901577
+ClassGen,100_100,import,24,Female candidates,0.23103802334619794
+ClassGen,100_100,import,24,Male candidates,0.16015950800387446
+ClassGen,100_100,import,24,Male candidates1,-0.0945700340340683
+ClassGen,100_100,import,24,Mothers,0.337912270558776
+ClassGen,100_100,import,25,Fathers,-0.23069426346276384
+ClassGen,100_100,import,25,Female candidates,0.17450027514096125
+ClassGen,100_100,import,25,Male candidates,0.5293524028502384
+ClassGen,100_100,import,25,Male candidates1,0.0811022300849259
+ClassGen,100_100,import,25,Mothers,0.2887390453858835
+ClassGen,100_100,import,26,Fathers,0.05829308464482301
+ClassGen,100_100,import,26,Female candidates,0.10472980364378234
+ClassGen,100_100,import,26,Male candidates,0.14081670421583392
+ClassGen,100_100,import,26,Male candidates1,-0.031735775490938964
+ClassGen,100_100,import,26,Mothers,0.26298253701877256
+ClassGen,100_100,import,27,Fathers,0.02272080302445461
+ClassGen,100_100,import,27,Female candidates,0.06942815311400538
+ClassGen,100_100,import,27,Male candidates,0.1350508970670882
+ClassGen,100_100,import,27,Male candidates1,0.10834417640553556
+ClassGen,100_100,import,27,Mothers,0.21827965568793883
+ClassGen,100_100,import,28,Fathers,-0.12019870257051495
+ClassGen,100_100,import,28,Female candidates,-0.02374791557707069
+ClassGen,100_100,import,28,Male candidates,0.16228944251701574
+ClassGen,100_100,import,28,Male candidates1,-0.06418040608408092
+ClassGen,100_100,import,28,Mothers,0.1429311506756514
+ClassGen,100_100,import,29,Fathers,-0.12507019583078596
+ClassGen,100_100,import,29,Female candidates,-0.028056909464463986
+ClassGen,100_100,import,29,Male candidates,0.05845030865069618
+ClassGen,100_100,import,29,Male candidates1,-0.049128658942814527
+ClassGen,100_100,import,29,Mothers,0.1049629655300555
+ClassGen,100_100,import,30,Fathers,-0.3847108019628472
+ClassGen,100_100,import,30,Female candidates,-0.11326082123009262
+ClassGen,100_100,import,30,Male candidates,0.05678320347160816
+ClassGen,100_100,import,30,Male candidates1,-0.0902528957136858
+ClassGen,100_100,import,30,Mothers,0.05570603889717893
+ClassGen,100_100,import,31,Fathers,0.0867631968017128
+ClassGen,100_100,import,31,Female candidates,-0.14762400237761011
+ClassGen,100_100,import,31,Male candidates,0.4765303820185045
+ClassGen,100_100,import,31,Male candidates1,0.20321777152197493
+ClassGen,100_100,import,31,Mothers,0.05340820046128016
+ClassGen,100_100,import,32,Fathers,0.16038108169941148
+ClassGen,100_100,import,32,Female candidates,-0.04965606855924858
+ClassGen,100_100,import,32,Male candidates,0.5159531299920093
+ClassGen,100_100,import,32,Male candidates1,0.07382325753081052
+ClassGen,100_100,import,32,Mothers,0.05746054614347908
+ClassGen,100_100,import,33,Fathers,0.2685771071829509
+ClassGen,100_100,import,33,Female candidates,-0.08447314343875795
+ClassGen,100_100,import,33,Male candidates,0.5125502834075124
+ClassGen,100_100,import,33,Male candidates1,0.12609460741317374
+ClassGen,100_100,import,33,Mothers,0.05119188010820659
+ClassGen,100_100,import,34,Fathers,0.3690213501662064
+ClassGen,100_100,import,34,Female candidates,-0.033053583279848094
+ClassGen,100_100,import,34,Male candidates,0.48534224544329
+ClassGen,100_100,import,34,Male candidates1,0.3815292852614854
+ClassGen,100_100,import,34,Mothers,0.07880137822251915
+ClassGen,100_100,import,35,Fathers,0.50180360252243
+ClassGen,100_100,import,35,Female candidates,-0.0575421591629637
+ClassGen,100_100,import,35,Male candidates,0.321747295799091
+ClassGen,100_100,import,35,Male candidates1,-0.059569139102078186
+ClassGen,100_100,import,35,Mothers,0.0918923298357339
+ClassGen,100_100,import,36,Fathers,0.44162929111164334
+ClassGen,100_100,import,36,Female candidates,-0.017214488655233815
+ClassGen,100_100,import,36,Male candidates,0.43456912152522403
+ClassGen,100_100,import,36,Male candidates1,0.2486960988917643
+ClassGen,100_100,import,36,Mothers,0.092871389030942
+ClassGen,100_100,import,37,Fathers,0.40220463729392125
+ClassGen,100_100,import,37,Female candidates,0.07125897273975854
+ClassGen,100_100,import,37,Male candidates,0.43605644388551346
+ClassGen,100_100,import,37,Male candidates1,0.2538334685793246
+ClassGen,100_100,import,37,Mothers,0.11951760903084561
+ClassGen,100_100,import,38,Fathers,0.3721874657588977
+ClassGen,100_100,import,38,Female candidates,0.07562990537966235
+ClassGen,100_100,import,38,Male candidates,0.4473936464304573
+ClassGen,100_100,import,38,Male candidates1,0.2391651807140425
+ClassGen,100_100,import,38,Mothers,0.143347314115843
+ClassGen,100_100,import,39,Fathers,0.25772489172480706
+ClassGen,100_100,import,39,Female candidates,0.06140147366319911
+ClassGen,100_100,import,39,Male candidates,0.5324683683550145
+ClassGen,100_100,import,39,Male candidates1,0.04617319139938822
+ClassGen,100_100,import,39,Mothers,0.15292044963918439
+ClassGen,100_100,import,40,Fathers,0.29625809610168896
+ClassGen,100_100,import,40,Female candidates,0.07862434807220886
+ClassGen,100_100,import,40,Male candidates,0.5075779893507256
+ClassGen,100_100,import,40,Male candidates1,0.09114551679585813
+ClassGen,100_100,import,40,Mothers,0.18012739022075638
+ClassGen,100_100,import,41,Fathers,0.4516043427361932
+ClassGen,100_100,import,41,Female candidates,0.16630521957317934
+ClassGen,100_100,import,41,Male candidates,0.10694754534844332
+ClassGen,100_100,import,41,Mothers,0.24766037326231752
+ClassGen,100_100,import,42,Fathers,0.40417784797373585
+ClassGen,100_100,import,42,Female candidates,0.2504435289851757
+ClassGen,100_100,import,42,Male candidates,0.2472517568925792
+ClassGen,100_100,import,42,Mothers,0.2909306731140236
+ClassGen,100_100,import,43,Fathers,0.40240013798966684
+ClassGen,100_100,import,43,Female candidates,0.2483823938898209
+ClassGen,100_100,import,43,Male candidates,0.2286727371269693
+ClassGen,100_100,import,43,Mothers,0.34624567552252056
+ClassGen,100_100,import,44,Fathers,0.4116940909803227
+ClassGen,100_100,import,44,Female candidates,0.2790386518086774
+ClassGen,100_100,import,44,Male candidates,0.3198360976562918
+ClassGen,100_100,import,44,Mothers,0.38136914189552334
+ClassGen,100_100,import,45,Fathers,0.39061477061151606
+ClassGen,100_100,import,45,Female candidates,0.2984473064735461
+ClassGen,100_100,import,45,Male candidates,0.35415027225411105
+ClassGen,100_100,import,45,Mothers,0.4020819942449054
+ClassGen,100_100,import,46,Fathers,0.44119426277673685
+ClassGen,100_100,import,46,Female candidates,0.29224593946555977
+ClassGen,100_100,import,46,Male candidates,0.3049279074821604
+ClassGen,100_100,import,46,Mothers,0.4139351421578158
+ClassGen,100_100,import,47,Fathers,0.45963367828949925
+ClassGen,100_100,import,47,Female candidates,0.28217182702208105
+ClassGen,100_100,import,47,Male candidates,0.23489303979918896
+ClassGen,100_100,import,47,Mothers,0.4283492597273002
+ClassGen,100_100,import,48,Fathers,0.38764780845340907
+ClassGen,100_100,import,48,Female candidates,0.2706663564322137
+ClassGen,100_100,import,48,Male candidates,0.2286052329079997
+ClassGen,100_100,import,48,Mothers,0.43705088912447926
+ClassGen,100_100,import,49,Fathers,0.2399986269180082
+ClassGen,100_100,import,49,Female candidates,0.2475955151171597
+ClassGen,100_100,import,49,Male candidates,0.3124144684996679
+ClassGen,100_100,import,49,Mothers,0.4570576995230317
+ClassGen,100_100,import,50,Fathers,0.37882666962949
+ClassGen,100_100,import,50,Female candidates,0.2344958642118967
+ClassGen,100_100,import,50,Male candidates,0.3135927058524325
+ClassGen,100_100,import,50,Mothers,0.46921624457108974
+ClassGen,10_10,home,21,Fathers,-0.07318272505093446
+ClassGen,10_10,home,21,Female candidates,0.03933311616034808
+ClassGen,10_10,home,21,Male candidates,0.03847124030561002
+ClassGen,10_10,home,21,Male candidates1,-0.07879778972412073
+ClassGen,10_10,home,21,Mothers,0.1884914529450766
+ClassGen,10_10,home,22,Fathers,-0.03643281017812089
+ClassGen,10_10,home,22,Female candidates,0.08761966654494414
+ClassGen,10_10,home,22,Male candidates,0.22023301924309324
+ClassGen,10_10,home,22,Male candidates1,0.03624787827932
+ClassGen,10_10,home,22,Mothers,0.27146346646010233
+ClassGen,10_10,home,23,Fathers,-0.11673948664794921
+ClassGen,10_10,home,23,Female candidates,0.14627344716450932
+ClassGen,10_10,home,23,Male candidates,0.3237126525606833
+ClassGen,10_10,home,23,Male candidates1,0.08787018467223483
+ClassGen,10_10,home,23,Mothers,0.32852609109190367
+ClassGen,10_10,home,24,Fathers,0.05075692565901577
+ClassGen,10_10,home,24,Female candidates,0.23103802334619794
+ClassGen,10_10,home,24,Male candidates,0.16015950800387446
+ClassGen,10_10,home,24,Male candidates1,-0.0945700340340683
+ClassGen,10_10,home,24,Mothers,0.337912270558776
+ClassGen,10_10,home,25,Fathers,-0.23069426346276384
+ClassGen,10_10,home,25,Female candidates,0.17450027514096125
+ClassGen,10_10,home,25,Male candidates,0.5293524028502384
+ClassGen,10_10,home,25,Male candidates1,0.0811022300849259
+ClassGen,10_10,home,25,Mothers,0.2887390453858835
+ClassGen,10_10,home,26,Fathers,0.05829308464482301
+ClassGen,10_10,home,26,Female candidates,0.10472980364378234
+ClassGen,10_10,home,26,Male candidates,0.14081670421583392
+ClassGen,10_10,home,26,Male candidates1,-0.031735775490938964
+ClassGen,10_10,home,26,Mothers,0.26298253701877256
+ClassGen,10_10,home,27,Fathers,0.02272080302445461
+ClassGen,10_10,home,27,Female candidates,0.06942815311400538
+ClassGen,10_10,home,27,Male candidates,0.1350508970670882
+ClassGen,10_10,home,27,Male candidates1,0.10834417640553556
+ClassGen,10_10,home,27,Mothers,0.21827965568793883
+ClassGen,10_10,home,28,Fathers,-0.12019870257051495
+ClassGen,10_10,home,28,Female candidates,-0.02374791557707069
+ClassGen,10_10,home,28,Male candidates,0.16228944251701574
+ClassGen,10_10,home,28,Male candidates1,-0.06418040608408092
+ClassGen,10_10,home,28,Mothers,0.1429311506756514
+ClassGen,10_10,home,29,Fathers,-0.12507019583078596
+ClassGen,10_10,home,29,Female candidates,-0.028056909464463986
+ClassGen,10_10,home,29,Male candidates,0.05845030865069618
+ClassGen,10_10,home,29,Male candidates1,-0.049128658942814527
+ClassGen,10_10,home,29,Mothers,0.1049629655300555
+ClassGen,10_10,home,30,Fathers,-0.3847108019628472
+ClassGen,10_10,home,30,Female candidates,-0.11326082123009262
+ClassGen,10_10,home,30,Male candidates,0.05678320347160816
+ClassGen,10_10,home,30,Male candidates1,-0.0902528957136858
+ClassGen,10_10,home,30,Mothers,0.05570603889717893
+ClassGen,10_10,home,31,Fathers,0.08649024835031392
+ClassGen,10_10,home,31,Female candidates,-0.14835480848340105
+ClassGen,10_10,home,31,Male candidates,0.47814426233496304
+ClassGen,10_10,home,31,Male candidates1,0.424745915399383
+ClassGen,10_10,home,31,Mothers,0.05516160099145891
+ClassGen,10_10,home,32,Fathers,0.1643238025169567
+ClassGen,10_10,home,32,Female candidates,-0.11845131748390166
+ClassGen,10_10,home,32,Male candidates,0.5706488719129555
+ClassGen,10_10,home,32,Male candidates1,0.1808311556684241
+ClassGen,10_10,home,32,Mothers,0.054814887471121204
+ClassGen,10_10,home,33,Fathers,0.2669608288340442
+ClassGen,10_10,home,33,Female candidates,-0.08497613265618048
+ClassGen,10_10,home,33,Male candidates,0.5047871077554967
+ClassGen,10_10,home,33,Male candidates1,0.27576556661959545
+ClassGen,10_10,home,33,Mothers,0.049458891561867446
+ClassGen,10_10,home,34,Fathers,0.45597836796137425
+ClassGen,10_10,home,34,Female candidates,-0.0760958283325625
+ClassGen,10_10,home,34,Male candidates,0.12775621181935745
+ClassGen,10_10,home,34,Male candidates1,0.4919454522975346
+ClassGen,10_10,home,34,Mothers,0.05619481698714901
+ClassGen,10_10,home,35,Fathers,0.18306416841696402
+ClassGen,10_10,home,35,Female candidates,-0.13802505800553228
+ClassGen,10_10,home,35,Male candidates,0.2614814342656024
+ClassGen,10_10,home,35,Male candidates1,0.07556063299472192
+ClassGen,10_10,home,35,Mothers,0.049427616095534414
+ClassGen,10_10,home,36,Fathers,0.12015771176671201
+ClassGen,10_10,home,36,Female candidates,-0.1932327060389301
+ClassGen,10_10,home,36,Male candidates,0.3888060541593723
+ClassGen,10_10,home,36,Male candidates1,0.007959611186840224
+ClassGen,10_10,home,36,Mothers,0.05018399637291479
+ClassGen,10_10,home,37,Fathers,0.18318871375022522
+ClassGen,10_10,home,37,Female candidates,-0.19877211552922744
+ClassGen,10_10,home,37,Male candidates,0.24972079432455313
+ClassGen,10_10,home,37,Male candidates1,-0.04666247292037797
+ClassGen,10_10,home,37,Mothers,0.06369095124040794
+ClassGen,10_10,home,38,Fathers,0.3441857141157606
+ClassGen,10_10,home,38,Female candidates,-0.2022649474883955
+ClassGen,10_10,home,38,Male candidates,0.20331616066821362
+ClassGen,10_10,home,38,Male candidates1,0.1929684414579231
+ClassGen,10_10,home,38,Mothers,0.06373279753453287
+ClassGen,10_10,home,39,Fathers,0.35062141145518
+ClassGen,10_10,home,39,Female candidates,-0.2573770017300636
+ClassGen,10_10,home,39,Male candidates,-0.2738599535970892
+ClassGen,10_10,home,39,Male candidates1,0.21173714728703247
+ClassGen,10_10,home,39,Mothers,0.05335294139632803
+ClassGen,10_10,home,40,Fathers,0.2663470898571665
+ClassGen,10_10,home,40,Female candidates,-0.1987584662003995
+ClassGen,10_10,home,40,Male candidates,0.21099684471021588
+ClassGen,10_10,home,40,Male candidates1,0.19309173749898487
+ClassGen,10_10,home,40,Mothers,0.04967124243821404
+ClassGen,10_10,home,41,Fathers,0.019854766361606005
+ClassGen,10_10,home,41,Female candidates,-0.04919829828893222
+ClassGen,10_10,home,41,Male candidates,-0.18451915561820773
+ClassGen,10_10,home,41,Mothers,0.09361394841018485
+ClassGen,10_10,home,42,Fathers,-0.03369935897698611
+ClassGen,10_10,home,42,Female candidates,-0.2000592430485477
+ClassGen,10_10,home,42,Male candidates,-0.03269715223691231
+ClassGen,10_10,home,42,Mothers,0.11109027248546552
+ClassGen,10_10,home,43,Fathers,-0.03526824631016414
+ClassGen,10_10,home,43,Female candidates,-0.057536373556377675
+ClassGen,10_10,home,43,Male candidates,-0.07167945322552376
+ClassGen,10_10,home,43,Mothers,0.17887408491428247
+ClassGen,10_10,home,44,Fathers,-0.22135684103281647
+ClassGen,10_10,home,44,Female candidates,0.09325229997757743
+ClassGen,10_10,home,44,Male candidates,0.10188674523192423
+ClassGen,10_10,home,44,Mothers,0.23159930174239585
+ClassGen,10_10,home,45,Fathers,-0.19172262768094256
+ClassGen,10_10,home,45,Female candidates,0.08965831971176537
+ClassGen,10_10,home,45,Male candidates,0.08314948687640593
+ClassGen,10_10,home,45,Mothers,0.2765414943865656
+ClassGen,10_10,home,46,Fathers,-0.29119078213251176
+ClassGen,10_10,home,46,Female candidates,0.03929951664064971
+ClassGen,10_10,home,46,Male candidates,0.06534269097933873
+ClassGen,10_10,home,46,Mothers,0.2866452114814934
+ClassGen,10_10,home,47,Fathers,-0.3599027493295156
+ClassGen,10_10,home,47,Female candidates,0.01283926421291068
+ClassGen,10_10,home,47,Male candidates,-0.008639457730960445
+ClassGen,10_10,home,47,Mothers,0.2686169648183963
+ClassGen,10_10,home,48,Fathers,-0.2743629549203206
+ClassGen,10_10,home,48,Female candidates,0.034222865443951825
+ClassGen,10_10,home,48,Male candidates,-0.06480112637781288
+ClassGen,10_10,home,48,Mothers,0.2398235705726959
+ClassGen,10_10,home,49,Fathers,-0.2976723606675068
+ClassGen,10_10,home,49,Female candidates,0.01119212759713947
+ClassGen,10_10,home,49,Male candidates,0.056354584054665424
+ClassGen,10_10,home,49,Mothers,0.22980986453388896
+ClassGen,10_10,home,50,Fathers,-0.35720865643074406
+ClassGen,10_10,home,50,Female candidates,-0.0643449980071279
+ClassGen,10_10,home,50,Male candidates,-0.06629528778110208
+ClassGen,10_10,home,50,Mothers,0.1955901509121921
+ClassGen,10_10,import,21,Fathers,-0.07318272505093446
+ClassGen,10_10,import,21,Female candidates,0.03933311616034808
+ClassGen,10_10,import,21,Male candidates,0.03847124030561002
+ClassGen,10_10,import,21,Male candidates1,-0.07879778972412073
+ClassGen,10_10,import,21,Mothers,0.1884914529450766
+ClassGen,10_10,import,22,Fathers,-0.03643281017812089
+ClassGen,10_10,import,22,Female candidates,0.08761966654494414
+ClassGen,10_10,import,22,Male candidates,0.22023301924309324
+ClassGen,10_10,import,22,Male candidates1,0.03624787827932
+ClassGen,10_10,import,22,Mothers,0.27146346646010233
+ClassGen,10_10,import,23,Fathers,-0.11673948664794921
+ClassGen,10_10,import,23,Female candidates,0.14627344716450932
+ClassGen,10_10,import,23,Male candidates,0.3237126525606833
+ClassGen,10_10,import,23,Male candidates1,0.08787018467223483
+ClassGen,10_10,import,23,Mothers,0.32852609109190367
+ClassGen,10_10,import,24,Fathers,0.05075692565901577
+ClassGen,10_10,import,24,Female candidates,0.23103802334619794
+ClassGen,10_10,import,24,Male candidates,0.16015950800387446
+ClassGen,10_10,import,24,Male candidates1,-0.0945700340340683
+ClassGen,10_10,import,24,Mothers,0.337912270558776
+ClassGen,10_10,import,25,Fathers,-0.23069426346276384
+ClassGen,10_10,import,25,Female candidates,0.17450027514096125
+ClassGen,10_10,import,25,Male candidates,0.5293524028502384
+ClassGen,10_10,import,25,Male candidates1,0.0811022300849259
+ClassGen,10_10,import,25,Mothers,0.2887390453858835
+ClassGen,10_10,import,26,Fathers,0.05829308464482301
+ClassGen,10_10,import,26,Female candidates,0.10472980364378234
+ClassGen,10_10,import,26,Male candidates,0.14081670421583392
+ClassGen,10_10,import,26,Male candidates1,-0.031735775490938964
+ClassGen,10_10,import,26,Mothers,0.26298253701877256
+ClassGen,10_10,import,27,Fathers,0.02272080302445461
+ClassGen,10_10,import,27,Female candidates,0.06942815311400538
+ClassGen,10_10,import,27,Male candidates,0.1350508970670882
+ClassGen,10_10,import,27,Male candidates1,0.10834417640553556
+ClassGen,10_10,import,27,Mothers,0.21827965568793883
+ClassGen,10_10,import,28,Fathers,-0.12019870257051495
+ClassGen,10_10,import,28,Female candidates,-0.02374791557707069
+ClassGen,10_10,import,28,Male candidates,0.16228944251701574
+ClassGen,10_10,import,28,Male candidates1,-0.06418040608408092
+ClassGen,10_10,import,28,Mothers,0.1429311506756514
+ClassGen,10_10,import,29,Fathers,-0.12507019583078596
+ClassGen,10_10,import,29,Female candidates,-0.028056909464463986
+ClassGen,10_10,import,29,Male candidates,0.05845030865069618
+ClassGen,10_10,import,29,Male candidates1,-0.049128658942814527
+ClassGen,10_10,import,29,Mothers,0.1049629655300555
+ClassGen,10_10,import,30,Fathers,-0.3847108019628472
+ClassGen,10_10,import,30,Female candidates,-0.11326082123009262
+ClassGen,10_10,import,30,Male candidates,0.05678320347160816
+ClassGen,10_10,import,30,Male candidates1,-0.0902528957136858
+ClassGen,10_10,import,30,Mothers,0.05570603889717893
+ClassGen,10_10,import,31,Fathers,0.08649024835031392
+ClassGen,10_10,import,31,Female candidates,-0.14835480848340105
+ClassGen,10_10,import,31,Male candidates,0.47814426233496304
+ClassGen,10_10,import,31,Male candidates1,0.424745915399383
+ClassGen,10_10,import,31,Mothers,0.05516160099145891
+ClassGen,10_10,import,32,Fathers,0.1643238025169567
+ClassGen,10_10,import,32,Female candidates,-0.11845131748390166
+ClassGen,10_10,import,32,Male candidates,0.5706488719129555
+ClassGen,10_10,import,32,Male candidates1,0.1808311556684241
+ClassGen,10_10,import,32,Mothers,0.054814887471121204
+ClassGen,10_10,import,33,Fathers,0.2669608288340442
+ClassGen,10_10,import,33,Female candidates,-0.08497613265618048
+ClassGen,10_10,import,33,Male candidates,0.5047871077554967
+ClassGen,10_10,import,33,Male candidates1,0.27576556661959545
+ClassGen,10_10,import,33,Mothers,0.049458891561867446
+ClassGen,10_10,import,34,Fathers,0.45597836796137425
+ClassGen,10_10,import,34,Female candidates,-0.0760958283325625
+ClassGen,10_10,import,34,Male candidates,0.12775621181935745
+ClassGen,10_10,import,34,Male candidates1,0.4919454522975346
+ClassGen,10_10,import,34,Mothers,0.05619481698714901
+ClassGen,10_10,import,35,Fathers,0.18306416841696402
+ClassGen,10_10,import,35,Female candidates,-0.13802505800553228
+ClassGen,10_10,import,35,Male candidates,0.2614814342656024
+ClassGen,10_10,import,35,Male candidates1,0.07556063299472192
+ClassGen,10_10,import,35,Mothers,0.049427616095534414
+ClassGen,10_10,import,36,Fathers,0.12015771176671201
+ClassGen,10_10,import,36,Female candidates,-0.1932327060389301
+ClassGen,10_10,import,36,Male candidates,0.3888060541593723
+ClassGen,10_10,import,36,Male candidates1,0.007959611186840224
+ClassGen,10_10,import,36,Mothers,0.05018399637291479
+ClassGen,10_10,import,37,Fathers,0.18318871375022522
+ClassGen,10_10,import,37,Female candidates,-0.19877211552922744
+ClassGen,10_10,import,37,Male candidates,0.24972079432455313
+ClassGen,10_10,import,37,Male candidates1,-0.04666247292037797
+ClassGen,10_10,import,37,Mothers,0.06369095124040794
+ClassGen,10_10,import,38,Fathers,0.3441857141157606
+ClassGen,10_10,import,38,Female candidates,-0.2022649474883955
+ClassGen,10_10,import,38,Male candidates,0.20331616066821362
+ClassGen,10_10,import,38,Male candidates1,0.1929684414579231
+ClassGen,10_10,import,38,Mothers,0.06373279753453287
+ClassGen,10_10,import,39,Fathers,0.35062141145518
+ClassGen,10_10,import,39,Female candidates,-0.2573770017300636
+ClassGen,10_10,import,39,Male candidates,-0.2738599535970892
+ClassGen,10_10,import,39,Male candidates1,0.21173714728703247
+ClassGen,10_10,import,39,Mothers,0.05335294139632803
+ClassGen,10_10,import,40,Fathers,0.2663470898571665
+ClassGen,10_10,import,40,Female candidates,-0.1987584662003995
+ClassGen,10_10,import,40,Male candidates,0.21099684471021588
+ClassGen,10_10,import,40,Male candidates1,0.19309173749898487
+ClassGen,10_10,import,40,Mothers,0.04967124243821404
+ClassGen,10_10,import,41,Fathers,0.019854766361606005
+ClassGen,10_10,import,41,Female candidates,-0.04919829828893222
+ClassGen,10_10,import,41,Male candidates,-0.18451915561820773
+ClassGen,10_10,import,41,Mothers,0.09361394841018485
+ClassGen,10_10,import,42,Fathers,-0.03369935897698611
+ClassGen,10_10,import,42,Female candidates,-0.2000592430485477
+ClassGen,10_10,import,42,Male candidates,-0.03269715223691231
+ClassGen,10_10,import,42,Mothers,0.11109027248546552
+ClassGen,10_10,import,43,Fathers,-0.03526824631016414
+ClassGen,10_10,import,43,Female candidates,-0.057536373556377675
+ClassGen,10_10,import,43,Male candidates,-0.07167945322552376
+ClassGen,10_10,import,43,Mothers,0.17887408491428247
+ClassGen,10_10,import,44,Fathers,-0.22135684103281647
+ClassGen,10_10,import,44,Female candidates,0.09325229997757743
+ClassGen,10_10,import,44,Male candidates,0.10188674523192423
+ClassGen,10_10,import,44,Mothers,0.23159930174239585
+ClassGen,10_10,import,45,Fathers,-0.19172262768094256
+ClassGen,10_10,import,45,Female candidates,0.08965831971176537
+ClassGen,10_10,import,45,Male candidates,0.08314948687640593
+ClassGen,10_10,import,45,Mothers,0.2765414943865656
+ClassGen,10_10,import,46,Fathers,-0.29119078213251176
+ClassGen,10_10,import,46,Female candidates,0.03929951664064971
+ClassGen,10_10,import,46,Male candidates,0.06534269097933873
+ClassGen,10_10,import,46,Mothers,0.2866452114814934
+ClassGen,10_10,import,47,Fathers,-0.3599027493295156
+ClassGen,10_10,import,47,Female candidates,0.01283926421291068
+ClassGen,10_10,import,47,Male candidates,-0.008639457730960445
+ClassGen,10_10,import,47,Mothers,0.2686169648183963
+ClassGen,10_10,import,48,Fathers,-0.2743629549203206
+ClassGen,10_10,import,48,Female candidates,0.034222865443951825
+ClassGen,10_10,import,48,Male candidates,-0.06480112637781288
+ClassGen,10_10,import,48,Mothers,0.2398235705726959
+ClassGen,10_10,import,49,Fathers,-0.2976723606675068
+ClassGen,10_10,import,49,Female candidates,0.01119212759713947
+ClassGen,10_10,import,49,Male candidates,0.056354584054665424
+ClassGen,10_10,import,49,Mothers,0.22980986453388896
+ClassGen,10_10,import,50,Fathers,-0.35720865643074406
+ClassGen,10_10,import,50,Female candidates,-0.0643449980071279
+ClassGen,10_10,import,50,Male candidates,-0.06629528778110208
+ClassGen,10_10,import,50,Mothers,0.1955901509121921
+ClassGen,50_50,home,21,Fathers,-0.07318272505093446
+ClassGen,50_50,home,21,Female candidates,0.03933311616034808
+ClassGen,50_50,home,21,Male candidates,0.03847124030561002
+ClassGen,50_50,home,21,Male candidates1,-0.07879778972412073
+ClassGen,50_50,home,21,Mothers,0.1884914529450766
+ClassGen,50_50,home,22,Fathers,-0.03643281017812089
+ClassGen,50_50,home,22,Female candidates,0.08761966654494414
+ClassGen,50_50,home,22,Male candidates,0.22023301924309324
+ClassGen,50_50,home,22,Male candidates1,0.03624787827932
+ClassGen,50_50,home,22,Mothers,0.27146346646010233
+ClassGen,50_50,home,23,Fathers,-0.11673948664794921
+ClassGen,50_50,home,23,Female candidates,0.14627344716450932
+ClassGen,50_50,home,23,Male candidates,0.3237126525606833
+ClassGen,50_50,home,23,Male candidates1,0.08787018467223483
+ClassGen,50_50,home,23,Mothers,0.32852609109190367
+ClassGen,50_50,home,24,Fathers,0.05075692565901577
+ClassGen,50_50,home,24,Female candidates,0.23103802334619794
+ClassGen,50_50,home,24,Male candidates,0.16015950800387446
+ClassGen,50_50,home,24,Male candidates1,-0.0945700340340683
+ClassGen,50_50,home,24,Mothers,0.337912270558776
+ClassGen,50_50,home,25,Fathers,-0.23069426346276384
+ClassGen,50_50,home,25,Female candidates,0.17450027514096125
+ClassGen,50_50,home,25,Male candidates,0.5293524028502384
+ClassGen,50_50,home,25,Male candidates1,0.0811022300849259
+ClassGen,50_50,home,25,Mothers,0.2887390453858835
+ClassGen,50_50,home,26,Fathers,0.05829308464482301
+ClassGen,50_50,home,26,Female candidates,0.10472980364378234
+ClassGen,50_50,home,26,Male candidates,0.14081670421583392
+ClassGen,50_50,home,26,Male candidates1,-0.031735775490938964
+ClassGen,50_50,home,26,Mothers,0.26298253701877256
+ClassGen,50_50,home,27,Fathers,0.02272080302445461
+ClassGen,50_50,home,27,Female candidates,0.06942815311400538
+ClassGen,50_50,home,27,Male candidates,0.1350508970670882
+ClassGen,50_50,home,27,Male candidates1,0.10834417640553556
+ClassGen,50_50,home,27,Mothers,0.21827965568793883
+ClassGen,50_50,home,28,Fathers,-0.12019870257051495
+ClassGen,50_50,home,28,Female candidates,-0.02374791557707069
+ClassGen,50_50,home,28,Male candidates,0.16228944251701574
+ClassGen,50_50,home,28,Male candidates1,-0.06418040608408092
+ClassGen,50_50,home,28,Mothers,0.1429311506756514
+ClassGen,50_50,home,29,Fathers,-0.12507019583078596
+ClassGen,50_50,home,29,Female candidates,-0.028056909464463986
+ClassGen,50_50,home,29,Male candidates,0.05845030865069618
+ClassGen,50_50,home,29,Male candidates1,-0.049128658942814527
+ClassGen,50_50,home,29,Mothers,0.1049629655300555
+ClassGen,50_50,home,30,Fathers,-0.3847108019628472
+ClassGen,50_50,home,30,Female candidates,-0.11326082123009262
+ClassGen,50_50,home,30,Male candidates,0.05678320347160816
+ClassGen,50_50,home,30,Male candidates1,-0.0902528957136858
+ClassGen,50_50,home,30,Mothers,0.05570603889717893
+ClassGen,50_50,home,31,Fathers,0.09028109286630354
+ClassGen,50_50,home,31,Female candidates,-0.1481376194051804
+ClassGen,50_50,home,31,Male candidates,0.4760365563706534
+ClassGen,50_50,home,31,Male candidates1,0.30435188416884684
+ClassGen,50_50,home,31,Mothers,0.05339579770102699
+ClassGen,50_50,home,32,Fathers,0.1851380666772628
+ClassGen,50_50,home,32,Female candidates,-0.0863577643007692
+ClassGen,50_50,home,32,Male candidates,0.5472017383574929
+ClassGen,50_50,home,32,Male candidates1,-0.10524201692757344
+ClassGen,50_50,home,32,Mothers,0.06092778262363594
+ClassGen,50_50,home,33,Fathers,0.24113865676780014
+ClassGen,50_50,home,33,Female candidates,-0.0250539704812308
+ClassGen,50_50,home,33,Male candidates,0.48237011274876784
+ClassGen,50_50,home,33,Male candidates1,0.1999375290694856
+ClassGen,50_50,home,33,Mothers,0.0517449387122185
+ClassGen,50_50,home,34,Fathers,0.49718254654255717
+ClassGen,50_50,home,34,Female candidates,0.022247131561352367
+ClassGen,50_50,home,34,Male candidates,0.08964981037786192
+ClassGen,50_50,home,34,Male candidates1,0.2851484083443245
+ClassGen,50_50,home,34,Mothers,0.09068803787937714
+ClassGen,50_50,home,35,Fathers,0.3637857328147672
+ClassGen,50_50,home,35,Female candidates,-0.002719382668205403
+ClassGen,50_50,home,35,Male candidates,0.30240012011813994
+ClassGen,50_50,home,35,Male candidates1,-0.046758304317948834
+ClassGen,50_50,home,35,Mothers,0.12032784360497006
+ClassGen,50_50,home,36,Fathers,0.3639764083879682
+ClassGen,50_50,home,36,Female candidates,-0.034286330694085376
+ClassGen,50_50,home,36,Male candidates,0.0791985240636965
+ClassGen,50_50,home,36,Male candidates1,0.08115103952245134
+ClassGen,50_50,home,36,Mothers,0.14413055202681085
+ClassGen,50_50,home,37,Fathers,0.2536267565065067
+ClassGen,50_50,home,37,Female candidates,-0.06198087459794281
+ClassGen,50_50,home,37,Male candidates,0.3918671051557771
+ClassGen,50_50,home,37,Male candidates1,0.07340730487817247
+ClassGen,50_50,home,37,Mothers,0.17679464224518798
+ClassGen,50_50,home,38,Fathers,0.31409778009942135
+ClassGen,50_50,home,38,Female candidates,-0.08613450416678667
+ClassGen,50_50,home,38,Male candidates,0.272252764282752
+ClassGen,50_50,home,38,Male candidates1,0.00843484955346419
+ClassGen,50_50,home,38,Mothers,0.19014142108676538
+ClassGen,50_50,home,39,Fathers,0.29632509860724554
+ClassGen,50_50,home,39,Female candidates,-0.04022128036868137
+ClassGen,50_50,home,39,Male candidates,0.3944752734910291
+ClassGen,50_50,home,39,Male candidates1,0.2120688093122795
+ClassGen,50_50,home,39,Mothers,0.18198874060331238
+ClassGen,50_50,home,40,Fathers,0.31282763454677215
+ClassGen,50_50,home,40,Female candidates,0.03360440996089261
+ClassGen,50_50,home,40,Male candidates,0.5163281468137105
+ClassGen,50_50,home,40,Male candidates1,0.3591168056920783
+ClassGen,50_50,home,40,Mothers,0.16336901418841054
+ClassGen,50_50,home,41,Fathers,0.19404394107508843
+ClassGen,50_50,home,41,Female candidates,0.13499172165396114
+ClassGen,50_50,home,41,Male candidates,-0.02023563476599111
+ClassGen,50_50,home,41,Mothers,0.208329772127287
+ClassGen,50_50,home,42,Fathers,0.12720090649115368
+ClassGen,50_50,home,42,Female candidates,0.060662860341228426
+ClassGen,50_50,home,42,Male candidates,0.11955663132388465
+ClassGen,50_50,home,42,Mothers,0.23765060006403763
+ClassGen,50_50,home,43,Fathers,0.16395763172507882
+ClassGen,50_50,home,43,Female candidates,0.09729476825321204
+ClassGen,50_50,home,43,Male candidates,0.1375627918566954
+ClassGen,50_50,home,43,Mothers,0.2549604254211129
+ClassGen,50_50,home,44,Fathers,0.1324560464122908
+ClassGen,50_50,home,44,Female candidates,0.2253985476061495
+ClassGen,50_50,home,44,Male candidates,0.19890360186477068
+ClassGen,50_50,home,44,Mothers,0.320312543666729
+ClassGen,50_50,home,45,Fathers,0.299677575332342
+ClassGen,50_50,home,45,Female candidates,0.27777707363452364
+ClassGen,50_50,home,45,Male candidates,0.13431447029382534
+ClassGen,50_50,home,45,Mothers,0.3575895345023935
+ClassGen,50_50,home,46,Fathers,0.25231560536892106
+ClassGen,50_50,home,46,Female candidates,0.2639787124309458
+ClassGen,50_50,home,46,Male candidates,0.3128626471578628
+ClassGen,50_50,home,46,Mothers,0.38683093237787664
+ClassGen,50_50,home,47,Fathers,0.23054885264918729
+ClassGen,50_50,home,47,Female candidates,0.22220700292910592
+ClassGen,50_50,home,47,Male candidates,0.2252555310727744
+ClassGen,50_50,home,47,Mothers,0.4006187223090724
+ClassGen,50_50,home,48,Fathers,0.19220745017152946
+ClassGen,50_50,home,48,Female candidates,0.14495479953702145
+ClassGen,50_50,home,48,Male candidates,0.15722093273605262
+ClassGen,50_50,home,48,Mothers,0.3940685631287541
+ClassGen,50_50,home,49,Fathers,0.22392281387380392
+ClassGen,50_50,home,49,Female candidates,0.20689184567695074
+ClassGen,50_50,home,49,Male candidates,0.22032722622230347
+ClassGen,50_50,home,49,Mothers,0.3891934106315389
+ClassGen,50_50,home,50,Fathers,0.3645135037614752
+ClassGen,50_50,home,50,Female candidates,0.23474077628528794
+ClassGen,50_50,home,50,Male candidates,0.3281486590141261
+ClassGen,50_50,home,50,Mothers,0.3809316753195777
+ClassGen,50_50,import,21,Fathers,-0.07318272505093446
+ClassGen,50_50,import,21,Female candidates,0.03933311616034808
+ClassGen,50_50,import,21,Male candidates,0.03847124030561002
+ClassGen,50_50,import,21,Male candidates1,-0.07879778972412073
+ClassGen,50_50,import,21,Mothers,0.1884914529450766
+ClassGen,50_50,import,22,Fathers,-0.03643281017812089
+ClassGen,50_50,import,22,Female candidates,0.08761966654494414
+ClassGen,50_50,import,22,Male candidates,0.22023301924309324
+ClassGen,50_50,import,22,Male candidates1,0.03624787827932
+ClassGen,50_50,import,22,Mothers,0.27146346646010233
+ClassGen,50_50,import,23,Fathers,-0.11673948664794921
+ClassGen,50_50,import,23,Female candidates,0.14627344716450932
+ClassGen,50_50,import,23,Male candidates,0.3237126525606833
+ClassGen,50_50,import,23,Male candidates1,0.08787018467223483
+ClassGen,50_50,import,23,Mothers,0.32852609109190367
+ClassGen,50_50,import,24,Fathers,0.05075692565901577
+ClassGen,50_50,import,24,Female candidates,0.23103802334619794
+ClassGen,50_50,import,24,Male candidates,0.16015950800387446
+ClassGen,50_50,import,24,Male candidates1,-0.0945700340340683
+ClassGen,50_50,import,24,Mothers,0.337912270558776
+ClassGen,50_50,import,25,Fathers,-0.23069426346276384
+ClassGen,50_50,import,25,Female candidates,0.17450027514096125
+ClassGen,50_50,import,25,Male candidates,0.5293524028502384
+ClassGen,50_50,import,25,Male candidates1,0.0811022300849259
+ClassGen,50_50,import,25,Mothers,0.2887390453858835
+ClassGen,50_50,import,26,Fathers,0.05829308464482301
+ClassGen,50_50,import,26,Female candidates,0.10472980364378234
+ClassGen,50_50,import,26,Male candidates,0.14081670421583392
+ClassGen,50_50,import,26,Male candidates1,-0.031735775490938964
+ClassGen,50_50,import,26,Mothers,0.26298253701877256
+ClassGen,50_50,import,27,Fathers,0.02272080302445461
+ClassGen,50_50,import,27,Female candidates,0.06942815311400538
+ClassGen,50_50,import,27,Male candidates,0.1350508970670882
+ClassGen,50_50,import,27,Male candidates1,0.10834417640553556
+ClassGen,50_50,import,27,Mothers,0.21827965568793883
+ClassGen,50_50,import,28,Fathers,-0.12019870257051495
+ClassGen,50_50,import,28,Female candidates,-0.02374791557707069
+ClassGen,50_50,import,28,Male candidates,0.16228944251701574
+ClassGen,50_50,import,28,Male candidates1,-0.06418040608408092
+ClassGen,50_50,import,28,Mothers,0.1429311506756514
+ClassGen,50_50,import,29,Fathers,-0.12507019583078596
+ClassGen,50_50,import,29,Female candidates,-0.028056909464463986
+ClassGen,50_50,import,29,Male candidates,0.05845030865069618
+ClassGen,50_50,import,29,Male candidates1,-0.049128658942814527
+ClassGen,50_50,import,29,Mothers,0.1049629655300555
+ClassGen,50_50,import,30,Fathers,-0.3847108019628472
+ClassGen,50_50,import,30,Female candidates,-0.11326082123009262
+ClassGen,50_50,import,30,Male candidates,0.05678320347160816
+ClassGen,50_50,import,30,Male candidates1,-0.0902528957136858
+ClassGen,50_50,import,30,Mothers,0.05570603889717893
+ClassGen,50_50,import,31,Fathers,0.09028109286630354
+ClassGen,50_50,import,31,Female candidates,-0.1481376194051804
+ClassGen,50_50,import,31,Male candidates,0.4760365563706534
+ClassGen,50_50,import,31,Male candidates1,0.30435188416884684
+ClassGen,50_50,import,31,Mothers,0.05339579770102699
+ClassGen,50_50,import,32,Fathers,0.1851380666772628
+ClassGen,50_50,import,32,Female candidates,-0.0863577643007692
+ClassGen,50_50,import,32,Male candidates,0.5472017383574929
+ClassGen,50_50,import,32,Male candidates1,-0.10524201692757344
+ClassGen,50_50,import,32,Mothers,0.06092778262363594
+ClassGen,50_50,import,33,Fathers,0.24113865676780014
+ClassGen,50_50,import,33,Female candidates,-0.0250539704812308
+ClassGen,50_50,import,33,Male candidates,0.48237011274876784
+ClassGen,50_50,import,33,Male candidates1,0.1999375290694856
+ClassGen,50_50,import,33,Mothers,0.0517449387122185
+ClassGen,50_50,import,34,Fathers,0.49718254654255717
+ClassGen,50_50,import,34,Female candidates,0.022247131561352367
+ClassGen,50_50,import,34,Male candidates,0.08964981037786192
+ClassGen,50_50,import,34,Male candidates1,0.2851484083443245
+ClassGen,50_50,import,34,Mothers,0.09068803787937714
+ClassGen,50_50,import,35,Fathers,0.3637857328147672
+ClassGen,50_50,import,35,Female candidates,-0.002719382668205403
+ClassGen,50_50,import,35,Male candidates,0.30240012011813994
+ClassGen,50_50,import,35,Male candidates1,-0.046758304317948834
+ClassGen,50_50,import,35,Mothers,0.12032784360497006
+ClassGen,50_50,import,36,Fathers,0.3639764083879682
+ClassGen,50_50,import,36,Female candidates,-0.034286330694085376
+ClassGen,50_50,import,36,Male candidates,0.0791985240636965
+ClassGen,50_50,import,36,Male candidates1,0.08115103952245134
+ClassGen,50_50,import,36,Mothers,0.14413055202681085
+ClassGen,50_50,import,37,Fathers,0.2536267565065067
+ClassGen,50_50,import,37,Female candidates,-0.06198087459794281
+ClassGen,50_50,import,37,Male candidates,0.3918671051557771
+ClassGen,50_50,import,37,Male candidates1,0.07340730487817247
+ClassGen,50_50,import,37,Mothers,0.17679464224518798
+ClassGen,50_50,import,38,Fathers,0.31409778009942135
+ClassGen,50_50,import,38,Female candidates,-0.08613450416678667
+ClassGen,50_50,import,38,Male candidates,0.272252764282752
+ClassGen,50_50,import,38,Male candidates1,0.00843484955346419
+ClassGen,50_50,import,38,Mothers,0.19014142108676538
+ClassGen,50_50,import,39,Fathers,0.29632509860724554
+ClassGen,50_50,import,39,Female candidates,-0.04022128036868137
+ClassGen,50_50,import,39,Male candidates,0.3944752734910291
+ClassGen,50_50,import,39,Male candidates1,0.2120688093122795
+ClassGen,50_50,import,39,Mothers,0.18198874060331238
+ClassGen,50_50,import,40,Fathers,0.31282763454677215
+ClassGen,50_50,import,40,Female candidates,0.03360440996089261
+ClassGen,50_50,import,40,Male candidates,0.5163281468137105
+ClassGen,50_50,import,40,Male candidates1,0.3591168056920783
+ClassGen,50_50,import,40,Mothers,0.16336901418841054
+ClassGen,50_50,import,41,Fathers,0.19404394107508843
+ClassGen,50_50,import,41,Female candidates,0.13499172165396114
+ClassGen,50_50,import,41,Male candidates,-0.02023563476599111
+ClassGen,50_50,import,41,Mothers,0.208329772127287
+ClassGen,50_50,import,42,Fathers,0.12720090649115368
+ClassGen,50_50,import,42,Female candidates,0.060662860341228426
+ClassGen,50_50,import,42,Male candidates,0.11955663132388465
+ClassGen,50_50,import,42,Mothers,0.23765060006403763
+ClassGen,50_50,import,43,Fathers,0.16395763172507882
+ClassGen,50_50,import,43,Female candidates,0.09729476825321204
+ClassGen,50_50,import,43,Male candidates,0.1375627918566954
+ClassGen,50_50,import,43,Mothers,0.2549604254211129
+ClassGen,50_50,import,44,Fathers,0.1324560464122908
+ClassGen,50_50,import,44,Female candidates,0.2253985476061495
+ClassGen,50_50,import,44,Male candidates,0.19890360186477068
+ClassGen,50_50,import,44,Mothers,0.320312543666729
+ClassGen,50_50,import,45,Fathers,0.299677575332342
+ClassGen,50_50,import,45,Female candidates,0.27777707363452364
+ClassGen,50_50,import,45,Male candidates,0.13431447029382534
+ClassGen,50_50,import,45,Mothers,0.3575895345023935
+ClassGen,50_50,import,46,Fathers,0.25231560536892106
+ClassGen,50_50,import,46,Female candidates,0.2639787124309458
+ClassGen,50_50,import,46,Male candidates,0.3128626471578628
+ClassGen,50_50,import,46,Mothers,0.38683093237787664
+ClassGen,50_50,import,47,Fathers,0.23054885264918729
+ClassGen,50_50,import,47,Female candidates,0.22220700292910592
+ClassGen,50_50,import,47,Male candidates,0.2252555310727744
+ClassGen,50_50,import,47,Mothers,0.4006187223090724
+ClassGen,50_50,import,48,Fathers,0.19220745017152946
+ClassGen,50_50,import,48,Female candidates,0.14495479953702145
+ClassGen,50_50,import,48,Male candidates,0.15722093273605262
+ClassGen,50_50,import,48,Mothers,0.3940685631287541
+ClassGen,50_50,import,49,Fathers,0.22392281387380392
+ClassGen,50_50,import,49,Female candidates,0.20689184567695074
+ClassGen,50_50,import,49,Male candidates,0.22032722622230347
+ClassGen,50_50,import,49,Mothers,0.3891934106315389
+ClassGen,50_50,import,50,Fathers,0.3645135037614752
+ClassGen,50_50,import,50,Female candidates,0.23474077628528794
+ClassGen,50_50,import,50,Male candidates,0.3281486590141261
+ClassGen,50_50,import,50,Mothers,0.3809316753195777
+GenGen,0_100,home,21,Fathers,-0.07318272505093446
+GenGen,0_100,home,21,Female candidates,0.03933311616034808
+GenGen,0_100,home,21,Male candidates,0.03847124030561002
+GenGen,0_100,home,21,Male candidates1,-0.07879778972412073
+GenGen,0_100,home,21,Mothers,0.1884914529450766
+GenGen,0_100,home,22,Fathers,-0.03643281017812089
+GenGen,0_100,home,22,Female candidates,0.08761966654494414
+GenGen,0_100,home,22,Male candidates,0.22023301924309324
+GenGen,0_100,home,22,Male candidates1,0.03624787827932
+GenGen,0_100,home,22,Mothers,0.27146346646010233
+GenGen,0_100,home,23,Fathers,-0.11673948664794921
+GenGen,0_100,home,23,Female candidates,0.14627344716450932
+GenGen,0_100,home,23,Male candidates,0.3237126525606833
+GenGen,0_100,home,23,Male candidates1,0.08787018467223483
+GenGen,0_100,home,23,Mothers,0.32852609109190367
+GenGen,0_100,home,24,Fathers,0.05075692565901577
+GenGen,0_100,home,24,Female candidates,0.23103802334619794
+GenGen,0_100,home,24,Male candidates,0.16015950800387446
+GenGen,0_100,home,24,Male candidates1,-0.0945700340340683
+GenGen,0_100,home,24,Mothers,0.337912270558776
+GenGen,0_100,home,25,Fathers,-0.23069426346276384
+GenGen,0_100,home,25,Female candidates,0.17450027514096125
+GenGen,0_100,home,25,Male candidates,0.5293524028502384
+GenGen,0_100,home,25,Male candidates1,0.0811022300849259
+GenGen,0_100,home,25,Mothers,0.2887390453858835
+GenGen,0_100,home,26,Fathers,0.05829308464482301
+GenGen,0_100,home,26,Female candidates,0.10472980364378234
+GenGen,0_100,home,26,Male candidates,0.14081670421583392
+GenGen,0_100,home,26,Male candidates1,-0.031735775490938964
+GenGen,0_100,home,26,Mothers,0.26298253701877256
+GenGen,0_100,home,27,Fathers,0.02272080302445461
+GenGen,0_100,home,27,Female candidates,0.06942815311400538
+GenGen,0_100,home,27,Male candidates,0.1350508970670882
+GenGen,0_100,home,27,Male candidates1,0.10834417640553556
+GenGen,0_100,home,27,Mothers,0.21827965568793883
+GenGen,0_100,home,28,Fathers,-0.12019870257051495
+GenGen,0_100,home,28,Female candidates,-0.02374791557707069
+GenGen,0_100,home,28,Male candidates,0.16228944251701574
+GenGen,0_100,home,28,Male candidates1,-0.06418040608408092
+GenGen,0_100,home,28,Mothers,0.1429311506756514
+GenGen,0_100,home,29,Fathers,-0.12507019583078596
+GenGen,0_100,home,29,Female candidates,-0.028056909464463986
+GenGen,0_100,home,29,Male candidates,0.05845030865069618
+GenGen,0_100,home,29,Male candidates1,-0.049128658942814527
+GenGen,0_100,home,29,Mothers,0.1049629655300555
+GenGen,0_100,home,30,Fathers,-0.3847108019628472
+GenGen,0_100,home,30,Female candidates,-0.11326082123009262
+GenGen,0_100,home,30,Male candidates,0.05678320347160816
+GenGen,0_100,home,30,Male candidates1,-0.0902528957136858
+GenGen,0_100,home,30,Mothers,0.05570603889717893
+GenGen,0_100,home,31,Fathers,-0.19426595536400093
+GenGen,0_100,home,31,Female candidates,-0.06208489182969858
+GenGen,0_100,home,31,Male candidates,-0.23038007513870104
+GenGen,0_100,home,31,Mothers,0.17043178630329306
+GenGen,0_100,home,32,Fathers,-0.10269129684617777
+GenGen,0_100,home,32,Female candidates,-0.018940545498737228
+GenGen,0_100,home,32,Male candidates,0.09870470893668576
+GenGen,0_100,home,32,Mothers,0.17452549237555395
+GenGen,0_100,home,33,Fathers,-0.08577480221525179
+GenGen,0_100,home,33,Female candidates,-0.00875565466117413
+GenGen,0_100,home,33,Male candidates,0.13286872286519
+GenGen,0_100,home,33,Mothers,0.17238524368668381
+GenGen,0_100,home,34,Fathers,-0.11638066797694213
+GenGen,0_100,home,34,Female candidates,0.009731262341016428
+GenGen,0_100,home,34,Male candidates,0.13487474754075227
+GenGen,0_100,home,34,Mothers,0.1627977771220214
+GenGen,0_100,home,35,Fathers,-0.0877370229333724
+GenGen,0_100,home,35,Female candidates,0.0077701315066009795
+GenGen,0_100,home,35,Male candidates,0.15422366583114386
+GenGen,0_100,home,35,Mothers,0.17090023378346608
+GenGen,0_100,home,36,Fathers,-0.05969480739269793
+GenGen,0_100,home,36,Female candidates,0.035854861052985736
+GenGen,0_100,home,36,Male candidates,0.2462557081285339
+GenGen,0_100,home,36,Mothers,0.14655739353193206
+GenGen,0_100,home,37,Fathers,0.046167195257050694
+GenGen,0_100,home,37,Female candidates,0.031274080450319035
+GenGen,0_100,home,37,Male candidates,0.25795197914446816
+GenGen,0_100,home,37,Mothers,0.1649725113337188
+GenGen,0_100,home,38,Fathers,0.23268241678359342
+GenGen,0_100,home,38,Female candidates,0.024134205304975124
+GenGen,0_100,home,38,Male candidates,0.17509606911551434
+GenGen,0_100,home,38,Mothers,0.1909685652302284
+GenGen,0_100,home,39,Fathers,0.332271873194471
+GenGen,0_100,home,39,Female candidates,0.09849328619838303
+GenGen,0_100,home,39,Male candidates,0.22375532825868466
+GenGen,0_100,home,39,Mothers,0.18735404515412343
+GenGen,0_100,home,40,Fathers,0.3946707957589991
+GenGen,0_100,home,40,Female candidates,0.1560156735181384
+GenGen,0_100,home,40,Male candidates,0.22803328006125936
+GenGen,0_100,home,40,Mothers,0.21958648771294034
+GenGen,0_100,home,41,Fathers,0.30198710919015237
+GenGen,0_100,home,41,Female candidates,0.18528772467644145
+GenGen,0_100,home,41,Male candidates,0.21887192107656112
+GenGen,0_100,home,41,Mothers,0.2514188259570492
+GenGen,0_100,home,42,Fathers,0.2949593064632939
+GenGen,0_100,home,42,Female candidates,0.1784973761492942
+GenGen,0_100,home,42,Male candidates,0.2810385156789513
+GenGen,0_100,home,42,Mothers,0.27623394608333585
+GenGen,0_100,home,43,Fathers,0.2923755051307242
+GenGen,0_100,home,43,Female candidates,0.1657694004118799
+GenGen,0_100,home,43,Male candidates,0.2110406730296344
+GenGen,0_100,home,43,Mothers,0.2984381385764609
+GenGen,0_100,home,44,Fathers,0.24767382598551851
+GenGen,0_100,home,44,Female candidates,0.1713904563737904
+GenGen,0_100,home,44,Male candidates,0.2467616346865341
+GenGen,0_100,home,44,Mothers,0.3275419697323064
+GenGen,0_100,home,45,Fathers,0.2771879440617596
+GenGen,0_100,home,45,Female candidates,0.21270717053305
+GenGen,0_100,home,45,Male candidates,0.2456329977681505
+GenGen,0_100,home,45,Mothers,0.3498878511807987
+GenGen,0_100,home,46,Fathers,0.370246831720533
+GenGen,0_100,home,46,Female candidates,0.22595127712846985
+GenGen,0_100,home,46,Male candidates,0.15474160900872336
+GenGen,0_100,home,46,Mothers,0.3533733756349066
+GenGen,0_100,home,47,Fathers,0.45070690501678834
+GenGen,0_100,home,47,Female candidates,0.2169194382064165
+GenGen,0_100,home,47,Male candidates,0.3189976144489763
+GenGen,0_100,home,47,Mothers,0.3715542620588952
+GenGen,0_100,home,48,Fathers,0.4304544419792163
+GenGen,0_100,home,48,Female candidates,0.25506002691361
+GenGen,0_100,home,48,Male candidates,0.351004516797744
+GenGen,0_100,home,48,Mothers,0.38410316888728796
+GenGen,0_100,home,49,Fathers,0.4633645706106487
+GenGen,0_100,home,49,Female candidates,0.26377412564050456
+GenGen,0_100,home,49,Male candidates,0.2904796402319645
+GenGen,0_100,home,49,Mothers,0.38328886469098766
+GenGen,0_100,home,50,Fathers,0.46238495030117077
+GenGen,0_100,home,50,Female candidates,0.25248013761197785
+GenGen,0_100,home,50,Male candidates,0.22993223849635785
+GenGen,0_100,home,50,Mothers,0.394565165149671
+GenGen,0_100,import,21,Fathers,-0.07318272505093446
+GenGen,0_100,import,21,Female candidates,0.03933311616034808
+GenGen,0_100,import,21,Male candidates,0.03847124030561002
+GenGen,0_100,import,21,Male candidates1,-0.07879778972412073
+GenGen,0_100,import,21,Mothers,0.1884914529450766
+GenGen,0_100,import,22,Fathers,-0.03643281017812089
+GenGen,0_100,import,22,Female candidates,0.08761966654494414
+GenGen,0_100,import,22,Male candidates,0.22023301924309324
+GenGen,0_100,import,22,Male candidates1,0.03624787827932
+GenGen,0_100,import,22,Mothers,0.27146346646010233
+GenGen,0_100,import,23,Fathers,-0.11673948664794921
+GenGen,0_100,import,23,Female candidates,0.14627344716450932
+GenGen,0_100,import,23,Male candidates,0.3237126525606833
+GenGen,0_100,import,23,Male candidates1,0.08787018467223483
+GenGen,0_100,import,23,Mothers,0.32852609109190367
+GenGen,0_100,import,24,Fathers,0.05075692565901577
+GenGen,0_100,import,24,Female candidates,0.23103802334619794
+GenGen,0_100,import,24,Male candidates,0.16015950800387446
+GenGen,0_100,import,24,Male candidates1,-0.0945700340340683
+GenGen,0_100,import,24,Mothers,0.337912270558776
+GenGen,0_100,import,25,Fathers,-0.23069426346276384
+GenGen,0_100,import,25,Female candidates,0.17450027514096125
+GenGen,0_100,import,25,Male candidates,0.5293524028502384
+GenGen,0_100,import,25,Male candidates1,0.0811022300849259
+GenGen,0_100,import,25,Mothers,0.2887390453858835
+GenGen,0_100,import,26,Fathers,0.05829308464482301
+GenGen,0_100,import,26,Female candidates,0.10472980364378234
+GenGen,0_100,import,26,Male candidates,0.14081670421583392
+GenGen,0_100,import,26,Male candidates1,-0.031735775490938964
+GenGen,0_100,import,26,Mothers,0.26298253701877256
+GenGen,0_100,import,27,Fathers,0.02272080302445461
+GenGen,0_100,import,27,Female candidates,0.06942815311400538
+GenGen,0_100,import,27,Male candidates,0.1350508970670882
+GenGen,0_100,import,27,Male candidates1,0.10834417640553556
+GenGen,0_100,import,27,Mothers,0.21827965568793883
+GenGen,0_100,import,28,Fathers,-0.12019870257051495
+GenGen,0_100,import,28,Female candidates,-0.02374791557707069
+GenGen,0_100,import,28,Male candidates,0.16228944251701574
+GenGen,0_100,import,28,Male candidates1,-0.06418040608408092
+GenGen,0_100,import,28,Mothers,0.1429311506756514
+GenGen,0_100,import,29,Fathers,-0.12507019583078596
+GenGen,0_100,import,29,Female candidates,-0.028056909464463986
+GenGen,0_100,import,29,Male candidates,0.05845030865069618
+GenGen,0_100,import,29,Male candidates1,-0.049128658942814527
+GenGen,0_100,import,29,Mothers,0.1049629655300555
+GenGen,0_100,import,30,Fathers,-0.3847108019628472
+GenGen,0_100,import,30,Female candidates,-0.11326082123009262
+GenGen,0_100,import,30,Male candidates,0.05678320347160816
+GenGen,0_100,import,30,Male candidates1,-0.0902528957136858
+GenGen,0_100,import,30,Mothers,0.05570603889717893
+GenGen,0_100,import,31,Fathers,-0.19426595536400093
+GenGen,0_100,import,31,Female candidates,-0.06208489182969858
+GenGen,0_100,import,31,Male candidates,-0.23038007513870104
+GenGen,0_100,import,31,Mothers,0.17043178630329306
+GenGen,0_100,import,32,Fathers,-0.10269129684617777
+GenGen,0_100,import,32,Female candidates,-0.018940545498737228
+GenGen,0_100,import,32,Male candidates,0.09870470893668576
+GenGen,0_100,import,32,Mothers,0.17452549237555395
+GenGen,0_100,import,33,Fathers,-0.08577480221525179
+GenGen,0_100,import,33,Female candidates,-0.00875565466117413
+GenGen,0_100,import,33,Male candidates,0.13286872286519
+GenGen,0_100,import,33,Mothers,0.17238524368668381
+GenGen,0_100,import,34,Fathers,-0.11638066797694213
+GenGen,0_100,import,34,Female candidates,0.009731262341016428
+GenGen,0_100,import,34,Male candidates,0.13487474754075227
+GenGen,0_100,import,34,Mothers,0.1627977771220214
+GenGen,0_100,import,35,Fathers,-0.0877370229333724
+GenGen,0_100,import,35,Female candidates,0.0077701315066009795
+GenGen,0_100,import,35,Male candidates,0.15422366583114386
+GenGen,0_100,import,35,Mothers,0.17090023378346608
+GenGen,0_100,import,36,Fathers,-0.05969480739269793
+GenGen,0_100,import,36,Female candidates,0.035854861052985736
+GenGen,0_100,import,36,Male candidates,0.2462557081285339
+GenGen,0_100,import,36,Mothers,0.14655739353193206
+GenGen,0_100,import,37,Fathers,0.046167195257050694
+GenGen,0_100,import,37,Female candidates,0.031274080450319035
+GenGen,0_100,import,37,Male candidates,0.25795197914446816
+GenGen,0_100,import,37,Mothers,0.1649725113337188
+GenGen,0_100,import,38,Fathers,0.23268241678359342
+GenGen,0_100,import,38,Female candidates,0.024134205304975124
+GenGen,0_100,import,38,Male candidates,0.17509606911551434
+GenGen,0_100,import,38,Mothers,0.1909685652302284
+GenGen,0_100,import,39,Fathers,0.332271873194471
+GenGen,0_100,import,39,Female candidates,0.09849328619838303
+GenGen,0_100,import,39,Male candidates,0.22375532825868466
+GenGen,0_100,import,39,Mothers,0.18735404515412343
+GenGen,0_100,import,40,Fathers,0.3946707957589991
+GenGen,0_100,import,40,Female candidates,0.1560156735181384
+GenGen,0_100,import,40,Male candidates,0.22803328006125936
+GenGen,0_100,import,40,Mothers,0.21958648771294034
+GenGen,0_100,import,41,Fathers,0.30198710919015237
+GenGen,0_100,import,41,Female candidates,0.18528772467644145
+GenGen,0_100,import,41,Male candidates,0.21887192107656112
+GenGen,0_100,import,41,Mothers,0.2514188259570492
+GenGen,0_100,import,42,Fathers,0.2949593064632939
+GenGen,0_100,import,42,Female candidates,0.1784973761492942
+GenGen,0_100,import,42,Male candidates,0.2810385156789513
+GenGen,0_100,import,42,Mothers,0.27623394608333585
+GenGen,0_100,import,43,Fathers,0.2923755051307242
+GenGen,0_100,import,43,Female candidates,0.1657694004118799
+GenGen,0_100,import,43,Male candidates,0.2110406730296344
+GenGen,0_100,import,43,Mothers,0.2984381385764609
+GenGen,0_100,import,44,Fathers,0.24767382598551851
+GenGen,0_100,import,44,Female candidates,0.1713904563737904
+GenGen,0_100,import,44,Male candidates,0.2467616346865341
+GenGen,0_100,import,44,Mothers,0.3275419697323064
+GenGen,0_100,import,45,Fathers,0.2771879440617596
+GenGen,0_100,import,45,Female candidates,0.21270717053305
+GenGen,0_100,import,45,Male candidates,0.2456329977681505
+GenGen,0_100,import,45,Mothers,0.3498878511807987
+GenGen,0_100,import,46,Fathers,0.370246831720533
+GenGen,0_100,import,46,Female candidates,0.22595127712846985
+GenGen,0_100,import,46,Male candidates,0.15474160900872336
+GenGen,0_100,import,46,Mothers,0.3533733756349066
+GenGen,0_100,import,47,Fathers,0.45070690501678834
+GenGen,0_100,import,47,Female candidates,0.2169194382064165
+GenGen,0_100,import,47,Male candidates,0.3189976144489763
+GenGen,0_100,import,47,Mothers,0.3715542620588952
+GenGen,0_100,import,48,Fathers,0.4304544419792163
+GenGen,0_100,import,48,Female candidates,0.25506002691361
+GenGen,0_100,import,48,Male candidates,0.351004516797744
+GenGen,0_100,import,48,Mothers,0.38410316888728796
+GenGen,0_100,import,49,Fathers,0.4633645706106487
+GenGen,0_100,import,49,Female candidates,0.26377412564050456
+GenGen,0_100,import,49,Male candidates,0.2904796402319645
+GenGen,0_100,import,49,Mothers,0.38328886469098766
+GenGen,0_100,import,50,Fathers,0.46238495030117077
+GenGen,0_100,import,50,Female candidates,0.25248013761197785
+GenGen,0_100,import,50,Male candidates,0.22993223849635785
+GenGen,0_100,import,50,Mothers,0.394565165149671
+GenGen,100_100,home,21,Fathers,-0.07318272505093446
+GenGen,100_100,home,21,Female candidates,0.03933311616034808
+GenGen,100_100,home,21,Male candidates,0.03847124030561002
+GenGen,100_100,home,21,Male candidates1,-0.07879778972412073
+GenGen,100_100,home,21,Mothers,0.1884914529450766
+GenGen,100_100,home,22,Fathers,-0.03643281017812089
+GenGen,100_100,home,22,Female candidates,0.08761966654494414
+GenGen,100_100,home,22,Male candidates,0.22023301924309324
+GenGen,100_100,home,22,Male candidates1,0.03624787827932
+GenGen,100_100,home,22,Mothers,0.27146346646010233
+GenGen,100_100,home,23,Fathers,-0.11673948664794921
+GenGen,100_100,home,23,Female candidates,0.14627344716450932
+GenGen,100_100,home,23,Male candidates,0.3237126525606833
+GenGen,100_100,home,23,Male candidates1,0.08787018467223483
+GenGen,100_100,home,23,Mothers,0.32852609109190367
+GenGen,100_100,home,24,Fathers,0.05075692565901577
+GenGen,100_100,home,24,Female candidates,0.23103802334619794
+GenGen,100_100,home,24,Male candidates,0.16015950800387446
+GenGen,100_100,home,24,Male candidates1,-0.0945700340340683
+GenGen,100_100,home,24,Mothers,0.337912270558776
+GenGen,100_100,home,25,Fathers,-0.23069426346276384
+GenGen,100_100,home,25,Female candidates,0.17450027514096125
+GenGen,100_100,home,25,Male candidates,0.5293524028502384
+GenGen,100_100,home,25,Male candidates1,0.0811022300849259
+GenGen,100_100,home,25,Mothers,0.2887390453858835
+GenGen,100_100,home,26,Fathers,0.05829308464482301
+GenGen,100_100,home,26,Female candidates,0.10472980364378234
+GenGen,100_100,home,26,Male candidates,0.14081670421583392
+GenGen,100_100,home,26,Male candidates1,-0.031735775490938964
+GenGen,100_100,home,26,Mothers,0.26298253701877256
+GenGen,100_100,home,27,Fathers,0.02272080302445461
+GenGen,100_100,home,27,Female candidates,0.06942815311400538
+GenGen,100_100,home,27,Male candidates,0.1350508970670882
+GenGen,100_100,home,27,Male candidates1,0.10834417640553556
+GenGen,100_100,home,27,Mothers,0.21827965568793883
+GenGen,100_100,home,28,Fathers,-0.12019870257051495
+GenGen,100_100,home,28,Female candidates,-0.02374791557707069
+GenGen,100_100,home,28,Male candidates,0.16228944251701574
+GenGen,100_100,home,28,Male candidates1,-0.06418040608408092
+GenGen,100_100,home,28,Mothers,0.1429311506756514
+GenGen,100_100,home,29,Fathers,-0.12507019583078596
+GenGen,100_100,home,29,Female candidates,-0.028056909464463986
+GenGen,100_100,home,29,Male candidates,0.05845030865069618
+GenGen,100_100,home,29,Male candidates1,-0.049128658942814527
+GenGen,100_100,home,29,Mothers,0.1049629655300555
+GenGen,100_100,home,30,Fathers,-0.3847108019628472
+GenGen,100_100,home,30,Female candidates,-0.11326082123009262
+GenGen,100_100,home,30,Male candidates,0.05678320347160816
+GenGen,100_100,home,30,Male candidates1,-0.0902528957136858
+GenGen,100_100,home,30,Mothers,0.05570603889717893
+GenGen,100_100,home,31,Fathers,-0.22721730838632428
+GenGen,100_100,home,31,Female candidates,-0.06745747376039966
+GenGen,100_100,home,31,Male candidates,-0.2371321167417409
+GenGen,100_100,home,31,Mothers,0.1625220314372981
+GenGen,100_100,home,32,Fathers,-0.14691326948483294
+GenGen,100_100,home,32,Female candidates,0.09181858796760192
+GenGen,100_100,home,32,Male candidates,0.0908803622520485
+GenGen,100_100,home,32,Mothers,0.1724742558723797
+GenGen,100_100,home,33,Fathers,-0.06275951068213995
+GenGen,100_100,home,33,Female candidates,0.07722728861106863
+GenGen,100_100,home,33,Male candidates,0.2444946265235739
+GenGen,100_100,home,33,Mothers,0.17211771744287774
+GenGen,100_100,home,34,Fathers,0.12126427098518291
+GenGen,100_100,home,34,Female candidates,0.07496481193322299
+GenGen,100_100,home,34,Male candidates,0.15478386109040626
+GenGen,100_100,home,34,Mothers,0.1882107775572525
+GenGen,100_100,home,35,Fathers,0.010066553604061779
+GenGen,100_100,home,35,Female candidates,0.10294924693144722
+GenGen,100_100,home,35,Male candidates,0.13208931542333446
+GenGen,100_100,home,35,Mothers,0.22198845900323805
+GenGen,100_100,home,36,Fathers,0.1306893537984265
+GenGen,100_100,home,36,Female candidates,0.11230243823759918
+GenGen,100_100,home,36,Male candidates,0.14901016984622634
+GenGen,100_100,home,36,Mothers,0.23246710524815667
+GenGen,100_100,home,37,Fathers,0.1864445316848005
+GenGen,100_100,home,37,Female candidates,0.1200502341673833
+GenGen,100_100,home,37,Male candidates,0.09977066056772256
+GenGen,100_100,home,37,Mothers,0.2511266623227155
+GenGen,100_100,home,38,Fathers,0.11845176902885338
+GenGen,100_100,home,38,Female candidates,0.12060261474066075
+GenGen,100_100,home,38,Male candidates,0.13601486776525393
+GenGen,100_100,home,38,Mothers,0.26809641941745643
+GenGen,100_100,home,39,Fathers,0.05195130584268783
+GenGen,100_100,home,39,Female candidates,0.13305870063683936
+GenGen,100_100,home,39,Male candidates,0.20213330367605653
+GenGen,100_100,home,39,Mothers,0.2670363116270422
+GenGen,100_100,home,40,Fathers,0.22448772429055092
+GenGen,100_100,home,40,Female candidates,0.1958731116534828
+GenGen,100_100,home,40,Male candidates,0.20771336666677392
+GenGen,100_100,home,40,Mothers,0.2847382518377472
+GenGen,100_100,home,41,Fathers,0.17790060800774463
+GenGen,100_100,home,41,Female candidates,0.2003734211576557
+GenGen,100_100,home,41,Male candidates,0.212769153728276
+GenGen,100_100,home,41,Mothers,0.311057648106985
+GenGen,100_100,home,42,Fathers,0.22358479403067938
+GenGen,100_100,home,42,Female candidates,0.2054536524491764
+GenGen,100_100,home,42,Male candidates,0.2305660247829276
+GenGen,100_100,home,42,Mothers,0.34042111217949395
+GenGen,100_100,home,43,Fathers,0.2678852604184876
+GenGen,100_100,home,43,Female candidates,0.2205935388271768
+GenGen,100_100,home,43,Male candidates,0.26713404343161457
+GenGen,100_100,home,43,Mothers,0.35370149890914127
+GenGen,100_100,home,44,Fathers,0.2664540550563972
+GenGen,100_100,home,44,Female candidates,0.20015905495783715
+GenGen,100_100,home,44,Male candidates,0.24773952307623226
+GenGen,100_100,home,44,Mothers,0.36086715680834025
+GenGen,100_100,home,45,Fathers,0.21853457265199902
+GenGen,100_100,home,45,Female candidates,0.18813298916351506
+GenGen,100_100,home,45,Male candidates,0.15537127710339133
+GenGen,100_100,home,45,Mothers,0.35659339207199564
+GenGen,100_100,home,46,Fathers,0.13680842775334306
+GenGen,100_100,home,46,Female candidates,0.17952869026405527
+GenGen,100_100,home,46,Male candidates,0.2368086778076541
+GenGen,100_100,home,46,Mothers,0.357064615365856
+GenGen,100_100,home,47,Fathers,0.12125660420595522
+GenGen,100_100,home,47,Female candidates,0.1869858324914264
+GenGen,100_100,home,47,Male candidates,0.15031720639257845
+GenGen,100_100,home,47,Mothers,0.3684189931409146
+GenGen,100_100,home,48,Fathers,0.1730296734009335
+GenGen,100_100,home,48,Female candidates,0.176407876723689
+GenGen,100_100,home,48,Male candidates,0.2120896949490494
+GenGen,100_100,home,48,Mothers,0.3716467704275623
+GenGen,100_100,home,49,Fathers,0.2873432426446835
+GenGen,100_100,home,49,Female candidates,0.2152253860467457
+GenGen,100_100,home,49,Male candidates,0.2913518050400397
+GenGen,100_100,home,49,Mothers,0.3749392995467057
+GenGen,100_100,home,50,Fathers,0.2917580645943686
+GenGen,100_100,home,50,Female candidates,0.22480114698159886
+GenGen,100_100,home,50,Male candidates,0.29870112944669125
+GenGen,100_100,home,50,Mothers,0.36267158249496007
+GenGen,100_100,import,21,Fathers,-0.07318272505093446
+GenGen,100_100,import,21,Female candidates,0.03933311616034808
+GenGen,100_100,import,21,Male candidates,0.03847124030561002
+GenGen,100_100,import,21,Male candidates1,-0.07879778972412073
+GenGen,100_100,import,21,Mothers,0.1884914529450766
+GenGen,100_100,import,22,Fathers,-0.03643281017812089
+GenGen,100_100,import,22,Female candidates,0.08761966654494414
+GenGen,100_100,import,22,Male candidates,0.22023301924309324
+GenGen,100_100,import,22,Male candidates1,0.03624787827932
+GenGen,100_100,import,22,Mothers,0.27146346646010233
+GenGen,100_100,import,23,Fathers,-0.11673948664794921
+GenGen,100_100,import,23,Female candidates,0.14627344716450932
+GenGen,100_100,import,23,Male candidates,0.3237126525606833
+GenGen,100_100,import,23,Male candidates1,0.08787018467223483
+GenGen,100_100,import,23,Mothers,0.32852609109190367
+GenGen,100_100,import,24,Fathers,0.05075692565901577
+GenGen,100_100,import,24,Female candidates,0.23103802334619794
+GenGen,100_100,import,24,Male candidates,0.16015950800387446
+GenGen,100_100,import,24,Male candidates1,-0.0945700340340683
+GenGen,100_100,import,24,Mothers,0.337912270558776
+GenGen,100_100,import,25,Fathers,-0.23069426346276384
+GenGen,100_100,import,25,Female candidates,0.17450027514096125
+GenGen,100_100,import,25,Male candidates,0.5293524028502384
+GenGen,100_100,import,25,Male candidates1,0.0811022300849259
+GenGen,100_100,import,25,Mothers,0.2887390453858835
+GenGen,100_100,import,26,Fathers,0.05829308464482301
+GenGen,100_100,import,26,Female candidates,0.10472980364378234
+GenGen,100_100,import,26,Male candidates,0.14081670421583392
+GenGen,100_100,import,26,Male candidates1,-0.031735775490938964
+GenGen,100_100,import,26,Mothers,0.26298253701877256
+GenGen,100_100,import,27,Fathers,0.02272080302445461
+GenGen,100_100,import,27,Female candidates,0.06942815311400538
+GenGen,100_100,import,27,Male candidates,0.1350508970670882
+GenGen,100_100,import,27,Male candidates1,0.10834417640553556
+GenGen,100_100,import,27,Mothers,0.21827965568793883
+GenGen,100_100,import,28,Fathers,-0.12019870257051495
+GenGen,100_100,import,28,Female candidates,-0.02374791557707069
+GenGen,100_100,import,28,Male candidates,0.16228944251701574
+GenGen,100_100,import,28,Male candidates1,-0.06418040608408092
+GenGen,100_100,import,28,Mothers,0.1429311506756514
+GenGen,100_100,import,29,Fathers,-0.12507019583078596
+GenGen,100_100,import,29,Female candidates,-0.028056909464463986
+GenGen,100_100,import,29,Male candidates,0.05845030865069618
+GenGen,100_100,import,29,Male candidates1,-0.049128658942814527
+GenGen,100_100,import,29,Mothers,0.1049629655300555
+GenGen,100_100,import,30,Fathers,-0.3847108019628472
+GenGen,100_100,import,30,Female candidates,-0.11326082123009262
+GenGen,100_100,import,30,Male candidates,0.05678320347160816
+GenGen,100_100,import,30,Male candidates1,-0.0902528957136858
+GenGen,100_100,import,30,Mothers,0.05570603889717893
+GenGen,100_100,import,31,Fathers,-0.22721730838632428
+GenGen,100_100,import,31,Female candidates,-0.06745747376039966
+GenGen,100_100,import,31,Male candidates,-0.2371321167417409
+GenGen,100_100,import,31,Mothers,0.1625220314372981
+GenGen,100_100,import,32,Fathers,-0.14691326948483294
+GenGen,100_100,import,32,Female candidates,0.09181858796760192
+GenGen,100_100,import,32,Male candidates,0.0908803622520485
+GenGen,100_100,import,32,Mothers,0.1724742558723797
+GenGen,100_100,import,33,Fathers,-0.06275951068213995
+GenGen,100_100,import,33,Female candidates,0.07722728861106863
+GenGen,100_100,import,33,Male candidates,0.2444946265235739
+GenGen,100_100,import,33,Mothers,0.17211771744287774
+GenGen,100_100,import,34,Fathers,0.12126427098518291
+GenGen,100_100,import,34,Female candidates,0.07496481193322299
+GenGen,100_100,import,34,Male candidates,0.15478386109040626
+GenGen,100_100,import,34,Mothers,0.1882107775572525
+GenGen,100_100,import,35,Fathers,0.010066553604061779
+GenGen,100_100,import,35,Female candidates,0.10294924693144722
+GenGen,100_100,import,35,Male candidates,0.13208931542333446
+GenGen,100_100,import,35,Mothers,0.22198845900323805
+GenGen,100_100,import,36,Fathers,0.1306893537984265
+GenGen,100_100,import,36,Female candidates,0.11230243823759918
+GenGen,100_100,import,36,Male candidates,0.14901016984622634
+GenGen,100_100,import,36,Mothers,0.23246710524815667
+GenGen,100_100,import,37,Fathers,0.1864445316848005
+GenGen,100_100,import,37,Female candidates,0.1200502341673833
+GenGen,100_100,import,37,Male candidates,0.09977066056772256
+GenGen,100_100,import,37,Mothers,0.2511266623227155
+GenGen,100_100,import,38,Fathers,0.11845176902885338
+GenGen,100_100,import,38,Female candidates,0.12060261474066075
+GenGen,100_100,import,38,Male candidates,0.13601486776525393
+GenGen,100_100,import,38,Mothers,0.26809641941745643
+GenGen,100_100,import,39,Fathers,0.05195130584268783
+GenGen,100_100,import,39,Female candidates,0.13305870063683936
+GenGen,100_100,import,39,Male candidates,0.20213330367605653
+GenGen,100_100,import,39,Mothers,0.2670363116270422
+GenGen,100_100,import,40,Fathers,0.22448772429055092
+GenGen,100_100,import,40,Female candidates,0.1958731116534828
+GenGen,100_100,import,40,Male candidates,0.20771336666677392
+GenGen,100_100,import,40,Mothers,0.2847382518377472
+GenGen,100_100,import,41,Fathers,0.17790060800774463
+GenGen,100_100,import,41,Female candidates,0.2003734211576557
+GenGen,100_100,import,41,Male candidates,0.212769153728276
+GenGen,100_100,import,41,Mothers,0.311057648106985
+GenGen,100_100,import,42,Fathers,0.22358479403067938
+GenGen,100_100,import,42,Female candidates,0.2054536524491764
+GenGen,100_100,import,42,Male candidates,0.2305660247829276
+GenGen,100_100,import,42,Mothers,0.34042111217949395
+GenGen,100_100,import,43,Fathers,0.2678852604184876
+GenGen,100_100,import,43,Female candidates,0.2205935388271768
+GenGen,100_100,import,43,Male candidates,0.26713404343161457
+GenGen,100_100,import,43,Mothers,0.35370149890914127
+GenGen,100_100,import,44,Fathers,0.2664540550563972
+GenGen,100_100,import,44,Female candidates,0.20015905495783715
+GenGen,100_100,import,44,Male candidates,0.24773952307623226
+GenGen,100_100,import,44,Mothers,0.36086715680834025
+GenGen,100_100,import,45,Fathers,0.21853457265199902
+GenGen,100_100,import,45,Female candidates,0.18813298916351506
+GenGen,100_100,import,45,Male candidates,0.15537127710339133
+GenGen,100_100,import,45,Mothers,0.35659339207199564
+GenGen,100_100,import,46,Fathers,0.13680842775334306
+GenGen,100_100,import,46,Female candidates,0.17952869026405527
+GenGen,100_100,import,46,Male candidates,0.2368086778076541
+GenGen,100_100,import,46,Mothers,0.357064615365856
+GenGen,100_100,import,47,Fathers,0.12125660420595522
+GenGen,100_100,import,47,Female candidates,0.1869858324914264
+GenGen,100_100,import,47,Male candidates,0.15031720639257845
+GenGen,100_100,import,47,Mothers,0.3684189931409146
+GenGen,100_100,import,48,Fathers,0.1730296734009335
+GenGen,100_100,import,48,Female candidates,0.176407876723689
+GenGen,100_100,import,48,Male candidates,0.2120896949490494
+GenGen,100_100,import,48,Mothers,0.3716467704275623
+GenGen,100_100,import,49,Fathers,0.2873432426446835
+GenGen,100_100,import,49,Female candidates,0.2152253860467457
+GenGen,100_100,import,49,Male candidates,0.2913518050400397
+GenGen,100_100,import,49,Mothers,0.3749392995467057
+GenGen,100_100,import,50,Fathers,0.2917580645943686
+GenGen,100_100,import,50,Female candidates,0.22480114698159886
+GenGen,100_100,import,50,Male candidates,0.29870112944669125
+GenGen,100_100,import,50,Mothers,0.36267158249496007
+GenGen,10_10,home,21,Fathers,-0.07318272505093446
+GenGen,10_10,home,21,Female candidates,0.03933311616034808
+GenGen,10_10,home,21,Male candidates,0.03847124030561002
+GenGen,10_10,home,21,Male candidates1,-0.07879778972412073
+GenGen,10_10,home,21,Mothers,0.1884914529450766
+GenGen,10_10,home,22,Fathers,-0.03643281017812089
+GenGen,10_10,home,22,Female candidates,0.08761966654494414
+GenGen,10_10,home,22,Male candidates,0.22023301924309324
+GenGen,10_10,home,22,Male candidates1,0.03624787827932
+GenGen,10_10,home,22,Mothers,0.27146346646010233
+GenGen,10_10,home,23,Fathers,-0.11673948664794921
+GenGen,10_10,home,23,Female candidates,0.14627344716450932
+GenGen,10_10,home,23,Male candidates,0.3237126525606833
+GenGen,10_10,home,23,Male candidates1,0.08787018467223483
+GenGen,10_10,home,23,Mothers,0.32852609109190367
+GenGen,10_10,home,24,Fathers,0.05075692565901577
+GenGen,10_10,home,24,Female candidates,0.23103802334619794
+GenGen,10_10,home,24,Male candidates,0.16015950800387446
+GenGen,10_10,home,24,Male candidates1,-0.0945700340340683
+GenGen,10_10,home,24,Mothers,0.337912270558776
+GenGen,10_10,home,25,Fathers,-0.23069426346276384
+GenGen,10_10,home,25,Female candidates,0.17450027514096125
+GenGen,10_10,home,25,Male candidates,0.5293524028502384
+GenGen,10_10,home,25,Male candidates1,0.0811022300849259
+GenGen,10_10,home,25,Mothers,0.2887390453858835
+GenGen,10_10,home,26,Fathers,0.05829308464482301
+GenGen,10_10,home,26,Female candidates,0.10472980364378234
+GenGen,10_10,home,26,Male candidates,0.14081670421583392
+GenGen,10_10,home,26,Male candidates1,-0.031735775490938964
+GenGen,10_10,home,26,Mothers,0.26298253701877256
+GenGen,10_10,home,27,Fathers,0.02272080302445461
+GenGen,10_10,home,27,Female candidates,0.06942815311400538
+GenGen,10_10,home,27,Male candidates,0.1350508970670882
+GenGen,10_10,home,27,Male candidates1,0.10834417640553556
+GenGen,10_10,home,27,Mothers,0.21827965568793883
+GenGen,10_10,home,28,Fathers,-0.12019870257051495
+GenGen,10_10,home,28,Female candidates,-0.02374791557707069
+GenGen,10_10,home,28,Male candidates,0.16228944251701574
+GenGen,10_10,home,28,Male candidates1,-0.06418040608408092
+GenGen,10_10,home,28,Mothers,0.1429311506756514
+GenGen,10_10,home,29,Fathers,-0.12507019583078596
+GenGen,10_10,home,29,Female candidates,-0.028056909464463986
+GenGen,10_10,home,29,Male candidates,0.05845030865069618
+GenGen,10_10,home,29,Male candidates1,-0.049128658942814527
+GenGen,10_10,home,29,Mothers,0.1049629655300555
+GenGen,10_10,home,30,Fathers,-0.3847108019628472
+GenGen,10_10,home,30,Female candidates,-0.11326082123009262
+GenGen,10_10,home,30,Male candidates,0.05678320347160816
+GenGen,10_10,home,30,Male candidates1,-0.0902528957136858
+GenGen,10_10,home,30,Mothers,0.05570603889717893
+GenGen,10_10,home,31,Fathers,-0.16998389009589668
+GenGen,10_10,home,31,Female candidates,-0.06284258945462091
+GenGen,10_10,home,31,Male candidates,-0.2447855599585761
+GenGen,10_10,home,31,Mothers,0.16169863219805672
+GenGen,10_10,home,32,Fathers,-0.12945778729964483
+GenGen,10_10,home,32,Female candidates,-0.012345443547523564
+GenGen,10_10,home,32,Male candidates,-0.02711760340508657
+GenGen,10_10,home,32,Mothers,0.1654088656105731
+GenGen,10_10,home,33,Fathers,-0.14778725550279934
+GenGen,10_10,home,33,Female candidates,-0.0387538374991457
+GenGen,10_10,home,33,Male candidates,0.09584793559338003
+GenGen,10_10,home,33,Mothers,0.15316071130251535
+GenGen,10_10,home,34,Fathers,-0.10219424753936361
+GenGen,10_10,home,34,Female candidates,0.014979338808508238
+GenGen,10_10,home,34,Male candidates,0.06960973866075988
+GenGen,10_10,home,34,Mothers,0.16475601325981168
+GenGen,10_10,home,35,Fathers,-0.16504045639532244
+GenGen,10_10,home,35,Female candidates,0.0038508268023023
+GenGen,10_10,home,35,Male candidates,0.05940296374040279
+GenGen,10_10,home,35,Mothers,0.1994104203973213
+GenGen,10_10,home,36,Fathers,-0.035959566223251874
+GenGen,10_10,home,36,Female candidates,0.01646375412622175
+GenGen,10_10,home,36,Male candidates,0.027558194015354642
+GenGen,10_10,home,36,Mothers,0.21701020019045655
+GenGen,10_10,home,37,Fathers,-0.11461198830682617
+GenGen,10_10,home,37,Female candidates,-0.02254644023423983
+GenGen,10_10,home,37,Male candidates,0.1688452372020179
+GenGen,10_10,home,37,Mothers,0.22655475287532764
+GenGen,10_10,home,38,Fathers,-0.06399751092174252
+GenGen,10_10,home,38,Female candidates,-0.020493108598678318
+GenGen,10_10,home,38,Male candidates,0.15885793549810762
+GenGen,10_10,home,38,Mothers,0.23899185651788307
+GenGen,10_10,home,39,Fathers,0.20722153140604127
+GenGen,10_10,home,39,Female candidates,0.0386048319607396
+GenGen,10_10,home,39,Male candidates,0.13140918361256124
+GenGen,10_10,home,39,Mothers,0.25186603743693803
+GenGen,10_10,home,40,Fathers,0.2506356569969642
+GenGen,10_10,home,40,Female candidates,0.09388489663704254
+GenGen,10_10,home,40,Male candidates,0.16104328189545086
+GenGen,10_10,home,40,Mothers,0.2537087536543673
+GenGen,10_10,home,41,Fathers,0.28044300101983216
+GenGen,10_10,home,41,Female candidates,0.12297342781035556
+GenGen,10_10,home,41,Male candidates,0.1639593191986931
+GenGen,10_10,home,41,Mothers,0.27394709316176463
+GenGen,10_10,home,42,Fathers,0.27109128751399053
+GenGen,10_10,home,42,Female candidates,0.1254929783381996
+GenGen,10_10,home,42,Male candidates,0.3029739595606679
+GenGen,10_10,home,42,Mothers,0.2997025221276119
+GenGen,10_10,home,43,Fathers,0.26255971400579536
+GenGen,10_10,home,43,Female candidates,0.11076660248529824
+GenGen,10_10,home,43,Male candidates,0.16345574415950645
+GenGen,10_10,home,43,Mothers,0.3099229803317872
+GenGen,10_10,home,44,Fathers,0.17427801962994766
+GenGen,10_10,home,44,Female candidates,0.15072324333893294
+GenGen,10_10,home,44,Male candidates,0.21527907240692848
+GenGen,10_10,home,44,Mothers,0.32119596366874337
+GenGen,10_10,home,45,Fathers,0.19884100486712547
+GenGen,10_10,home,45,Female candidates,0.15888093778513102
+GenGen,10_10,home,45,Male candidates,0.2477116155845629
+GenGen,10_10,home,45,Mothers,0.3277238219295463
+GenGen,10_10,home,46,Fathers,0.20264619075320348
+GenGen,10_10,home,46,Female candidates,0.14072225880806394
+GenGen,10_10,home,46,Male candidates,0.1900856586819369
+GenGen,10_10,home,46,Mothers,0.3321664820924702
+GenGen,10_10,home,47,Fathers,0.2063522312316584
+GenGen,10_10,home,47,Female candidates,0.15206409619941047
+GenGen,10_10,home,47,Male candidates,0.3092022423270407
+GenGen,10_10,home,47,Mothers,0.33388489450677117
+GenGen,10_10,home,48,Fathers,0.20173391296572304
+GenGen,10_10,home,48,Female candidates,0.11786157254176033
+GenGen,10_10,home,48,Male candidates,0.305651555757592
+GenGen,10_10,home,48,Mothers,0.3362684122065202
+GenGen,10_10,home,49,Fathers,0.1898840469391164
+GenGen,10_10,home,49,Female candidates,0.15535988201486828
+GenGen,10_10,home,49,Male candidates,0.2667179942141325
+GenGen,10_10,home,49,Mothers,0.32003039684143436
+GenGen,10_10,home,50,Fathers,0.23803798181881675
+GenGen,10_10,home,50,Female candidates,0.1556068886483498
+GenGen,10_10,home,50,Male candidates,0.16714080146759197
+GenGen,10_10,home,50,Mothers,0.31813517542595915
+GenGen,10_10,import,21,Fathers,-0.07318272505093446
+GenGen,10_10,import,21,Female candidates,0.03933311616034808
+GenGen,10_10,import,21,Male candidates,0.03847124030561002
+GenGen,10_10,import,21,Male candidates1,-0.07879778972412073
+GenGen,10_10,import,21,Mothers,0.1884914529450766
+GenGen,10_10,import,22,Fathers,-0.03643281017812089
+GenGen,10_10,import,22,Female candidates,0.08761966654494414
+GenGen,10_10,import,22,Male candidates,0.22023301924309324
+GenGen,10_10,import,22,Male candidates1,0.03624787827932
+GenGen,10_10,import,22,Mothers,0.27146346646010233
+GenGen,10_10,import,23,Fathers,-0.11673948664794921
+GenGen,10_10,import,23,Female candidates,0.14627344716450932
+GenGen,10_10,import,23,Male candidates,0.3237126525606833
+GenGen,10_10,import,23,Male candidates1,0.08787018467223483
+GenGen,10_10,import,23,Mothers,0.32852609109190367
+GenGen,10_10,import,24,Fathers,0.05075692565901577
+GenGen,10_10,import,24,Female candidates,0.23103802334619794
+GenGen,10_10,import,24,Male candidates,0.16015950800387446
+GenGen,10_10,import,24,Male candidates1,-0.0945700340340683
+GenGen,10_10,import,24,Mothers,0.337912270558776
+GenGen,10_10,import,25,Fathers,-0.23069426346276384
+GenGen,10_10,import,25,Female candidates,0.17450027514096125
+GenGen,10_10,import,25,Male candidates,0.5293524028502384
+GenGen,10_10,import,25,Male candidates1,0.0811022300849259
+GenGen,10_10,import,25,Mothers,0.2887390453858835
+GenGen,10_10,import,26,Fathers,0.05829308464482301
+GenGen,10_10,import,26,Female candidates,0.10472980364378234
+GenGen,10_10,import,26,Male candidates,0.14081670421583392
+GenGen,10_10,import,26,Male candidates1,-0.031735775490938964
+GenGen,10_10,import,26,Mothers,0.26298253701877256
+GenGen,10_10,import,27,Fathers,0.02272080302445461
+GenGen,10_10,import,27,Female candidates,0.06942815311400538
+GenGen,10_10,import,27,Male candidates,0.1350508970670882
+GenGen,10_10,import,27,Male candidates1,0.10834417640553556
+GenGen,10_10,import,27,Mothers,0.21827965568793883
+GenGen,10_10,import,28,Fathers,-0.12019870257051495
+GenGen,10_10,import,28,Female candidates,-0.02374791557707069
+GenGen,10_10,import,28,Male candidates,0.16228944251701574
+GenGen,10_10,import,28,Male candidates1,-0.06418040608408092
+GenGen,10_10,import,28,Mothers,0.1429311506756514
+GenGen,10_10,import,29,Fathers,-0.12507019583078596
+GenGen,10_10,import,29,Female candidates,-0.028056909464463986
+GenGen,10_10,import,29,Male candidates,0.05845030865069618
+GenGen,10_10,import,29,Male candidates1,-0.049128658942814527
+GenGen,10_10,import,29,Mothers,0.1049629655300555
+GenGen,10_10,import,30,Fathers,-0.3847108019628472
+GenGen,10_10,import,30,Female candidates,-0.11326082123009262
+GenGen,10_10,import,30,Male candidates,0.05678320347160816
+GenGen,10_10,import,30,Male candidates1,-0.0902528957136858
+GenGen,10_10,import,30,Mothers,0.05570603889717893
+GenGen,10_10,import,31,Fathers,-0.16998389009589668
+GenGen,10_10,import,31,Female candidates,-0.06284258945462091
+GenGen,10_10,import,31,Male candidates,-0.2447855599585761
+GenGen,10_10,import,31,Mothers,0.16169863219805672
+GenGen,10_10,import,32,Fathers,-0.12945778729964483
+GenGen,10_10,import,32,Female candidates,-0.012345443547523564
+GenGen,10_10,import,32,Male candidates,-0.02711760340508657
+GenGen,10_10,import,32,Mothers,0.1654088656105731
+GenGen,10_10,import,33,Fathers,-0.14778725550279934
+GenGen,10_10,import,33,Female candidates,-0.0387538374991457
+GenGen,10_10,import,33,Male candidates,0.09584793559338003
+GenGen,10_10,import,33,Mothers,0.15316071130251535
+GenGen,10_10,import,34,Fathers,-0.10219424753936361
+GenGen,10_10,import,34,Female candidates,0.014979338808508238
+GenGen,10_10,import,34,Male candidates,0.06960973866075988
+GenGen,10_10,import,34,Mothers,0.16475601325981168
+GenGen,10_10,import,35,Fathers,-0.16504045639532244
+GenGen,10_10,import,35,Female candidates,0.0038508268023023
+GenGen,10_10,import,35,Male candidates,0.05940296374040279
+GenGen,10_10,import,35,Mothers,0.1994104203973213
+GenGen,10_10,import,36,Fathers,-0.035959566223251874
+GenGen,10_10,import,36,Female candidates,0.01646375412622175
+GenGen,10_10,import,36,Male candidates,0.027558194015354642
+GenGen,10_10,import,36,Mothers,0.21701020019045655
+GenGen,10_10,import,37,Fathers,-0.11461198830682617
+GenGen,10_10,import,37,Female candidates,-0.02254644023423983
+GenGen,10_10,import,37,Male candidates,0.1688452372020179
+GenGen,10_10,import,37,Mothers,0.22655475287532764
+GenGen,10_10,import,38,Fathers,-0.06399751092174252
+GenGen,10_10,import,38,Female candidates,-0.020493108598678318
+GenGen,10_10,import,38,Male candidates,0.15885793549810762
+GenGen,10_10,import,38,Mothers,0.23899185651788307
+GenGen,10_10,import,39,Fathers,0.20722153140604127
+GenGen,10_10,import,39,Female candidates,0.0386048319607396
+GenGen,10_10,import,39,Male candidates,0.13140918361256124
+GenGen,10_10,import,39,Mothers,0.25186603743693803
+GenGen,10_10,import,40,Fathers,0.2506356569969642
+GenGen,10_10,import,40,Female candidates,0.09388489663704254
+GenGen,10_10,import,40,Male candidates,0.16104328189545086
+GenGen,10_10,import,40,Mothers,0.2537087536543673
+GenGen,10_10,import,41,Fathers,0.28044300101983216
+GenGen,10_10,import,41,Female candidates,0.12297342781035556
+GenGen,10_10,import,41,Male candidates,0.1639593191986931
+GenGen,10_10,import,41,Mothers,0.27394709316176463
+GenGen,10_10,import,42,Fathers,0.27109128751399053
+GenGen,10_10,import,42,Female candidates,0.1254929783381996
+GenGen,10_10,import,42,Male candidates,0.3029739595606679
+GenGen,10_10,import,42,Mothers,0.2997025221276119
+GenGen,10_10,import,43,Fathers,0.26255971400579536
+GenGen,10_10,import,43,Female candidates,0.11076660248529824
+GenGen,10_10,import,43,Male candidates,0.16345574415950645
+GenGen,10_10,import,43,Mothers,0.3099229803317872
+GenGen,10_10,import,44,Fathers,0.17427801962994766
+GenGen,10_10,import,44,Female candidates,0.15072324333893294
+GenGen,10_10,import,44,Male candidates,0.21527907240692848
+GenGen,10_10,import,44,Mothers,0.32119596366874337
+GenGen,10_10,import,45,Fathers,0.19884100486712547
+GenGen,10_10,import,45,Female candidates,0.15888093778513102
+GenGen,10_10,import,45,Male candidates,0.2477116155845629
+GenGen,10_10,import,45,Mothers,0.3277238219295463
+GenGen,10_10,import,46,Fathers,0.20264619075320348
+GenGen,10_10,import,46,Female candidates,0.14072225880806394
+GenGen,10_10,import,46,Male candidates,0.1900856586819369
+GenGen,10_10,import,46,Mothers,0.3321664820924702
+GenGen,10_10,import,47,Fathers,0.2063522312316584
+GenGen,10_10,import,47,Female candidates,0.15206409619941047
+GenGen,10_10,import,47,Male candidates,0.3092022423270407
+GenGen,10_10,import,47,Mothers,0.33388489450677117
+GenGen,10_10,import,48,Fathers,0.20173391296572304
+GenGen,10_10,import,48,Female candidates,0.11786157254176033
+GenGen,10_10,import,48,Male candidates,0.305651555757592
+GenGen,10_10,import,48,Mothers,0.3362684122065202
+GenGen,10_10,import,49,Fathers,0.1898840469391164
+GenGen,10_10,import,49,Female candidates,0.15535988201486828
+GenGen,10_10,import,49,Male candidates,0.2667179942141325
+GenGen,10_10,import,49,Mothers,0.32003039684143436
+GenGen,10_10,import,50,Fathers,0.23803798181881675
+GenGen,10_10,import,50,Female candidates,0.1556068886483498
+GenGen,10_10,import,50,Male candidates,0.16714080146759197
+GenGen,10_10,import,50,Mothers,0.31813517542595915
+GenGen,50_50,home,21,Fathers,-0.07318272505093446
+GenGen,50_50,home,21,Female candidates,0.03933311616034808
+GenGen,50_50,home,21,Male candidates,0.03847124030561002
+GenGen,50_50,home,21,Male candidates1,-0.07879778972412073
+GenGen,50_50,home,21,Mothers,0.1884914529450766
+GenGen,50_50,home,22,Fathers,-0.03643281017812089
+GenGen,50_50,home,22,Female candidates,0.08761966654494414
+GenGen,50_50,home,22,Male candidates,0.22023301924309324
+GenGen,50_50,home,22,Male candidates1,0.03624787827932
+GenGen,50_50,home,22,Mothers,0.27146346646010233
+GenGen,50_50,home,23,Fathers,-0.11673948664794921
+GenGen,50_50,home,23,Female candidates,0.14627344716450932
+GenGen,50_50,home,23,Male candidates,0.3237126525606833
+GenGen,50_50,home,23,Male candidates1,0.08787018467223483
+GenGen,50_50,home,23,Mothers,0.32852609109190367
+GenGen,50_50,home,24,Fathers,0.05075692565901577
+GenGen,50_50,home,24,Female candidates,0.23103802334619794
+GenGen,50_50,home,24,Male candidates,0.16015950800387446
+GenGen,50_50,home,24,Male candidates1,-0.0945700340340683
+GenGen,50_50,home,24,Mothers,0.337912270558776
+GenGen,50_50,home,25,Fathers,-0.23069426346276384
+GenGen,50_50,home,25,Female candidates,0.17450027514096125
+GenGen,50_50,home,25,Male candidates,0.5293524028502384
+GenGen,50_50,home,25,Male candidates1,0.0811022300849259
+GenGen,50_50,home,25,Mothers,0.2887390453858835
+GenGen,50_50,home,26,Fathers,0.05829308464482301
+GenGen,50_50,home,26,Female candidates,0.10472980364378234
+GenGen,50_50,home,26,Male candidates,0.14081670421583392
+GenGen,50_50,home,26,Male candidates1,-0.031735775490938964
+GenGen,50_50,home,26,Mothers,0.26298253701877256
+GenGen,50_50,home,27,Fathers,0.02272080302445461
+GenGen,50_50,home,27,Female candidates,0.06942815311400538
+GenGen,50_50,home,27,Male candidates,0.1350508970670882
+GenGen,50_50,home,27,Male candidates1,0.10834417640553556
+GenGen,50_50,home,27,Mothers,0.21827965568793883
+GenGen,50_50,home,28,Fathers,-0.12019870257051495
+GenGen,50_50,home,28,Female candidates,-0.02374791557707069
+GenGen,50_50,home,28,Male candidates,0.16228944251701574
+GenGen,50_50,home,28,Male candidates1,-0.06418040608408092
+GenGen,50_50,home,28,Mothers,0.1429311506756514
+GenGen,50_50,home,29,Fathers,-0.12507019583078596
+GenGen,50_50,home,29,Female candidates,-0.028056909464463986
+GenGen,50_50,home,29,Male candidates,0.05845030865069618
+GenGen,50_50,home,29,Male candidates1,-0.049128658942814527
+GenGen,50_50,home,29,Mothers,0.1049629655300555
+GenGen,50_50,home,30,Fathers,-0.3847108019628472
+GenGen,50_50,home,30,Female candidates,-0.11326082123009262
+GenGen,50_50,home,30,Male candidates,0.05678320347160816
+GenGen,50_50,home,30,Male candidates1,-0.0902528957136858
+GenGen,50_50,home,30,Mothers,0.05570603889717893
+GenGen,50_50,home,31,Fathers,-0.2044536093682162
+GenGen,50_50,home,31,Female candidates,-0.06509851231350765
+GenGen,50_50,home,31,Male candidates,-0.2385782438746817
+GenGen,50_50,home,31,Mothers,0.16247221069094575
+GenGen,50_50,home,32,Fathers,-0.13307534058647885
+GenGen,50_50,home,32,Female candidates,0.0198429305391603
+GenGen,50_50,home,32,Male candidates,0.05662556429468697
+GenGen,50_50,home,32,Mothers,0.16871656494245935
+GenGen,50_50,home,33,Fathers,-0.11695939783819542
+GenGen,50_50,home,33,Female candidates,0.021184275272722108
+GenGen,50_50,home,33,Male candidates,0.044943923176721835
+GenGen,50_50,home,33,Mothers,0.16822414626723603
+GenGen,50_50,home,34,Fathers,0.0943662532738119
+GenGen,50_50,home,34,Female candidates,0.09336751609906108
+GenGen,50_50,home,34,Male candidates,0.16662586266311435
+GenGen,50_50,home,34,Mothers,0.20546243289946617
+GenGen,50_50,home,35,Fathers,0.13133185703936548
+GenGen,50_50,home,35,Female candidates,0.15050384265065372
+GenGen,50_50,home,35,Male candidates,0.13396861448016953
+GenGen,50_50,home,35,Mothers,0.24156481991397072
+GenGen,50_50,home,36,Fathers,0.14123720667794148
+GenGen,50_50,home,36,Female candidates,0.1495767512139972
+GenGen,50_50,home,36,Male candidates,0.17099903095982624
+GenGen,50_50,home,36,Mothers,0.24746126283852588
+GenGen,50_50,home,37,Fathers,0.2303669889388235
+GenGen,50_50,home,37,Female candidates,0.15820975623293165
+GenGen,50_50,home,37,Male candidates,0.1556542307575088
+GenGen,50_50,home,37,Mothers,0.2663129677722529
+GenGen,50_50,home,38,Fathers,0.18028684150248236
+GenGen,50_50,home,38,Female candidates,0.14332392318525894
+GenGen,50_50,home,38,Male candidates,0.17112341954489468
+GenGen,50_50,home,38,Mothers,0.2932039304971392
+GenGen,50_50,home,39,Fathers,0.14504070920758064
+GenGen,50_50,home,39,Female candidates,0.1179124415345426
+GenGen,50_50,home,39,Male candidates,0.2105231357381665
+GenGen,50_50,home,39,Mothers,0.30927683265521455
+GenGen,50_50,home,40,Fathers,0.20926785473953097
+GenGen,50_50,home,40,Female candidates,0.1554006988480167
+GenGen,50_50,home,40,Male candidates,0.252831101573117
+GenGen,50_50,home,40,Mothers,0.3407827918783368
+GenGen,50_50,home,41,Fathers,0.27204229502512545
+GenGen,50_50,home,41,Female candidates,0.20599348953932908
+GenGen,50_50,home,41,Male candidates,0.25055571145773026
+GenGen,50_50,home,41,Mothers,0.35109878172893405
+GenGen,50_50,home,42,Fathers,0.38384999136838877
+GenGen,50_50,home,42,Female candidates,0.2514203187783804
+GenGen,50_50,home,42,Male candidates,0.2846642970293441
+GenGen,50_50,home,42,Mothers,0.35210635793982437
+GenGen,50_50,home,43,Fathers,0.4051250142220721
+GenGen,50_50,home,43,Female candidates,0.2594783642856095
+GenGen,50_50,home,43,Male candidates,0.28842836551459616
+GenGen,50_50,home,43,Mothers,0.37123569175058185
+GenGen,50_50,home,44,Fathers,0.4139037846347044
+GenGen,50_50,home,44,Female candidates,0.2642833130951544
+GenGen,50_50,home,44,Male candidates,0.347509205524494
+GenGen,50_50,home,44,Mothers,0.3846837383893608
+GenGen,50_50,home,45,Fathers,0.39717462794699016
+GenGen,50_50,home,45,Female candidates,0.2435012013777791
+GenGen,50_50,home,45,Male candidates,0.2711556270270786
+GenGen,50_50,home,45,Mothers,0.4035188803632576
+GenGen,50_50,home,46,Fathers,0.46470603156370593
+GenGen,50_50,home,46,Female candidates,0.2780854278026794
+GenGen,50_50,home,46,Male candidates,0.23394814527678864
+GenGen,50_50,home,46,Mothers,0.418123780936385
+GenGen,50_50,home,47,Fathers,0.4550429409936852
+GenGen,50_50,home,47,Female candidates,0.28734206549798125
+GenGen,50_50,home,47,Male candidates,0.2786009177630324
+GenGen,50_50,home,47,Mothers,0.39970732673511233
+GenGen,50_50,home,48,Fathers,0.4083182234599538
+GenGen,50_50,home,48,Female candidates,0.27911892245468883
+GenGen,50_50,home,48,Male candidates,0.18884782311240947
+GenGen,50_50,home,48,Mothers,0.4085962639774593
+GenGen,50_50,home,49,Fathers,0.3607302059658769
+GenGen,50_50,home,49,Female candidates,0.261154118120688
+GenGen,50_50,home,49,Male candidates,0.2671057479706494
+GenGen,50_50,home,49,Mothers,0.4245949584552212
+GenGen,50_50,home,50,Fathers,0.3918275722370317
+GenGen,50_50,home,50,Female candidates,0.2419552786035919
+GenGen,50_50,home,50,Male candidates,0.2449698604103964
+GenGen,50_50,home,50,Mothers,0.42307874783524774
+GenGen,50_50,import,21,Fathers,-0.07318272505093446
+GenGen,50_50,import,21,Female candidates,0.03933311616034808
+GenGen,50_50,import,21,Male candidates,0.03847124030561002
+GenGen,50_50,import,21,Male candidates1,-0.07879778972412073
+GenGen,50_50,import,21,Mothers,0.1884914529450766
+GenGen,50_50,import,22,Fathers,-0.03643281017812089
+GenGen,50_50,import,22,Female candidates,0.08761966654494414
+GenGen,50_50,import,22,Male candidates,0.22023301924309324
+GenGen,50_50,import,22,Male candidates1,0.03624787827932
+GenGen,50_50,import,22,Mothers,0.27146346646010233
+GenGen,50_50,import,23,Fathers,-0.11673948664794921
+GenGen,50_50,import,23,Female candidates,0.14627344716450932
+GenGen,50_50,import,23,Male candidates,0.3237126525606833
+GenGen,50_50,import,23,Male candidates1,0.08787018467223483
+GenGen,50_50,import,23,Mothers,0.32852609109190367
+GenGen,50_50,import,24,Fathers,0.05075692565901577
+GenGen,50_50,import,24,Female candidates,0.23103802334619794
+GenGen,50_50,import,24,Male candidates,0.16015950800387446
+GenGen,50_50,import,24,Male candidates1,-0.0945700340340683
+GenGen,50_50,import,24,Mothers,0.337912270558776
+GenGen,50_50,import,25,Fathers,-0.23069426346276384
+GenGen,50_50,import,25,Female candidates,0.17450027514096125
+GenGen,50_50,import,25,Male candidates,0.5293524028502384
+GenGen,50_50,import,25,Male candidates1,0.0811022300849259
+GenGen,50_50,import,25,Mothers,0.2887390453858835
+GenGen,50_50,import,26,Fathers,0.05829308464482301
+GenGen,50_50,import,26,Female candidates,0.10472980364378234
+GenGen,50_50,import,26,Male candidates,0.14081670421583392
+GenGen,50_50,import,26,Male candidates1,-0.031735775490938964
+GenGen,50_50,import,26,Mothers,0.26298253701877256
+GenGen,50_50,import,27,Fathers,0.02272080302445461
+GenGen,50_50,import,27,Female candidates,0.06942815311400538
+GenGen,50_50,import,27,Male candidates,0.1350508970670882
+GenGen,50_50,import,27,Male candidates1,0.10834417640553556
+GenGen,50_50,import,27,Mothers,0.21827965568793883
+GenGen,50_50,import,28,Fathers,-0.12019870257051495
+GenGen,50_50,import,28,Female candidates,-0.02374791557707069
+GenGen,50_50,import,28,Male candidates,0.16228944251701574
+GenGen,50_50,import,28,Male candidates1,-0.06418040608408092
+GenGen,50_50,import,28,Mothers,0.1429311506756514
+GenGen,50_50,import,29,Fathers,-0.12507019583078596
+GenGen,50_50,import,29,Female candidates,-0.028056909464463986
+GenGen,50_50,import,29,Male candidates,0.05845030865069618
+GenGen,50_50,import,29,Male candidates1,-0.049128658942814527
+GenGen,50_50,import,29,Mothers,0.1049629655300555
+GenGen,50_50,import,30,Fathers,-0.3847108019628472
+GenGen,50_50,import,30,Female candidates,-0.11326082123009262
+GenGen,50_50,import,30,Male candidates,0.05678320347160816
+GenGen,50_50,import,30,Male candidates1,-0.0902528957136858
+GenGen,50_50,import,30,Mothers,0.05570603889717893
+GenGen,50_50,import,31,Fathers,-0.2044536093682162
+GenGen,50_50,import,31,Female candidates,-0.06509851231350765
+GenGen,50_50,import,31,Male candidates,-0.2385782438746817
+GenGen,50_50,import,31,Mothers,0.16247221069094575
+GenGen,50_50,import,32,Fathers,-0.13307534058647885
+GenGen,50_50,import,32,Female candidates,0.0198429305391603
+GenGen,50_50,import,32,Male candidates,0.05662556429468697
+GenGen,50_50,import,32,Mothers,0.16871656494245935
+GenGen,50_50,import,33,Fathers,-0.11695939783819542
+GenGen,50_50,import,33,Female candidates,0.021184275272722108
+GenGen,50_50,import,33,Male candidates,0.044943923176721835
+GenGen,50_50,import,33,Mothers,0.16822414626723603
+GenGen,50_50,import,34,Fathers,0.0943662532738119
+GenGen,50_50,import,34,Female candidates,0.09336751609906108
+GenGen,50_50,import,34,Male candidates,0.16662586266311435
+GenGen,50_50,import,34,Mothers,0.20546243289946617
+GenGen,50_50,import,35,Fathers,0.13133185703936548
+GenGen,50_50,import,35,Female candidates,0.15050384265065372
+GenGen,50_50,import,35,Male candidates,0.13396861448016953
+GenGen,50_50,import,35,Mothers,0.24156481991397072
+GenGen,50_50,import,36,Fathers,0.14123720667794148
+GenGen,50_50,import,36,Female candidates,0.1495767512139972
+GenGen,50_50,import,36,Male candidates,0.17099903095982624
+GenGen,50_50,import,36,Mothers,0.24746126283852588
+GenGen,50_50,import,37,Fathers,0.2303669889388235
+GenGen,50_50,import,37,Female candidates,0.15820975623293165
+GenGen,50_50,import,37,Male candidates,0.1556542307575088
+GenGen,50_50,import,37,Mothers,0.2663129677722529
+GenGen,50_50,import,38,Fathers,0.18028684150248236
+GenGen,50_50,import,38,Female candidates,0.14332392318525894
+GenGen,50_50,import,38,Male candidates,0.17112341954489468
+GenGen,50_50,import,38,Mothers,0.2932039304971392
+GenGen,50_50,import,39,Fathers,0.14504070920758064
+GenGen,50_50,import,39,Female candidates,0.1179124415345426
+GenGen,50_50,import,39,Male candidates,0.2105231357381665
+GenGen,50_50,import,39,Mothers,0.30927683265521455
+GenGen,50_50,import,40,Fathers,0.20926785473953097
+GenGen,50_50,import,40,Female candidates,0.1554006988480167
+GenGen,50_50,import,40,Male candidates,0.252831101573117
+GenGen,50_50,import,40,Mothers,0.3407827918783368
+GenGen,50_50,import,41,Fathers,0.27204229502512545
+GenGen,50_50,import,41,Female candidates,0.20599348953932908
+GenGen,50_50,import,41,Male candidates,0.25055571145773026
+GenGen,50_50,import,41,Mothers,0.35109878172893405
+GenGen,50_50,import,42,Fathers,0.38384999136838877
+GenGen,50_50,import,42,Female candidates,0.2514203187783804
+GenGen,50_50,import,42,Male candidates,0.2846642970293441
+GenGen,50_50,import,42,Mothers,0.35210635793982437
+GenGen,50_50,import,43,Fathers,0.4051250142220721
+GenGen,50_50,import,43,Female candidates,0.2594783642856095
+GenGen,50_50,import,43,Male candidates,0.28842836551459616
+GenGen,50_50,import,43,Mothers,0.37123569175058185
+GenGen,50_50,import,44,Fathers,0.4139037846347044
+GenGen,50_50,import,44,Female candidates,0.2642833130951544
+GenGen,50_50,import,44,Male candidates,0.347509205524494
+GenGen,50_50,import,44,Mothers,0.3846837383893608
+GenGen,50_50,import,45,Fathers,0.39717462794699016
+GenGen,50_50,import,45,Female candidates,0.2435012013777791
+GenGen,50_50,import,45,Male candidates,0.2711556270270786
+GenGen,50_50,import,45,Mothers,0.4035188803632576
+GenGen,50_50,import,46,Fathers,0.46470603156370593
+GenGen,50_50,import,46,Female candidates,0.2780854278026794
+GenGen,50_50,import,46,Male candidates,0.23394814527678864
+GenGen,50_50,import,46,Mothers,0.418123780936385
+GenGen,50_50,import,47,Fathers,0.4550429409936852
+GenGen,50_50,import,47,Female candidates,0.28734206549798125
+GenGen,50_50,import,47,Male candidates,0.2786009177630324
+GenGen,50_50,import,47,Mothers,0.39970732673511233
+GenGen,50_50,import,48,Fathers,0.4083182234599538
+GenGen,50_50,import,48,Female candidates,0.27911892245468883
+GenGen,50_50,import,48,Male candidates,0.18884782311240947
+GenGen,50_50,import,48,Mothers,0.4085962639774593
+GenGen,50_50,import,49,Fathers,0.3607302059658769
+GenGen,50_50,import,49,Female candidates,0.261154118120688
+GenGen,50_50,import,49,Male candidates,0.2671057479706494
+GenGen,50_50,import,49,Mothers,0.4245949584552212
+GenGen,50_50,import,50,Fathers,0.3918275722370317
+GenGen,50_50,import,50,Female candidates,0.2419552786035919
+GenGen,50_50,import,50,Male candidates,0.2449698604103964
+GenGen,50_50,import,50,Mothers,0.42307874783524774

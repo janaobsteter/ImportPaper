@@ -1,0 +1,1449 @@
+Group,Scenario,Generation,Category,Cor
+home,0_100,21,Fathers,-0.232838857528
+home,0_100,21,Female candidates,0.139775330168
+home,0_100,21,Male candidates,0.136372217876
+home,0_100,21,Male candidates1,0.018310097116
+home,0_100,21,Mothers,0.376828730284
+home,0_100,22,Fathers,-0.031663255626
+home,0_100,22,Female candidates,0.136157167934
+home,0_100,22,Male candidates,0.0791004489231
+home,0_100,22,Male candidates1,-0.125518058034
+home,0_100,22,Mothers,0.442969155111
+home,0_100,23,Fathers,0.0962541069936
+home,0_100,23,Female candidates,0.226703519232
+home,0_100,23,Male candidates,0.0561513299818
+home,0_100,23,Male candidates1,0.0703645795922
+home,0_100,23,Mothers,0.525858228051
+home,0_100,24,Fathers,0.560851308253
+home,0_100,24,Female candidates,0.368808715682
+home,0_100,24,Male candidates,0.842814714818
+home,0_100,24,Male candidates1,0.325455852481
+home,0_100,24,Mothers,0.641258155825
+home,0_100,25,Fathers,0.676783339994
+home,0_100,25,Female candidates,0.424856246947
+home,0_100,25,Male candidates,0.920438808186
+home,0_100,25,Male candidates1,0.418781661676
+home,0_100,25,Mothers,0.648086689826
+home,0_100,26,Fathers,0.768216866106
+home,0_100,26,Female candidates,0.421692353943
+home,0_100,26,Male candidates,0.926113464738
+home,0_100,26,Male candidates1,0.231680136634
+home,0_100,26,Mothers,0.623172220007
+home,0_100,27,Fathers,0.870797605045
+home,0_100,27,Female candidates,0.422422944753
+home,0_100,27,Male candidates,0.934720742645
+home,0_100,27,Male candidates1,0.147463737473
+home,0_100,27,Mothers,0.572267184572
+home,0_100,28,Fathers,0.905856398745
+home,0_100,28,Female candidates,0.387879435951
+home,0_100,28,Male candidates,0.95203787317
+home,0_100,28,Male candidates1,0.396974068939
+home,0_100,28,Mothers,0.587996278707
+home,0_100,29,Fathers,0.921081010223
+home,0_100,29,Female candidates,0.409550975783
+home,0_100,29,Male candidates,0.900098780614
+home,0_100,29,Male candidates1,0.309121426895
+home,0_100,29,Mothers,0.583048996055
+home,0_100,30,Fathers,0.892735489518
+home,0_100,30,Female candidates,0.424866392293
+home,0_100,30,Male candidates,0.886872895324
+home,0_100,30,Male candidates1,0.415438632293
+home,0_100,30,Mothers,0.577070327289
+home,0_100,31,Fathers,0.814460829565
+home,0_100,31,Female candidates,0.431053015756
+home,0_100,31,Male candidates,0.893902651758
+home,0_100,31,Male candidates1,0.387147193265
+home,0_100,31,Mothers,0.574414090809
+home,0_100,32,Fathers,0.777779852205
+home,0_100,32,Female candidates,0.399160071074
+home,0_100,32,Male candidates,0.940362420297
+home,0_100,32,Male candidates1,0.206322454083
+home,0_100,32,Mothers,0.578632912529
+home,0_100,33,Fathers,0.85220765315
+home,0_100,33,Female candidates,0.347388818802
+home,0_100,33,Male candidates,0.860314755055
+home,0_100,33,Male candidates1,0.156436349396
+home,0_100,33,Mothers,0.574434155825
+home,0_100,34,Fathers,0.850207857514
+home,0_100,34,Female candidates,0.36806400494
+home,0_100,34,Male candidates,0.909020254626
+home,0_100,34,Male candidates1,0.268647647258
+home,0_100,34,Mothers,0.570198338068
+home,0_100,35,Fathers,0.870579043545
+home,0_100,35,Female candidates,0.361644640378
+home,0_100,35,Male candidates,0.877289947566
+home,0_100,35,Male candidates1,0.356244138273
+home,0_100,35,Mothers,0.556211387671
+home,0_100,36,Fathers,0.874593743152
+home,0_100,36,Female candidates,0.376587972023
+home,0_100,36,Male candidates,0.917833677155
+home,0_100,36,Male candidates1,0.180393039083
+home,0_100,36,Mothers,0.548690201184
+home,0_100,37,Fathers,0.895553762648
+home,0_100,37,Female candidates,0.370595901815
+home,0_100,37,Male candidates,0.967477851495
+home,0_100,37,Male candidates1,0.252801051263
+home,0_100,37,Mothers,0.550404566631
+home,0_100,38,Fathers,0.912198500453
+home,0_100,38,Female candidates,0.345394630627
+home,0_100,38,Male candidates,0.829744978865
+home,0_100,38,Male candidates1,0.24947451714
+home,0_100,38,Mothers,0.551107547052
+home,0_100,39,Fathers,0.916827630825
+home,0_100,39,Female candidates,0.364553176811
+home,0_100,39,Male candidates,0.926097808125
+home,0_100,39,Male candidates1,0.168268234176
+home,0_100,39,Mothers,0.551533620243
+home,0_100,40,Fathers,0.875866998426
+home,0_100,40,Female candidates,0.368085000516
+home,0_100,40,Male candidates,0.918084581619
+home,0_100,40,Male candidates1,0.375807490441
+home,0_100,40,Mothers,0.54621134014
+home,0_100,41,Fathers,0.56955024006
+home,0_100,41,Female candidates,0.489172147801
+home,0_100,41,Male candidates,0.37438819787
+home,0_100,41,Mothers,0.785680507863
+home,0_100,42,Fathers,0.61040713761
+home,0_100,42,Female candidates,0.426862791507
+home,0_100,42,Male candidates,0.723769586843
+home,0_100,42,Mothers,0.737195357592
+home,0_100,43,Fathers,0.723854857191
+home,0_100,43,Female candidates,0.439890644713
+home,0_100,43,Male candidates,0.756904375403
+home,0_100,43,Mothers,0.705423873462
+home,0_100,44,Fathers,0.749893838896
+home,0_100,44,Female candidates,0.471776723953
+home,0_100,44,Male candidates,0.65977421535
+home,0_100,44,Mothers,0.685288703279
+home,0_100,45,Fathers,0.771971662956
+home,0_100,45,Female candidates,0.528477492704
+home,0_100,45,Male candidates,0.7051630156
+home,0_100,45,Mothers,0.685746018625
+home,0_100,46,Fathers,0.688151243904
+home,0_100,46,Female candidates,0.488196425682
+home,0_100,46,Male candidates,0.71827983716
+home,0_100,46,Mothers,0.695485312889
+home,0_100,47,Fathers,0.681260032326
+home,0_100,47,Female candidates,0.474462031862
+home,0_100,47,Male candidates,0.702929973532
+home,0_100,47,Mothers,0.708088477798
+home,0_100,48,Fathers,0.77085621897
+home,0_100,48,Female candidates,0.458933769723
+home,0_100,48,Male candidates,0.566563606654
+home,0_100,48,Mothers,0.713109449561
+home,0_100,49,Fathers,0.644825676058
+home,0_100,49,Female candidates,0.459325974483
+home,0_100,49,Male candidates,0.639776051763
+home,0_100,49,Mothers,0.702583666582
+home,0_100,50,Fathers,0.635287277549
+home,0_100,50,Female candidates,0.430430043395
+home,0_100,50,Male candidates,0.623025953998
+home,0_100,50,Mothers,0.691891896117
+home,0_100,51,Fathers,0.756677672238
+home,0_100,51,Female candidates,0.428718100908
+home,0_100,51,Male candidates,0.618609980802
+home,0_100,51,Mothers,0.688309417057
+home,0_100,52,Fathers,0.739116509919
+home,0_100,52,Female candidates,0.442631878304
+home,0_100,52,Male candidates,0.693349614628
+home,0_100,52,Mothers,0.678451828424
+home,0_100,53,Fathers,0.724465431389
+home,0_100,53,Female candidates,0.448528264142
+home,0_100,53,Male candidates,0.670457479985
+home,0_100,53,Mothers,0.677139016205
+home,0_100,54,Fathers,0.72508418604
+home,0_100,54,Female candidates,0.440453542456
+home,0_100,54,Male candidates,0.667257491773
+home,0_100,54,Mothers,0.67844946776
+home,0_100,55,Fathers,0.649538666144
+home,0_100,55,Female candidates,0.435184835835
+home,0_100,55,Male candidates,0.669366189802
+home,0_100,55,Mothers,0.684222493761
+home,0_100,56,Fathers,0.716014387268
+home,0_100,56,Female candidates,0.456465628631
+home,0_100,56,Male candidates,0.715919846623
+home,0_100,56,Mothers,0.680152089775
+home,0_100,57,Fathers,0.786934270636
+home,0_100,57,Female candidates,0.445275113213
+home,0_100,57,Male candidates,0.634486414084
+home,0_100,57,Mothers,0.688145645563
+home,0_100,58,Fathers,0.688230759655
+home,0_100,58,Female candidates,0.465449604528
+home,0_100,58,Male candidates,0.722895027443
+home,0_100,58,Mothers,0.691857754139
+home,0_100,59,Fathers,0.726009102318
+home,0_100,59,Female candidates,0.44257040475
+home,0_100,59,Male candidates,0.651284562028
+home,0_100,59,Mothers,0.688512958247
+home,0_100,60,Fathers,0.750927630825
+home,0_100,60,Female candidates,0.452550396661
+home,0_100,60,Male candidates,0.727941567171
+home,0_100,60,Mothers,0.690531744925
+home,0_100,60,izl,0.00154323918867
+home,100_100,21,Fathers,-0.232838857528
+home,100_100,21,Female candidates,0.139775330168
+home,100_100,21,Male candidates,0.136372217876
+home,100_100,21,Male candidates1,0.018310097116
+home,100_100,21,Mothers,0.376828730284
+home,100_100,22,Fathers,-0.031663255626
+home,100_100,22,Female candidates,0.136157167934
+home,100_100,22,Male candidates,0.0791004489231
+home,100_100,22,Male candidates1,-0.125518058034
+home,100_100,22,Mothers,0.442969155111
+home,100_100,23,Fathers,0.0962541069936
+home,100_100,23,Female candidates,0.226703519232
+home,100_100,23,Male candidates,0.0561513299818
+home,100_100,23,Male candidates1,0.0703645795922
+home,100_100,23,Mothers,0.525858228051
+home,100_100,24,Fathers,0.560851308253
+home,100_100,24,Female candidates,0.368808715682
+home,100_100,24,Male candidates,0.842814714818
+home,100_100,24,Male candidates1,0.325455852481
+home,100_100,24,Mothers,0.641258155825
+home,100_100,25,Fathers,0.676783339994
+home,100_100,25,Female candidates,0.424856246947
+home,100_100,25,Male candidates,0.920438808186
+home,100_100,25,Male candidates1,0.418781661676
+home,100_100,25,Mothers,0.648086689826
+home,100_100,26,Fathers,0.768216866106
+home,100_100,26,Female candidates,0.421692353943
+home,100_100,26,Male candidates,0.926113464738
+home,100_100,26,Male candidates1,0.231680136634
+home,100_100,26,Mothers,0.623172220007
+home,100_100,27,Fathers,0.870797605045
+home,100_100,27,Female candidates,0.422422944753
+home,100_100,27,Male candidates,0.934720742645
+home,100_100,27,Male candidates1,0.147463737473
+home,100_100,27,Mothers,0.572267184572
+home,100_100,28,Fathers,0.905856398745
+home,100_100,28,Female candidates,0.387879435951
+home,100_100,28,Male candidates,0.95203787317
+home,100_100,28,Male candidates1,0.396974068939
+home,100_100,28,Mothers,0.587996278707
+home,100_100,29,Fathers,0.921081010223
+home,100_100,29,Female candidates,0.409550975783
+home,100_100,29,Male candidates,0.900098780614
+home,100_100,29,Male candidates1,0.309121426895
+home,100_100,29,Mothers,0.583048996055
+home,100_100,30,Fathers,0.892735489518
+home,100_100,30,Female candidates,0.424866392293
+home,100_100,30,Male candidates,0.886872895324
+home,100_100,30,Male candidates1,0.415438632293
+home,100_100,30,Mothers,0.577070327289
+home,100_100,31,Fathers,0.814460829565
+home,100_100,31,Female candidates,0.431053015756
+home,100_100,31,Male candidates,0.893902651758
+home,100_100,31,Male candidates1,0.387147193265
+home,100_100,31,Mothers,0.574414090809
+home,100_100,32,Fathers,0.777779852205
+home,100_100,32,Female candidates,0.399160071074
+home,100_100,32,Male candidates,0.940362420297
+home,100_100,32,Male candidates1,0.206322454083
+home,100_100,32,Mothers,0.578632912529
+home,100_100,33,Fathers,0.85220765315
+home,100_100,33,Female candidates,0.347388818802
+home,100_100,33,Male candidates,0.860314755055
+home,100_100,33,Male candidates1,0.156436349396
+home,100_100,33,Mothers,0.574434155825
+home,100_100,34,Fathers,0.850207857514
+home,100_100,34,Female candidates,0.36806400494
+home,100_100,34,Male candidates,0.909020254626
+home,100_100,34,Male candidates1,0.268647647258
+home,100_100,34,Mothers,0.570198338068
+home,100_100,35,Fathers,0.870579043545
+home,100_100,35,Female candidates,0.361644640378
+home,100_100,35,Male candidates,0.877289947566
+home,100_100,35,Male candidates1,0.356244138273
+home,100_100,35,Mothers,0.556211387671
+home,100_100,36,Fathers,0.874593743152
+home,100_100,36,Female candidates,0.376587972023
+home,100_100,36,Male candidates,0.917833677155
+home,100_100,36,Male candidates1,0.180393039083
+home,100_100,36,Mothers,0.548690201184
+home,100_100,37,Fathers,0.895553762648
+home,100_100,37,Female candidates,0.370595901815
+home,100_100,37,Male candidates,0.967477851495
+home,100_100,37,Male candidates1,0.252801051263
+home,100_100,37,Mothers,0.550404566631
+home,100_100,38,Fathers,0.912198500453
+home,100_100,38,Female candidates,0.345394630627
+home,100_100,38,Male candidates,0.829744978865
+home,100_100,38,Male candidates1,0.24947451714
+home,100_100,38,Mothers,0.551107547052
+home,100_100,39,Fathers,0.916827630825
+home,100_100,39,Female candidates,0.364553176811
+home,100_100,39,Male candidates,0.926097808125
+home,100_100,39,Male candidates1,0.168268234176
+home,100_100,39,Mothers,0.551533620243
+home,100_100,40,Fathers,0.875866998426
+home,100_100,40,Female candidates,0.368085000516
+home,100_100,40,Male candidates,0.918084581619
+home,100_100,40,Male candidates1,0.375807490441
+home,100_100,40,Mothers,0.54621134014
+home,100_100,41,Fathers,0.577307883369
+home,100_100,41,Female candidates,0.488764715724
+home,100_100,41,Male candidates,0.37453572852
+home,100_100,41,Mothers,0.783019784652
+home,100_100,42,Fathers,0.61032332411
+home,100_100,42,Female candidates,0.329076953741
+home,100_100,42,Male candidates,0.744951036229
+home,100_100,42,Mothers,0.739231126431
+home,100_100,43,Fathers,0.65889432241
+home,100_100,43,Female candidates,0.284256243652
+home,100_100,43,Male candidates,0.662738994177
+home,100_100,43,Mothers,0.704478761819
+home,100_100,44,Fathers,0.669789118604
+home,100_100,44,Female candidates,0.364966734846
+home,100_100,44,Male candidates,0.717383351668
+home,100_100,44,Mothers,0.679913759088
+home,100_100,45,Fathers,0.452048715622
+home,100_100,45,Female candidates,0.358594923656
+home,100_100,45,Male candidates,0.668941131861
+home,100_100,45,Mothers,0.686000402203
+home,100_100,46,Fathers,0.39148904464
+home,100_100,46,Female candidates,0.376428480342
+home,100_100,46,Male candidates,0.647136621974
+home,100_100,46,Mothers,0.688945830437
+home,100_100,47,Fathers,0.528321639394
+home,100_100,47,Female candidates,0.397994099475
+home,100_100,47,Male candidates,0.703003825258
+home,100_100,47,Mothers,0.698026964903
+home,100_100,48,Fathers,0.575243176173
+home,100_100,48,Female candidates,0.380189432414
+home,100_100,48,Male candidates,0.754133967848
+home,100_100,48,Mothers,0.700575983971
+home,100_100,49,Fathers,0.68098888913
+home,100_100,49,Female candidates,0.421233493453
+home,100_100,49,Male candidates,0.759593913453
+home,100_100,49,Mothers,0.704388100018
+home,100_100,50,Fathers,0.646289812795
+home,100_100,50,Female candidates,0.363815141584
+home,100_100,50,Male candidates,0.688940153352
+home,100_100,50,Mothers,0.703720199455
+home,100_100,51,Fathers,0.563571675939
+home,100_100,51,Female candidates,0.360787067076
+home,100_100,51,Male candidates,0.754039926426
+home,100_100,51,Mothers,0.69718788986
+home,100_100,52,Fathers,0.68030601494
+home,100_100,52,Female candidates,0.3494814568
+home,100_100,52,Male candidates,0.675687010481
+home,100_100,52,Mothers,0.688720234225
+home,100_100,53,Fathers,0.502427936359
+home,100_100,53,Female candidates,0.351009831725
+home,100_100,53,Male candidates,0.726655163932
+home,100_100,53,Mothers,0.691900359004
+home,100_100,54,Fathers,0.639058834938
+home,100_100,54,Female candidates,0.355951014159
+home,100_100,54,Male candidates,0.684876299253
+home,100_100,54,Mothers,0.693591949208
+home,100_100,55,Fathers,0.686264912952
+home,100_100,55,Female candidates,0.34896186524
+home,100_100,55,Male candidates,0.725346656702
+home,100_100,55,Mothers,0.692785124393
+home,100_100,56,Fathers,0.650139590801
+home,100_100,56,Female candidates,0.340782770385
+home,100_100,56,Male candidates,0.689867394923
+home,100_100,56,Mothers,0.68919002429
+home,100_100,57,Fathers,0.665656733897
+home,100_100,57,Female candidates,0.386219095609
+home,100_100,57,Male candidates,0.713121814285
+home,100_100,57,Mothers,0.687565926462
+home,100_100,58,Fathers,0.711929172027
+home,100_100,58,Female candidates,0.414495267853
+home,100_100,58,Male candidates,0.628685627155
+home,100_100,58,Mothers,0.691391364749
+home,100_100,59,Fathers,0.729512858333
+home,100_100,59,Female candidates,0.392141832945
+home,100_100,59,Male candidates,0.70338892119
+home,100_100,59,Mothers,0.692132264848
+home,100_100,60,Fathers,0.736985969847
+home,100_100,60,Female candidates,0.388886057724
+home,100_100,60,Male candidates,0.723198725534
+home,100_100,60,Mothers,0.68866160942
+home,100_100,60,izl,0.00244128470634
+home,10_10,21,Fathers,-0.232838857528
+home,10_10,21,Female candidates,0.139775330168
+home,10_10,21,Male candidates,0.136372217876
+home,10_10,21,Male candidates1,0.018310097116
+home,10_10,21,Mothers,0.376828730284
+home,10_10,22,Fathers,-0.031663255626
+home,10_10,22,Female candidates,0.136157167934
+home,10_10,22,Male candidates,0.0791004489231
+home,10_10,22,Male candidates1,-0.125518058034
+home,10_10,22,Mothers,0.442969155111
+home,10_10,23,Fathers,0.0962541069936
+home,10_10,23,Female candidates,0.226703519232
+home,10_10,23,Male candidates,0.0561513299818
+home,10_10,23,Male candidates1,0.0703645795922
+home,10_10,23,Mothers,0.525858228051
+home,10_10,24,Fathers,0.560851308253
+home,10_10,24,Female candidates,0.368808715682
+home,10_10,24,Male candidates,0.842814714818
+home,10_10,24,Male candidates1,0.325455852481
+home,10_10,24,Mothers,0.641258155825
+home,10_10,25,Fathers,0.676783339994
+home,10_10,25,Female candidates,0.424856246947
+home,10_10,25,Male candidates,0.920438808186
+home,10_10,25,Male candidates1,0.418781661676
+home,10_10,25,Mothers,0.648086689826
+home,10_10,26,Fathers,0.768216866106
+home,10_10,26,Female candidates,0.421692353943
+home,10_10,26,Male candidates,0.926113464738
+home,10_10,26,Male candidates1,0.231680136634
+home,10_10,26,Mothers,0.623172220007
+home,10_10,27,Fathers,0.870797605045
+home,10_10,27,Female candidates,0.422422944753
+home,10_10,27,Male candidates,0.934720742645
+home,10_10,27,Male candidates1,0.147463737473
+home,10_10,27,Mothers,0.572267184572
+home,10_10,28,Fathers,0.905856398745
+home,10_10,28,Female candidates,0.387879435951
+home,10_10,28,Male candidates,0.95203787317
+home,10_10,28,Male candidates1,0.396974068939
+home,10_10,28,Mothers,0.587996278707
+home,10_10,29,Fathers,0.921081010223
+home,10_10,29,Female candidates,0.409550975783
+home,10_10,29,Male candidates,0.900098780614
+home,10_10,29,Male candidates1,0.309121426895
+home,10_10,29,Mothers,0.583048996055
+home,10_10,30,Fathers,0.892735489518
+home,10_10,30,Female candidates,0.424866392293
+home,10_10,30,Male candidates,0.886872895324
+home,10_10,30,Male candidates1,0.415438632293
+home,10_10,30,Mothers,0.577070327289
+home,10_10,31,Fathers,0.814460829565
+home,10_10,31,Female candidates,0.431053015756
+home,10_10,31,Male candidates,0.893902651758
+home,10_10,31,Male candidates1,0.387147193265
+home,10_10,31,Mothers,0.574414090809
+home,10_10,32,Fathers,0.777779852205
+home,10_10,32,Female candidates,0.399160071074
+home,10_10,32,Male candidates,0.940362420297
+home,10_10,32,Male candidates1,0.206322454083
+home,10_10,32,Mothers,0.578632912529
+home,10_10,33,Fathers,0.85220765315
+home,10_10,33,Female candidates,0.347388818802
+home,10_10,33,Male candidates,0.860314755055
+home,10_10,33,Male candidates1,0.156436349396
+home,10_10,33,Mothers,0.574434155825
+home,10_10,34,Fathers,0.850207857514
+home,10_10,34,Female candidates,0.36806400494
+home,10_10,34,Male candidates,0.909020254626
+home,10_10,34,Male candidates1,0.268647647258
+home,10_10,34,Mothers,0.570198338068
+home,10_10,35,Fathers,0.870579043545
+home,10_10,35,Female candidates,0.361644640378
+home,10_10,35,Male candidates,0.877289947566
+home,10_10,35,Male candidates1,0.356244138273
+home,10_10,35,Mothers,0.556211387671
+home,10_10,36,Fathers,0.874593743152
+home,10_10,36,Female candidates,0.376587972023
+home,10_10,36,Male candidates,0.917833677155
+home,10_10,36,Male candidates1,0.180393039083
+home,10_10,36,Mothers,0.548690201184
+home,10_10,37,Fathers,0.895553762648
+home,10_10,37,Female candidates,0.370595901815
+home,10_10,37,Male candidates,0.967477851495
+home,10_10,37,Male candidates1,0.252801051263
+home,10_10,37,Mothers,0.550404566631
+home,10_10,38,Fathers,0.912198500453
+home,10_10,38,Female candidates,0.345394630627
+home,10_10,38,Male candidates,0.829744978865
+home,10_10,38,Male candidates1,0.24947451714
+home,10_10,38,Mothers,0.551107547052
+home,10_10,39,Fathers,0.916827630825
+home,10_10,39,Female candidates,0.364553176811
+home,10_10,39,Male candidates,0.926097808125
+home,10_10,39,Male candidates1,0.168268234176
+home,10_10,39,Mothers,0.551533620243
+home,10_10,40,Fathers,0.875866998426
+home,10_10,40,Female candidates,0.368085000516
+home,10_10,40,Male candidates,0.918084581619
+home,10_10,40,Male candidates1,0.375807490441
+home,10_10,40,Mothers,0.54621134014
+home,10_10,41,Fathers,0.627654507601
+home,10_10,41,Female candidates,0.490184287779
+home,10_10,41,Male candidates,0.386943821289
+home,10_10,41,Mothers,0.78658395296
+home,10_10,42,Fathers,0.69179029895
+home,10_10,42,Female candidates,0.352756244549
+home,10_10,42,Male candidates,0.789540200894
+home,10_10,42,Mothers,0.740935010162
+home,10_10,43,Fathers,0.815993486573
+home,10_10,43,Female candidates,0.375069704205
+home,10_10,43,Male candidates,0.731111148941
+home,10_10,43,Mothers,0.705232621428
+home,10_10,44,Fathers,0.866665214586
+home,10_10,44,Female candidates,0.439047396225
+home,10_10,44,Male candidates,0.785310751892
+home,10_10,44,Mothers,0.687729514235
+home,10_10,45,Fathers,0.867407413089
+home,10_10,45,Female candidates,0.497731085031
+home,10_10,45,Male candidates,0.777058425172
+home,10_10,45,Mothers,0.697479267454
+home,10_10,46,Fathers,0.880592556633
+home,10_10,46,Female candidates,0.461305416447
+home,10_10,46,Male candidates,0.755971600858
+home,10_10,46,Mothers,0.707140162453
+home,10_10,47,Fathers,0.842972080645
+home,10_10,47,Female candidates,0.459967923221
+home,10_10,47,Male candidates,0.78696533488
+home,10_10,47,Mothers,0.724953434952
+home,10_10,48,Fathers,0.822403953586
+home,10_10,48,Female candidates,0.400033138888
+home,10_10,48,Male candidates,0.695982166915
+home,10_10,48,Mothers,0.729096537569
+home,10_10,49,Fathers,0.762171690548
+home,10_10,49,Female candidates,0.432665008695
+home,10_10,49,Male candidates,0.753455312385
+home,10_10,49,Mothers,0.722563682766
+home,10_10,50,Fathers,0.663113262665
+home,10_10,50,Female candidates,0.409984358433
+home,10_10,50,Male candidates,0.713038378225
+home,10_10,50,Mothers,0.712346286586
+home,10_10,51,Fathers,0.678269286714
+home,10_10,51,Female candidates,0.391178182087
+home,10_10,51,Male candidates,0.748828369868
+home,10_10,51,Mothers,0.713064954842
+home,10_10,52,Fathers,0.738305000227
+home,10_10,52,Female candidates,0.407248088123
+home,10_10,52,Male candidates,0.742191069835
+home,10_10,52,Mothers,0.70821892522
+home,10_10,53,Fathers,0.780099058893
+home,10_10,53,Female candidates,0.416820170721
+home,10_10,53,Male candidates,0.71356193799
+home,10_10,53,Mothers,0.700409293214
+home,10_10,54,Fathers,0.799238001791
+home,10_10,54,Female candidates,0.425791190463
+home,10_10,54,Male candidates,0.759099260442
+home,10_10,54,Mothers,0.7025736457
+home,10_10,55,Fathers,0.795555531118
+home,10_10,55,Female candidates,0.431288540181
+home,10_10,55,Male candidates,0.745286607732
+home,10_10,55,Mothers,0.700315974512
+home,10_10,56,Fathers,0.754831263729
+home,10_10,56,Female candidates,0.420846308139
+home,10_10,56,Male candidates,0.702078773029
+home,10_10,56,Mothers,0.702199923961
+home,10_10,57,Fathers,0.752075558793
+home,10_10,57,Female candidates,0.406992016168
+home,10_10,57,Male candidates,0.759165188412
+home,10_10,57,Mothers,0.704083632123
+home,10_10,58,Fathers,0.70849928292
+home,10_10,58,Female candidates,0.405067189728
+home,10_10,58,Male candidates,0.783322695019
+home,10_10,58,Mothers,0.704779542536
+home,10_10,59,Fathers,0.723631554903
+home,10_10,59,Female candidates,0.378937740212
+home,10_10,59,Male candidates,0.755428805139
+home,10_10,59,Mothers,0.700766059642
+home,10_10,60,Fathers,0.782599066059
+home,10_10,60,Female candidates,0.39167202828
+home,10_10,60,Male candidates,0.689717466484
+home,10_10,60,Mothers,0.692378029419
+home,10_10,60,izl,0.00153196708212
+home,50_50,21,Fathers,-0.232838857528
+home,50_50,21,Female candidates,0.139775330168
+home,50_50,21,Male candidates,0.136372217876
+home,50_50,21,Male candidates1,0.018310097116
+home,50_50,21,Mothers,0.376828730284
+home,50_50,22,Fathers,-0.031663255626
+home,50_50,22,Female candidates,0.136157167934
+home,50_50,22,Male candidates,0.0791004489231
+home,50_50,22,Male candidates1,-0.125518058034
+home,50_50,22,Mothers,0.442969155111
+home,50_50,23,Fathers,0.0962541069936
+home,50_50,23,Female candidates,0.226703519232
+home,50_50,23,Male candidates,0.0561513299818
+home,50_50,23,Male candidates1,0.0703645795922
+home,50_50,23,Mothers,0.525858228051
+home,50_50,24,Fathers,0.560851308253
+home,50_50,24,Female candidates,0.368808715682
+home,50_50,24,Male candidates,0.842814714818
+home,50_50,24,Male candidates1,0.325455852481
+home,50_50,24,Mothers,0.641258155825
+home,50_50,25,Fathers,0.676783339994
+home,50_50,25,Female candidates,0.424856246947
+home,50_50,25,Male candidates,0.920438808186
+home,50_50,25,Male candidates1,0.418781661676
+home,50_50,25,Mothers,0.648086689826
+home,50_50,26,Fathers,0.768216866106
+home,50_50,26,Female candidates,0.421692353943
+home,50_50,26,Male candidates,0.926113464738
+home,50_50,26,Male candidates1,0.231680136634
+home,50_50,26,Mothers,0.623172220007
+home,50_50,27,Fathers,0.870797605045
+home,50_50,27,Female candidates,0.422422944753
+home,50_50,27,Male candidates,0.934720742645
+home,50_50,27,Male candidates1,0.147463737473
+home,50_50,27,Mothers,0.572267184572
+home,50_50,28,Fathers,0.905856398745
+home,50_50,28,Female candidates,0.387879435951
+home,50_50,28,Male candidates,0.95203787317
+home,50_50,28,Male candidates1,0.396974068939
+home,50_50,28,Mothers,0.587996278707
+home,50_50,29,Fathers,0.921081010223
+home,50_50,29,Female candidates,0.409550975783
+home,50_50,29,Male candidates,0.900098780614
+home,50_50,29,Male candidates1,0.309121426895
+home,50_50,29,Mothers,0.583048996055
+home,50_50,30,Fathers,0.892735489518
+home,50_50,30,Female candidates,0.424866392293
+home,50_50,30,Male candidates,0.886872895324
+home,50_50,30,Male candidates1,0.415438632293
+home,50_50,30,Mothers,0.577070327289
+home,50_50,31,Fathers,0.814460829565
+home,50_50,31,Female candidates,0.431053015756
+home,50_50,31,Male candidates,0.893902651758
+home,50_50,31,Male candidates1,0.387147193265
+home,50_50,31,Mothers,0.574414090809
+home,50_50,32,Fathers,0.777779852205
+home,50_50,32,Female candidates,0.399160071074
+home,50_50,32,Male candidates,0.940362420297
+home,50_50,32,Male candidates1,0.206322454083
+home,50_50,32,Mothers,0.578632912529
+home,50_50,33,Fathers,0.85220765315
+home,50_50,33,Female candidates,0.347388818802
+home,50_50,33,Male candidates,0.860314755055
+home,50_50,33,Male candidates1,0.156436349396
+home,50_50,33,Mothers,0.574434155825
+home,50_50,34,Fathers,0.850207857514
+home,50_50,34,Female candidates,0.36806400494
+home,50_50,34,Male candidates,0.909020254626
+home,50_50,34,Male candidates1,0.268647647258
+home,50_50,34,Mothers,0.570198338068
+home,50_50,35,Fathers,0.870579043545
+home,50_50,35,Female candidates,0.361644640378
+home,50_50,35,Male candidates,0.877289947566
+home,50_50,35,Male candidates1,0.356244138273
+home,50_50,35,Mothers,0.556211387671
+home,50_50,36,Fathers,0.874593743152
+home,50_50,36,Female candidates,0.376587972023
+home,50_50,36,Male candidates,0.917833677155
+home,50_50,36,Male candidates1,0.180393039083
+home,50_50,36,Mothers,0.548690201184
+home,50_50,37,Fathers,0.895553762648
+home,50_50,37,Female candidates,0.370595901815
+home,50_50,37,Male candidates,0.967477851495
+home,50_50,37,Male candidates1,0.252801051263
+home,50_50,37,Mothers,0.550404566631
+home,50_50,38,Fathers,0.912198500453
+home,50_50,38,Female candidates,0.345394630627
+home,50_50,38,Male candidates,0.829744978865
+home,50_50,38,Male candidates1,0.24947451714
+home,50_50,38,Mothers,0.551107547052
+home,50_50,39,Fathers,0.916827630825
+home,50_50,39,Female candidates,0.364553176811
+home,50_50,39,Male candidates,0.926097808125
+home,50_50,39,Male candidates1,0.168268234176
+home,50_50,39,Mothers,0.551533620243
+home,50_50,40,Fathers,0.875866998426
+home,50_50,40,Female candidates,0.368085000516
+home,50_50,40,Male candidates,0.918084581619
+home,50_50,40,Male candidates1,0.375807490441
+home,50_50,40,Mothers,0.54621134014
+home,50_50,41,Fathers,0.617653714857
+home,50_50,41,Female candidates,0.499090510802
+home,50_50,41,Male candidates,0.371342233581
+home,50_50,41,Mothers,0.786557404191
+home,50_50,42,Fathers,0.701077788873
+home,50_50,42,Female candidates,0.258054201529
+home,50_50,42,Male candidates,0.763677546239
+home,50_50,42,Mothers,0.741427784881
+home,50_50,43,Fathers,0.765626697705
+home,50_50,43,Female candidates,0.291417598073
+home,50_50,43,Male candidates,0.668150239134
+home,50_50,43,Mothers,0.708567821115
+home,50_50,44,Fathers,0.79025645471
+home,50_50,44,Female candidates,0.362414060876
+home,50_50,44,Male candidates,0.707545752694
+home,50_50,44,Mothers,0.690306088019
+home,50_50,45,Fathers,0.837413232183
+home,50_50,45,Female candidates,0.376282787932
+home,50_50,45,Male candidates,0.694455575478
+home,50_50,45,Mothers,0.699569622801
+home,50_50,46,Fathers,0.80983605572
+home,50_50,46,Female candidates,0.399549737316
+home,50_50,46,Male candidates,0.68514439587
+home,50_50,46,Mothers,0.7080323571
+home,50_50,47,Fathers,0.76306519376
+home,50_50,47,Female candidates,0.396421786123
+home,50_50,47,Male candidates,0.669059460736
+home,50_50,47,Mothers,0.71454753439
+home,50_50,48,Fathers,0.814038111142
+home,50_50,48,Female candidates,0.379823926315
+home,50_50,48,Male candidates,0.683514073974
+home,50_50,48,Mothers,0.71382738275
+home,50_50,49,Fathers,0.755593336706
+home,50_50,49,Female candidates,0.386849990101
+home,50_50,49,Male candidates,0.653007256928
+home,50_50,49,Mothers,0.713665308785
+home,50_50,50,Fathers,0.706450117837
+home,50_50,50,Female candidates,0.386623979119
+home,50_50,50,Male candidates,0.774656361226
+home,50_50,50,Mothers,0.70718397973
+home,50_50,51,Fathers,0.727937995052
+home,50_50,51,Female candidates,0.355377734343
+home,50_50,51,Male candidates,0.671897715196
+home,50_50,51,Mothers,0.700885533645
+home,50_50,52,Fathers,0.656135627739
+home,50_50,52,Female candidates,0.366725393537
+home,50_50,52,Male candidates,0.723858107454
+home,50_50,52,Mothers,0.695788925963
+home,50_50,53,Fathers,0.766776685415
+home,50_50,53,Female candidates,0.371750381968
+home,50_50,53,Male candidates,0.687729072978
+home,50_50,53,Mothers,0.693171058944
+home,50_50,54,Fathers,0.744881329239
+home,50_50,54,Female candidates,0.383363356585
+home,50_50,54,Male candidates,0.622152940405
+home,50_50,54,Mothers,0.69087127328
+home,50_50,55,Fathers,0.760506962129
+home,50_50,55,Female candidates,0.421066370923
+home,50_50,55,Male candidates,0.671798108956
+home,50_50,55,Mothers,0.69335391699
+home,50_50,56,Fathers,0.722729488321
+home,50_50,56,Female candidates,0.406309228085
+home,50_50,56,Male candidates,0.781038562216
+home,50_50,56,Mothers,0.697062573696
+home,50_50,57,Fathers,0.726382368809
+home,50_50,57,Female candidates,0.383131189746
+home,50_50,57,Male candidates,0.694418778557
+home,50_50,57,Mothers,0.697722405602
+home,50_50,58,Fathers,0.634607468418
+home,50_50,58,Female candidates,0.387068722917
+home,50_50,58,Male candidates,0.725488479904
+home,50_50,58,Mothers,0.694300158061
+home,50_50,59,Fathers,0.687610944833
+home,50_50,59,Female candidates,0.401112296537
+home,50_50,59,Male candidates,0.711174936435
+home,50_50,59,Mothers,0.691619821787
+home,50_50,60,Fathers,0.699732362792
+home,50_50,60,Female candidates,0.428668355775
+home,50_50,60,Male candidates,0.758703674387
+home,50_50,60,Mothers,0.691488896386
+home,50_50,60,izl,0.00285248445937
+import,0_100,21,Fathers,0.218146113021
+import,0_100,21,Female candidates,0.25102264931
+import,0_100,21,Male candidates,0.179452914
+import,0_100,21,Male candidates1,0.13643956126
+import,0_100,21,Mothers,0.609739219543
+import,0_100,22,Fathers,0.198529753003
+import,0_100,22,Female candidates,0.315403821569
+import,0_100,22,Male candidates,0.201872805224
+import,0_100,22,Male candidates1,0.0594028377492
+import,0_100,22,Mothers,0.589218146141
+import,0_100,23,Fathers,0.0598623838201
+import,0_100,23,Female candidates,0.410757821752
+import,0_100,23,Male candidates,0.161171350461
+import,0_100,23,Male candidates1,0.0669376560233
+import,0_100,23,Mothers,0.584914773634
+import,0_100,24,Fathers,0.00783429057686
+import,0_100,24,Female candidates,0.215684213071
+import,0_100,24,Male candidates,0.28399011967
+import,0_100,24,Male candidates1,0.0908952179593
+import,0_100,24,Mothers,0.694515454602
+import,0_100,25,Fathers,0.144468751819
+import,0_100,25,Female candidates,0.32078754574
+import,0_100,25,Male candidates,0.33338256117
+import,0_100,25,Male candidates1,0.100351306671
+import,0_100,25,Mothers,0.674519770081
+import,0_100,26,Fathers,0.325821009705
+import,0_100,26,Female candidates,0.307974517428
+import,0_100,26,Male candidates,0.324619385981
+import,0_100,26,Male candidates1,0.274658166207
+import,0_100,26,Mothers,0.604141975228
+import,0_100,27,Fathers,0.642013364066
+import,0_100,27,Female candidates,0.276463185341
+import,0_100,27,Male candidates,0.226732530254
+import,0_100,27,Male candidates1,0.255513495312
+import,0_100,27,Mothers,0.489266407733
+import,0_100,28,Fathers,0.665747450017
+import,0_100,28,Female candidates,0.270411903756
+import,0_100,28,Male candidates,0.33088184829
+import,0_100,28,Male candidates1,0.194397922871
+import,0_100,28,Mothers,0.511531971641
+import,0_100,29,Fathers,0.628567497489
+import,0_100,29,Female candidates,0.255741398532
+import,0_100,29,Male candidates,0.250678646694
+import,0_100,29,Male candidates1,0.186769224478
+import,0_100,29,Mothers,0.483440630521
+import,0_100,30,Fathers,0.331532510391
+import,0_100,30,Female candidates,0.251461874447
+import,0_100,30,Male candidates,0.422106290525
+import,0_100,30,Male candidates1,0.273996544528
+import,0_100,30,Mothers,0.480169557791
+import,0_100,31,Fathers,0.325957578836
+import,0_100,31,Female candidates,0.244777846002
+import,0_100,31,Male candidates,0.356890947057
+import,0_100,31,Male candidates1,0.194236176296
+import,0_100,31,Mothers,0.475246844916
+import,0_100,32,Fathers,0.304390018612
+import,0_100,32,Female candidates,0.213500612473
+import,0_100,32,Male candidates,0.2840924792
+import,0_100,32,Male candidates1,0.073051032166
+import,0_100,32,Mothers,0.464731940788
+import,0_100,33,Fathers,0.277940592261
+import,0_100,33,Female candidates,0.217507736953
+import,0_100,33,Male candidates,0.306399445288
+import,0_100,33,Male candidates1,0.106342073123
+import,0_100,33,Mothers,0.458188325755
+import,0_100,34,Fathers,0.241129031024
+import,0_100,34,Female candidates,0.187240232072
+import,0_100,34,Male candidates,0.419115352915
+import,0_100,34,Male candidates1,0.111960216852
+import,0_100,34,Mothers,0.458368932846
+import,0_100,35,Fathers,0.280369862192
+import,0_100,35,Female candidates,0.203013044162
+import,0_100,35,Male candidates,0.276722743572
+import,0_100,35,Male candidates1,0.0713087925049
+import,0_100,35,Mothers,0.448942895528
+import,0_100,36,Fathers,0.260763551395
+import,0_100,36,Female candidates,0.194349938521
+import,0_100,36,Male candidates,0.203149746955
+import,0_100,36,Male candidates1,0.0923623751206
+import,0_100,36,Mothers,0.443537338949
+import,0_100,37,Fathers,0.265244522514
+import,0_100,37,Female candidates,0.174732234916
+import,0_100,37,Male candidates,0.31317654918
+import,0_100,37,Male candidates1,0.0919370029421
+import,0_100,37,Mothers,0.439588080837
+import,0_100,38,Fathers,0.215480107921
+import,0_100,38,Female candidates,0.189202538117
+import,0_100,38,Male candidates,0.278590739887
+import,0_100,38,Male candidates1,0.103497826798
+import,0_100,38,Mothers,0.43473718327
+import,0_100,39,Fathers,0.248188533948
+import,0_100,39,Female candidates,0.195134902731
+import,0_100,39,Male candidates,0.299036896234
+import,0_100,39,Male candidates1,0.100302599856
+import,0_100,39,Mothers,0.434569159546
+import,0_100,40,Fathers,0.204657022678
+import,0_100,40,Female candidates,0.18794092772
+import,0_100,40,Male candidates,0.269880083627
+import,0_100,40,Male candidates1,0.0436191414632
+import,0_100,40,Mothers,0.432468108361
+import,0_100,41,Fathers,0.299398146016
+import,0_100,41,Female candidates,0.301947337063
+import,0_100,41,Male candidates,0.0993100450168
+import,0_100,41,Mothers,0.625568973844
+import,0_100,42,Fathers,0.402504278881
+import,0_100,42,Female candidates,0.297448089086
+import,0_100,42,Male candidates,0.681379292411
+import,0_100,42,Mothers,0.600151818492
+import,0_100,43,Fathers,0.599606315502
+import,0_100,43,Female candidates,0.29527956039
+import,0_100,43,Male candidates,0.717527917658
+import,0_100,43,Mothers,0.584830341413
+import,0_100,44,Fathers,0.743291932454
+import,0_100,44,Female candidates,0.347285242943
+import,0_100,44,Male candidates,0.758863176497
+import,0_100,44,Mothers,0.577667645694
+import,0_100,45,Fathers,0.779394379316
+import,0_100,45,Female candidates,0.389635646997
+import,0_100,45,Male candidates,0.753922614884
+import,0_100,45,Mothers,0.604344825733
+import,0_100,46,Fathers,0.762720434994
+import,0_100,46,Female candidates,0.429710890549
+import,0_100,46,Male candidates,0.74605438931
+import,0_100,46,Mothers,0.625555045235
+import,0_100,47,Fathers,0.689997023303
+import,0_100,47,Female candidates,0.405791960626
+import,0_100,47,Male candidates,0.741116217123
+import,0_100,47,Mothers,0.63811961184
+import,0_100,48,Fathers,0.678318073184
+import,0_100,48,Female candidates,0.391003993523
+import,0_100,48,Male candidates,0.751158884158
+import,0_100,48,Mothers,0.651421084676
+import,0_100,49,Fathers,0.675077613073
+import,0_100,49,Female candidates,0.401415513908
+import,0_100,49,Male candidates,0.723645932049
+import,0_100,49,Mothers,0.65737545179
+import,0_100,50,Fathers,0.642706698597
+import,0_100,50,Female candidates,0.403427417033
+import,0_100,50,Male candidates,0.760019344443
+import,0_100,50,Mothers,0.661580284608
+import,0_100,51,Fathers,0.638691686798
+import,0_100,51,Female candidates,0.393360098778
+import,0_100,51,Male candidates,0.742016589741
+import,0_100,51,Mothers,0.661157842076
+import,0_100,52,Fathers,0.650184007009
+import,0_100,52,Female candidates,0.389723571735
+import,0_100,52,Male candidates,0.733941199322
+import,0_100,52,Mothers,0.66018644863
+import,0_100,53,Fathers,0.654728292906
+import,0_100,53,Female candidates,0.393187907275
+import,0_100,53,Male candidates,0.771646183959
+import,0_100,53,Mothers,0.660565726739
+import,0_100,54,Fathers,0.707745170564
+import,0_100,54,Female candidates,0.404031126334
+import,0_100,54,Male candidates,0.774028019018
+import,0_100,54,Mothers,0.661124738765
+import,0_100,55,Fathers,0.702115100438
+import,0_100,55,Female candidates,0.405054065704
+import,0_100,55,Male candidates,0.74192923994
+import,0_100,55,Mothers,0.662662759753
+import,0_100,56,Fathers,0.699852727206
+import,0_100,56,Female candidates,0.416928432683
+import,0_100,56,Male candidates,0.769469463738
+import,0_100,56,Mothers,0.667673431489
+import,0_100,57,Fathers,0.727052947178
+import,0_100,57,Female candidates,0.414978945635
+import,0_100,57,Male candidates,0.760623559643
+import,0_100,57,Mothers,0.665751529735
+import,0_100,58,Fathers,0.689685983307
+import,0_100,58,Female candidates,0.410123847543
+import,0_100,58,Male candidates,0.776245780481
+import,0_100,58,Mothers,0.667294332696
+import,0_100,59,Fathers,0.703639933106
+import,0_100,59,Female candidates,0.40638475013
+import,0_100,59,Male candidates,0.761011021058
+import,0_100,59,Mothers,0.666419761244
+import,0_100,60,Fathers,0.689963066565
+import,0_100,60,Female candidates,0.397969267113
+import,0_100,60,Male candidates,0.77146868335
+import,0_100,60,Mothers,0.662148414688
+import,0_100,60,izl,0.00812751722705
+import,100_100,21,Fathers,0.218146113021
+import,100_100,21,Female candidates,0.25102264931
+import,100_100,21,Male candidates,0.179452914
+import,100_100,21,Male candidates1,0.13643956126
+import,100_100,21,Mothers,0.609739219543
+import,100_100,22,Fathers,0.198529753003
+import,100_100,22,Female candidates,0.315403821569
+import,100_100,22,Male candidates,0.201872805224
+import,100_100,22,Male candidates1,0.0594028377492
+import,100_100,22,Mothers,0.589218146141
+import,100_100,23,Fathers,0.0598623838201
+import,100_100,23,Female candidates,0.410757821752
+import,100_100,23,Male candidates,0.161171350461
+import,100_100,23,Male candidates1,0.0669376560233
+import,100_100,23,Mothers,0.584914773634
+import,100_100,24,Fathers,0.00783429057686
+import,100_100,24,Female candidates,0.215684213071
+import,100_100,24,Male candidates,0.28399011967
+import,100_100,24,Male candidates1,0.0908952179593
+import,100_100,24,Mothers,0.694515454602
+import,100_100,25,Fathers,0.144468751819
+import,100_100,25,Female candidates,0.32078754574
+import,100_100,25,Male candidates,0.33338256117
+import,100_100,25,Male candidates1,0.100351306671
+import,100_100,25,Mothers,0.674519770081
+import,100_100,26,Fathers,0.325821009705
+import,100_100,26,Female candidates,0.307974517428
+import,100_100,26,Male candidates,0.324619385981
+import,100_100,26,Male candidates1,0.274658166207
+import,100_100,26,Mothers,0.604141975228
+import,100_100,27,Fathers,0.642013364066
+import,100_100,27,Female candidates,0.276463185341
+import,100_100,27,Male candidates,0.226732530254
+import,100_100,27,Male candidates1,0.255513495312
+import,100_100,27,Mothers,0.489266407733
+import,100_100,28,Fathers,0.665747450017
+import,100_100,28,Female candidates,0.270411903756
+import,100_100,28,Male candidates,0.33088184829
+import,100_100,28,Male candidates1,0.194397922871
+import,100_100,28,Mothers,0.511531971641
+import,100_100,29,Fathers,0.628567497489
+import,100_100,29,Female candidates,0.255741398532
+import,100_100,29,Male candidates,0.250678646694
+import,100_100,29,Male candidates1,0.186769224478
+import,100_100,29,Mothers,0.483440630521
+import,100_100,30,Fathers,0.331532510391
+import,100_100,30,Female candidates,0.251461874447
+import,100_100,30,Male candidates,0.422106290525
+import,100_100,30,Male candidates1,0.273996544528
+import,100_100,30,Mothers,0.480169557791
+import,100_100,31,Fathers,0.325957578836
+import,100_100,31,Female candidates,0.244777846002
+import,100_100,31,Male candidates,0.356890947057
+import,100_100,31,Male candidates1,0.194236176296
+import,100_100,31,Mothers,0.475246844916
+import,100_100,32,Fathers,0.304390018612
+import,100_100,32,Female candidates,0.213500612473
+import,100_100,32,Male candidates,0.2840924792
+import,100_100,32,Male candidates1,0.073051032166
+import,100_100,32,Mothers,0.464731940788
+import,100_100,33,Fathers,0.277940592261
+import,100_100,33,Female candidates,0.217507736953
+import,100_100,33,Male candidates,0.306399445288
+import,100_100,33,Male candidates1,0.106342073123
+import,100_100,33,Mothers,0.458188325755
+import,100_100,34,Fathers,0.241129031024
+import,100_100,34,Female candidates,0.187240232072
+import,100_100,34,Male candidates,0.419115352915
+import,100_100,34,Male candidates1,0.111960216852
+import,100_100,34,Mothers,0.458368932846
+import,100_100,35,Fathers,0.280369862192
+import,100_100,35,Female candidates,0.203013044162
+import,100_100,35,Male candidates,0.276722743572
+import,100_100,35,Male candidates1,0.0713087925049
+import,100_100,35,Mothers,0.448942895528
+import,100_100,36,Fathers,0.260763551395
+import,100_100,36,Female candidates,0.194349938521
+import,100_100,36,Male candidates,0.203149746955
+import,100_100,36,Male candidates1,0.0923623751206
+import,100_100,36,Mothers,0.443537338949
+import,100_100,37,Fathers,0.265244522514
+import,100_100,37,Female candidates,0.174732234916
+import,100_100,37,Male candidates,0.31317654918
+import,100_100,37,Male candidates1,0.0919370029421
+import,100_100,37,Mothers,0.439588080837
+import,100_100,38,Fathers,0.215480107921
+import,100_100,38,Female candidates,0.189202538117
+import,100_100,38,Male candidates,0.278590739887
+import,100_100,38,Male candidates1,0.103497826798
+import,100_100,38,Mothers,0.43473718327
+import,100_100,39,Fathers,0.248188533948
+import,100_100,39,Female candidates,0.195134902731
+import,100_100,39,Male candidates,0.299036896234
+import,100_100,39,Male candidates1,0.100302599856
+import,100_100,39,Mothers,0.434569159546
+import,100_100,40,Fathers,0.204657022678
+import,100_100,40,Female candidates,0.18794092772
+import,100_100,40,Male candidates,0.269880083627
+import,100_100,40,Male candidates1,0.0436191414632
+import,100_100,40,Mothers,0.432468108361
+import,100_100,41,Fathers,0.310780305979
+import,100_100,41,Female candidates,0.303434673308
+import,100_100,41,Male candidates,0.0981655947234
+import,100_100,41,Mothers,0.62600122049
+import,100_100,42,Fathers,0.431170925335
+import,100_100,42,Female candidates,0.2871409785
+import,100_100,42,Male candidates,0.7025066373
+import,100_100,42,Mothers,0.597159752151
+import,100_100,43,Fathers,0.614586059044
+import,100_100,43,Female candidates,0.292563528705
+import,100_100,43,Male candidates,0.722358309681
+import,100_100,43,Mothers,0.586896749087
+import,100_100,44,Fathers,0.761890858456
+import,100_100,44,Female candidates,0.362737352523
+import,100_100,44,Male candidates,0.750350429205
+import,100_100,44,Mothers,0.582203450689
+import,100_100,45,Fathers,0.790773811037
+import,100_100,45,Female candidates,0.392393261866
+import,100_100,45,Male candidates,0.763193242432
+import,100_100,45,Mothers,0.603292782084
+import,100_100,46,Fathers,0.779422155471
+import,100_100,46,Female candidates,0.423139431086
+import,100_100,46,Male candidates,0.757982414627
+import,100_100,46,Mothers,0.623765983036
+import,100_100,47,Fathers,0.724552476892
+import,100_100,47,Female candidates,0.404122941305
+import,100_100,47,Male candidates,0.757281257768
+import,100_100,47,Mothers,0.637243998942
+import,100_100,48,Fathers,0.727080775286
+import,100_100,48,Female candidates,0.403836032336
+import,100_100,48,Male candidates,0.751948936659
+import,100_100,48,Mothers,0.646042997529
+import,100_100,49,Fathers,0.72027068888
+import,100_100,49,Female candidates,0.401275991481
+import,100_100,49,Male candidates,0.762757577979
+import,100_100,49,Mothers,0.653459241975
+import,100_100,50,Fathers,0.712683626515
+import,100_100,50,Female candidates,0.410182823301
+import,100_100,50,Male candidates,0.742025163791
+import,100_100,50,Mothers,0.659082532182
+import,100_100,51,Fathers,0.694913485094
+import,100_100,51,Female candidates,0.412182821684
+import,100_100,51,Male candidates,0.760330139028
+import,100_100,51,Mothers,0.65876333487
+import,100_100,52,Fathers,0.692211064713
+import,100_100,52,Female candidates,0.409885289119
+import,100_100,52,Male candidates,0.735414690249
+import,100_100,52,Mothers,0.653562348548
+import,100_100,53,Fathers,0.688570271618
+import,100_100,53,Female candidates,0.404297205476
+import,100_100,53,Male candidates,0.74656879974
+import,100_100,53,Mothers,0.65912233165
+import,100_100,54,Fathers,0.685320054024
+import,100_100,54,Female candidates,0.405016277065
+import,100_100,54,Male candidates,0.761174350006
+import,100_100,54,Mothers,0.661213021117
+import,100_100,55,Fathers,0.677989123541
+import,100_100,55,Female candidates,0.400701408252
+import,100_100,55,Male candidates,0.738443004798
+import,100_100,55,Mothers,0.661430748343
+import,100_100,56,Fathers,0.630220797296
+import,100_100,56,Female candidates,0.396781502926
+import,100_100,56,Male candidates,0.756133698123
+import,100_100,56,Mothers,0.662900371112
+import,100_100,57,Fathers,0.679508644822
+import,100_100,57,Female candidates,0.393882083721
+import,100_100,57,Male candidates,0.759801318693
+import,100_100,57,Mothers,0.661047622455
+import,100_100,58,Fathers,0.719358291001
+import,100_100,58,Female candidates,0.403675084957
+import,100_100,58,Male candidates,0.749548098353
+import,100_100,58,Mothers,0.660296590585
+import,100_100,59,Fathers,0.711582837508
+import,100_100,59,Female candidates,0.41060645526
+import,100_100,59,Male candidates,0.762630075012
+import,100_100,59,Mothers,0.66248417853
+import,100_100,60,Fathers,0.72747397049
+import,100_100,60,Female candidates,0.410144500667
+import,100_100,60,Male candidates,0.764645878304
+import,100_100,60,Mothers,0.660543480579
+import,100_100,60,izl,0.00826688861152
+import,10_10,21,Fathers,0.218146113021
+import,10_10,21,Female candidates,0.25102264931
+import,10_10,21,Male candidates,0.179452914
+import,10_10,21,Male candidates1,0.13643956126
+import,10_10,21,Mothers,0.609739219543
+import,10_10,22,Fathers,0.198529753003
+import,10_10,22,Female candidates,0.315403821569
+import,10_10,22,Male candidates,0.201872805224
+import,10_10,22,Male candidates1,0.0594028377492
+import,10_10,22,Mothers,0.589218146141
+import,10_10,23,Fathers,0.0598623838201
+import,10_10,23,Female candidates,0.410757821752
+import,10_10,23,Male candidates,0.161171350461
+import,10_10,23,Male candidates1,0.0669376560233
+import,10_10,23,Mothers,0.584914773634
+import,10_10,24,Fathers,0.00783429057686
+import,10_10,24,Female candidates,0.215684213071
+import,10_10,24,Male candidates,0.28399011967
+import,10_10,24,Male candidates1,0.0908952179593
+import,10_10,24,Mothers,0.694515454602
+import,10_10,25,Fathers,0.144468751819
+import,10_10,25,Female candidates,0.32078754574
+import,10_10,25,Male candidates,0.33338256117
+import,10_10,25,Male candidates1,0.100351306671
+import,10_10,25,Mothers,0.674519770081
+import,10_10,26,Fathers,0.325821009705
+import,10_10,26,Female candidates,0.307974517428
+import,10_10,26,Male candidates,0.324619385981
+import,10_10,26,Male candidates1,0.274658166207
+import,10_10,26,Mothers,0.604141975228
+import,10_10,27,Fathers,0.642013364066
+import,10_10,27,Female candidates,0.276463185341
+import,10_10,27,Male candidates,0.226732530254
+import,10_10,27,Male candidates1,0.255513495312
+import,10_10,27,Mothers,0.489266407733
+import,10_10,28,Fathers,0.665747450017
+import,10_10,28,Female candidates,0.270411903756
+import,10_10,28,Male candidates,0.33088184829
+import,10_10,28,Male candidates1,0.194397922871
+import,10_10,28,Mothers,0.511531971641
+import,10_10,29,Fathers,0.628567497489
+import,10_10,29,Female candidates,0.255741398532
+import,10_10,29,Male candidates,0.250678646694
+import,10_10,29,Male candidates1,0.186769224478
+import,10_10,29,Mothers,0.483440630521
+import,10_10,30,Fathers,0.331532510391
+import,10_10,30,Female candidates,0.251461874447
+import,10_10,30,Male candidates,0.422106290525
+import,10_10,30,Male candidates1,0.273996544528
+import,10_10,30,Mothers,0.480169557791
+import,10_10,31,Fathers,0.325957578836
+import,10_10,31,Female candidates,0.244777846002
+import,10_10,31,Male candidates,0.356890947057
+import,10_10,31,Male candidates1,0.194236176296
+import,10_10,31,Mothers,0.475246844916
+import,10_10,32,Fathers,0.304390018612
+import,10_10,32,Female candidates,0.213500612473
+import,10_10,32,Male candidates,0.2840924792
+import,10_10,32,Male candidates1,0.073051032166
+import,10_10,32,Mothers,0.464731940788
+import,10_10,33,Fathers,0.277940592261
+import,10_10,33,Female candidates,0.217507736953
+import,10_10,33,Male candidates,0.306399445288
+import,10_10,33,Male candidates1,0.106342073123
+import,10_10,33,Mothers,0.458188325755
+import,10_10,34,Fathers,0.241129031024
+import,10_10,34,Female candidates,0.187240232072
+import,10_10,34,Male candidates,0.419115352915
+import,10_10,34,Male candidates1,0.111960216852
+import,10_10,34,Mothers,0.458368932846
+import,10_10,35,Fathers,0.280369862192
+import,10_10,35,Female candidates,0.203013044162
+import,10_10,35,Male candidates,0.276722743572
+import,10_10,35,Male candidates1,0.0713087925049
+import,10_10,35,Mothers,0.448942895528
+import,10_10,36,Fathers,0.260763551395
+import,10_10,36,Female candidates,0.194349938521
+import,10_10,36,Male candidates,0.203149746955
+import,10_10,36,Male candidates1,0.0923623751206
+import,10_10,36,Mothers,0.443537338949
+import,10_10,37,Fathers,0.265244522514
+import,10_10,37,Female candidates,0.174732234916
+import,10_10,37,Male candidates,0.31317654918
+import,10_10,37,Male candidates1,0.0919370029421
+import,10_10,37,Mothers,0.439588080837
+import,10_10,38,Fathers,0.215480107921
+import,10_10,38,Female candidates,0.189202538117
+import,10_10,38,Male candidates,0.278590739887
+import,10_10,38,Male candidates1,0.103497826798
+import,10_10,38,Mothers,0.43473718327
+import,10_10,39,Fathers,0.248188533948
+import,10_10,39,Female candidates,0.195134902731
+import,10_10,39,Male candidates,0.299036896234
+import,10_10,39,Male candidates1,0.100302599856
+import,10_10,39,Mothers,0.434569159546
+import,10_10,40,Fathers,0.204657022678
+import,10_10,40,Female candidates,0.18794092772
+import,10_10,40,Male candidates,0.269880083627
+import,10_10,40,Male candidates1,0.0436191414632
+import,10_10,40,Mothers,0.432468108361
+import,10_10,41,Fathers,0.303857494323
+import,10_10,41,Female candidates,0.303501469959
+import,10_10,41,Male candidates,0.114274172489
+import,10_10,41,Mothers,0.624046468295
+import,10_10,42,Fathers,0.409833383317
+import,10_10,42,Female candidates,0.296776013274
+import,10_10,42,Male candidates,0.698691362847
+import,10_10,42,Mothers,0.597839239546
+import,10_10,43,Fathers,0.627326236832
+import,10_10,43,Female candidates,0.298975639412
+import,10_10,43,Male candidates,0.710394235334
+import,10_10,43,Mothers,0.587766568898
+import,10_10,44,Fathers,0.757914137986
+import,10_10,44,Female candidates,0.369543679965
+import,10_10,44,Male candidates,0.760453625139
+import,10_10,44,Mothers,0.579557753784
+import,10_10,45,Fathers,0.814749774697
+import,10_10,45,Female candidates,0.419667544628
+import,10_10,45,Male candidates,0.730283946541
+import,10_10,45,Mothers,0.608558387057
+import,10_10,46,Fathers,0.780017018549
+import,10_10,46,Female candidates,0.444340906615
+import,10_10,46,Male candidates,0.744535843163
+import,10_10,46,Mothers,0.633137340526
+import,10_10,47,Fathers,0.717912599205
+import,10_10,47,Female candidates,0.440815806453
+import,10_10,47,Male candidates,0.763201620154
+import,10_10,47,Mothers,0.652906498901
+import,10_10,48,Fathers,0.71312650598
+import,10_10,48,Female candidates,0.417742175539
+import,10_10,48,Male candidates,0.742524012878
+import,10_10,48,Mothers,0.664144422497
+import,10_10,49,Fathers,0.701831511449
+import,10_10,49,Female candidates,0.410845626418
+import,10_10,49,Male candidates,0.765235653328
+import,10_10,49,Mothers,0.668951462563
+import,10_10,50,Fathers,0.668242912631
+import,10_10,50,Female candidates,0.397592878675
+import,10_10,50,Male candidates,0.77336700221
+import,10_10,50,Mothers,0.668634861945
+import,10_10,51,Fathers,0.689304288358
+import,10_10,51,Female candidates,0.409502346712
+import,10_10,51,Male candidates,0.738922174985
+import,10_10,51,Mothers,0.667118661556
+import,10_10,52,Fathers,0.700165146224
+import,10_10,52,Female candidates,0.416333830273
+import,10_10,52,Male candidates,0.750456362168
+import,10_10,52,Mothers,0.665382596651
+import,10_10,53,Fathers,0.699772855049
+import,10_10,53,Female candidates,0.417663384387
+import,10_10,53,Male candidates,0.747619118312
+import,10_10,53,Mothers,0.666267407891
+import,10_10,54,Fathers,0.694480264397
+import,10_10,54,Female candidates,0.403070978873
+import,10_10,54,Male candidates,0.734155420411
+import,10_10,54,Mothers,0.668007757931
+import,10_10,55,Fathers,0.636686242322
+import,10_10,55,Female candidates,0.402195974121
+import,10_10,55,Male candidates,0.751075902199
+import,10_10,55,Mothers,0.666636150814
+import,10_10,56,Fathers,0.685881183713
+import,10_10,56,Female candidates,0.393864694923
+import,10_10,56,Male candidates,0.749908204058
+import,10_10,56,Mothers,0.665257975904
+import,10_10,57,Fathers,0.678045420075
+import,10_10,57,Female candidates,0.411032974512
+import,10_10,57,Male candidates,0.753762671781
+import,10_10,57,Mothers,0.662122207208
+import,10_10,58,Fathers,0.665647081894
+import,10_10,58,Female candidates,0.384903838467
+import,10_10,58,Male candidates,0.759091176374
+import,10_10,58,Mothers,0.663907699542
+import,10_10,59,Fathers,0.720546465123
+import,10_10,59,Female candidates,0.401290857084
+import,10_10,59,Male candidates,0.787354102196
+import,10_10,59,Mothers,0.662895534733
+import,10_10,60,Fathers,0.708177219635
+import,10_10,60,Female candidates,0.397865177352
+import,10_10,60,Male candidates,0.769421779854
+import,10_10,60,Mothers,0.661153229105
+import,10_10,60,izl,0.00829526905008
+import,50_50,21,Fathers,0.218146113021
+import,50_50,21,Female candidates,0.25102264931
+import,50_50,21,Male candidates,0.179452914
+import,50_50,21,Male candidates1,0.13643956126
+import,50_50,21,Mothers,0.609739219543
+import,50_50,22,Fathers,0.198529753003
+import,50_50,22,Female candidates,0.315403821569
+import,50_50,22,Male candidates,0.201872805224
+import,50_50,22,Male candidates1,0.0594028377492
+import,50_50,22,Mothers,0.589218146141
+import,50_50,23,Fathers,0.0598623838201
+import,50_50,23,Female candidates,0.410757821752
+import,50_50,23,Male candidates,0.161171350461
+import,50_50,23,Male candidates1,0.0669376560233
+import,50_50,23,Mothers,0.584914773634
+import,50_50,24,Fathers,0.00783429057686
+import,50_50,24,Female candidates,0.215684213071
+import,50_50,24,Male candidates,0.28399011967
+import,50_50,24,Male candidates1,0.0908952179593
+import,50_50,24,Mothers,0.694515454602
+import,50_50,25,Fathers,0.144468751819
+import,50_50,25,Female candidates,0.32078754574
+import,50_50,25,Male candidates,0.33338256117
+import,50_50,25,Male candidates1,0.100351306671
+import,50_50,25,Mothers,0.674519770081
+import,50_50,26,Fathers,0.325821009705
+import,50_50,26,Female candidates,0.307974517428
+import,50_50,26,Male candidates,0.324619385981
+import,50_50,26,Male candidates1,0.274658166207
+import,50_50,26,Mothers,0.604141975228
+import,50_50,27,Fathers,0.642013364066
+import,50_50,27,Female candidates,0.276463185341
+import,50_50,27,Male candidates,0.226732530254
+import,50_50,27,Male candidates1,0.255513495312
+import,50_50,27,Mothers,0.489266407733
+import,50_50,28,Fathers,0.665747450017
+import,50_50,28,Female candidates,0.270411903756
+import,50_50,28,Male candidates,0.33088184829
+import,50_50,28,Male candidates1,0.194397922871
+import,50_50,28,Mothers,0.511531971641
+import,50_50,29,Fathers,0.628567497489
+import,50_50,29,Female candidates,0.255741398532
+import,50_50,29,Male candidates,0.250678646694
+import,50_50,29,Male candidates1,0.186769224478
+import,50_50,29,Mothers,0.483440630521
+import,50_50,30,Fathers,0.331532510391
+import,50_50,30,Female candidates,0.251461874447
+import,50_50,30,Male candidates,0.422106290525
+import,50_50,30,Male candidates1,0.273996544528
+import,50_50,30,Mothers,0.480169557791
+import,50_50,31,Fathers,0.325957578836
+import,50_50,31,Female candidates,0.244777846002
+import,50_50,31,Male candidates,0.356890947057
+import,50_50,31,Male candidates1,0.194236176296
+import,50_50,31,Mothers,0.475246844916
+import,50_50,32,Fathers,0.304390018612
+import,50_50,32,Female candidates,0.213500612473
+import,50_50,32,Male candidates,0.2840924792
+import,50_50,32,Male candidates1,0.073051032166
+import,50_50,32,Mothers,0.464731940788
+import,50_50,33,Fathers,0.277940592261
+import,50_50,33,Female candidates,0.217507736953
+import,50_50,33,Male candidates,0.306399445288
+import,50_50,33,Male candidates1,0.106342073123
+import,50_50,33,Mothers,0.458188325755
+import,50_50,34,Fathers,0.241129031024
+import,50_50,34,Female candidates,0.187240232072
+import,50_50,34,Male candidates,0.419115352915
+import,50_50,34,Male candidates1,0.111960216852
+import,50_50,34,Mothers,0.458368932846
+import,50_50,35,Fathers,0.280369862192
+import,50_50,35,Female candidates,0.203013044162
+import,50_50,35,Male candidates,0.276722743572
+import,50_50,35,Male candidates1,0.0713087925049
+import,50_50,35,Mothers,0.448942895528
+import,50_50,36,Fathers,0.260763551395
+import,50_50,36,Female candidates,0.194349938521
+import,50_50,36,Male candidates,0.203149746955
+import,50_50,36,Male candidates1,0.0923623751206
+import,50_50,36,Mothers,0.443537338949
+import,50_50,37,Fathers,0.265244522514
+import,50_50,37,Female candidates,0.174732234916
+import,50_50,37,Male candidates,0.31317654918
+import,50_50,37,Male candidates1,0.0919370029421
+import,50_50,37,Mothers,0.439588080837
+import,50_50,38,Fathers,0.215480107921
+import,50_50,38,Female candidates,0.189202538117
+import,50_50,38,Male candidates,0.278590739887
+import,50_50,38,Male candidates1,0.103497826798
+import,50_50,38,Mothers,0.43473718327
+import,50_50,39,Fathers,0.248188533948
+import,50_50,39,Female candidates,0.195134902731
+import,50_50,39,Male candidates,0.299036896234
+import,50_50,39,Male candidates1,0.100302599856
+import,50_50,39,Mothers,0.434569159546
+import,50_50,40,Fathers,0.204657022678
+import,50_50,40,Female candidates,0.18794092772
+import,50_50,40,Male candidates,0.269880083627
+import,50_50,40,Male candidates1,0.0436191414632
+import,50_50,40,Mothers,0.432468108361
+import,50_50,41,Fathers,0.310115216711
+import,50_50,41,Female candidates,0.304941037711
+import,50_50,41,Male candidates,0.0957827048767
+import,50_50,41,Mothers,0.626795579952
+import,50_50,42,Fathers,0.402666469579
+import,50_50,42,Female candidates,0.300589612705
+import,50_50,42,Male candidates,0.692986397752
+import,50_50,42,Mothers,0.597929069666
+import,50_50,43,Fathers,0.640851891102
+import,50_50,43,Female candidates,0.293586046968
+import,50_50,43,Male candidates,0.725543417087
+import,50_50,43,Mothers,0.584134553404
+import,50_50,44,Fathers,0.769843750005
+import,50_50,44,Female candidates,0.385651058464
+import,50_50,44,Male candidates,0.759161514828
+import,50_50,44,Mothers,0.572221040146
+import,50_50,45,Fathers,0.807890851729
+import,50_50,45,Female candidates,0.411802557565
+import,50_50,45,Male candidates,0.747797779487
+import,50_50,45,Mothers,0.602311102655
+import,50_50,46,Fathers,0.765882397051
+import,50_50,46,Female candidates,0.428376009701
+import,50_50,46,Male candidates,0.777000653748
+import,50_50,46,Mothers,0.629436632109
+import,50_50,47,Fathers,0.6890005195
+import,50_50,47,Female candidates,0.420736957316
+import,50_50,47,Male candidates,0.757349991363
+import,50_50,47,Mothers,0.6433940575
+import,50_50,48,Fathers,0.691049886803
+import,50_50,48,Female candidates,0.3983665933
+import,50_50,48,Male candidates,0.765249220372
+import,50_50,48,Mothers,0.656590995659
+import,50_50,49,Fathers,0.670218836394
+import,50_50,49,Female candidates,0.4057967266
+import,50_50,49,Male candidates,0.773305920147
+import,50_50,49,Mothers,0.662570611724
+import,50_50,50,Fathers,0.677154397781
+import,50_50,50,Female candidates,0.400261861203
+import,50_50,50,Male candidates,0.738999117439
+import,50_50,50,Mothers,0.665746505157
+import,50_50,51,Fathers,0.64386296117
+import,50_50,51,Female candidates,0.402644719587
+import,50_50,51,Male candidates,0.756412034194
+import,50_50,51,Mothers,0.660803330869
+import,50_50,52,Fathers,0.664149070178
+import,50_50,52,Female candidates,0.399748931603
+import,50_50,52,Male candidates,0.758881809965
+import,50_50,52,Mothers,0.658694756233
+import,50_50,53,Fathers,0.679531558221
+import,50_50,53,Female candidates,0.396133133669
+import,50_50,53,Male candidates,0.74053687583
+import,50_50,53,Mothers,0.65933665379
+import,50_50,54,Fathers,0.682330815007
+import,50_50,54,Female candidates,0.401996236816
+import,50_50,54,Male candidates,0.760427251217
+import,50_50,54,Mothers,0.656144006322
+import,50_50,55,Fathers,0.67885082682
+import,50_50,55,Female candidates,0.404626850698
+import,50_50,55,Male candidates,0.76758634382
+import,50_50,55,Mothers,0.663203514971
+import,50_50,56,Fathers,0.675608113196
+import,50_50,56,Female candidates,0.39575092184
+import,50_50,56,Male candidates,0.740430293322
+import,50_50,56,Mothers,0.659855926102
+import,50_50,57,Fathers,0.692266272703
+import,50_50,57,Female candidates,0.407134899047
+import,50_50,57,Male candidates,0.756544984845
+import,50_50,57,Mothers,0.667955169023
+import,50_50,58,Fathers,0.708862895769
+import,50_50,58,Female candidates,0.407803058509
+import,50_50,58,Male candidates,0.786326231915
+import,50_50,58,Mothers,0.669438263808
+import,50_50,59,Fathers,0.70102599495
+import,50_50,59,Female candidates,0.406760415147
+import,50_50,59,Male candidates,0.784324565198
+import,50_50,59,Mothers,0.668444691271
+import,50_50,60,Fathers,0.701046479337
+import,50_50,60,Female candidates,0.419608416146
+import,50_50,60,Male candidates,0.76085982846
+import,50_50,60,Mothers,0.668827244825
+import,50_50,60,izl,0.0082559651501
