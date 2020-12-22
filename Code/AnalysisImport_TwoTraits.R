@@ -1,5 +1,5 @@
 library(lme4)
-library(tidyverse)
+library(tidyr)
 library(ggplot2)
 library(reshape)
 library(lme4)
@@ -32,7 +32,18 @@ burnIn_oneTrait[burnIn_oneTrait$Generation == 40,]
 ########################################################################
 ########################################################################
 #This is for scenario
-TGVsAll <- read.table("TGVsAll_import_23112020_noDelay.csv", header=T)
+TGVsAll <- read.table("Results/TGVsAll_import_14122020_noDelay.csv", header=T)
+# Revalue the variables so that TGV for trait 1 says Trait 1 and the one for trait 2 says Trait 2
+TGVsAll$variable <- plyr::revalue(TGVsAll$variable, c("gvNormUnres1" = "Trait home", "gvNormUnres2" = "Trait import", "gvNormUnres3" = "Trait import"))
+TGVsAll$Trait <- as.factor(TGVsAll$Trait)
+TGVsAll$Trait <- plyr::revalue(TGVsAll$Trait, c("2" = "cor = 0.9", "3" = "cor = 0.8"))
+# Correct order of the traits
+TGVsAll$variable <- factor(TGVsAll$variable, c( "Trait home", "Trait import"))
+# Correct order of the import
+TGVsAll$Import <- factor(TGVsAll$Import, c("0_0", "10_10", "25_25", "50_50", "100_100", "0_100"))
+TGVsAll$Import <- plyr::revalue(TGVsAll$Import, c("0_0" = "0", "10_10" = "10", "25_25" = "25", "50_50" = "50", "100_100" = "100", "0_100" = "100BD"))
+TGVsAll$PlotGroup <- ifelse(TGVsAll$Group == "home", paste0(TGVsAll$Group, "_", TGVsAll$Import), TGVsAll$Group)
+table(TGVsAll$PlotGroup)
 table(TGVsAll$Import)
 table(TGVsAll$Rep)
 head(TGVsAll)
@@ -43,17 +54,34 @@ ggplot(data=TGVsAll[TGVsAll$Group == "home" & TGVsAll$Scenario == "GenGen" & TGV
   geom_line() + facet_grid(cols = vars(variable)) +
   theme_bw(base_size = 18) + ylab("Genetic gain") + 
   facet_grid(rows = vars(variable), cols = vars(Import)) 
-ggplot(data=TGVsAll[TGVsAll$Group == "home" & TGVsAll$Scenario == "GenGen" & TGVsAll$Trait == 3,], aes(x=Generation, y=zMean, group=Rep, colour=Rep)) + 
+ggplot(data=TGVsAll[TGVsAll$Group == "home" & TGVsAll$Scenario == "ClassGen" & TGVsAll$Trait == 3,], aes(x=Generation, y=zMean, group=Rep, colour=Rep)) + 
+  geom_line() + facet_grid(cols = vars(variable)) +
+  theme_bw(base_size = 18) + ylab("Genetic gain") + 
+  facet_grid(rows = vars(variable), cols = vars(Import)) 
+ggplot(data=TGVsAll[TGVsAll$Group == "home" & TGVsAll$Scenario == "GenGen" & TGVsAll$Trait == 2,], aes(x=Generation, y=zMean, group=Rep, colour=Rep)) + 
+  geom_line() + facet_grid(cols = vars(variable)) +
+  theme_bw(base_size = 18) + ylab("Genetic gain") + 
+  facet_grid(rows = vars(variable), cols = vars(Import)) 
+ggplot(data=TGVsAll[TGVsAll$Group == "home" & TGVsAll$Scenario == "ClassGen" & TGVsAll$Trait == 2,], aes(x=Generation, y=zMean, group=Rep, colour=Rep)) + 
   geom_line() + facet_grid(cols = vars(variable)) +
   theme_bw(base_size = 18) + ylab("Genetic gain") + 
   facet_grid(rows = vars(variable), cols = vars(Import)) 
 
+
 #Create aggregated value for mean true genetic value (value), standardised genetic value (zMean), standardised genetic variance (SDSt) and standardised genic variance (SDGenicSt)
-TGVAvg <- TGVsAll %>% group_by(Scenario, Import, Generation, Group, variable, Trait) %>% 
-          dplyr::summarise(meanTGV = mean(value), 
+TGVsAll[TGVsAll$Generation == 30 & TGVsAll$Group == "home" & TGVsAll$Import == "10_10" & TGVsAll$variable == "Trait home",]
+head(TGVsAll)
+head(TGVsAll[TGVsAll$Generation > 29,])
+summary(TGVsAll$zMean30)
+TGVAvg <- TGVsAll %>% group_by(Scenario, Generation, PlotGroup, Group, variable, Trait) %>%
+                 summarise(meanTGV = mean(value), 
                            sdTGV = sd(value), 
                            meanZTGV = mean(zMean), 
                            sdZTGV = sd(zMean), 
+                           zMean20 = mean(zMean_noC), 
+                           zSd20 = sd(zMean_noC), 
+                           zSd30 = sd(zMean30),
+                           zMean30 = mean(zMean30), 
                            meanGeneticSD = mean(sd),
                            meanzGeneticSD = mean(SDSt), 
                            meanGenicSD = mean(SDGenic), 
@@ -61,51 +89,50 @@ TGVAvg <- TGVsAll %>% group_by(Scenario, Import, Generation, Group, variable, Tr
 #TGVAvg[TGVAvg$Generation == 40,]
 
 # Revalue the variables so that TGV for trait 1 says Trait 1 and the one for trait 2 says Trait 2
-TGVsAll$variable <- plyr::revalue(TGVsAll$variable, c("gvNormUnres1" = "Trait home", "gvNormUnres2" = "Trait import", "gvNormUnres3" = "Trait import"))
-TGVAvg$variable <- plyr::revalue(TGVAvg$variable, c("gvNormUnres1" = "Trait home", "gvNormUnres2" = "Trait import", "gvNormUnres3" = "Trait import"))
+head(TGVAvg)
+head(TGVAvg[TGVAvg$Generation > 29,])
 TGVAvg$Trait <- as.factor(TGVAvg$Trait)
 table(TGVAvg$Trait)
-TGVAvg$Trait <- plyr::revalue(TGVAvg$Trait, c("2" = "cor = 0.9", "3" = "cor = 0.8"))
 TGVsAll$Trait <- as.character(TGVsAll$Trait)
-TGVsAll$Trait <- plyr::revalue(TGVsAll$Trait, c("2" = "cor = 0.9", "3" = "cor = 0.8"))
-# Correct order of the traits
-TGVAvg$variable <- factor(TGVAvg$variable, c( "Trait home", "Trait import"))
-# Correct order of the import
-TGVAvg$Import <- factor(TGVAvg$Import, c("0_0", "10_10", "25_25", "50_50", "100_100", "0_100"))
-TGVAvg$Import <- plyr::revalue(TGVAvg$Import, c("0_0" = "0", "10_10" = "10", "25_25" = "25", "50_50" = "50", "100_100" = "100", "0_100" = "100BD"))
 
 # Plot genetic gain
-ggplot(data=TGVAvg[TGVAvg$Scenario == "GenGen",], aes(x=Generation, y=meanZTGV, group=Group, colour=Group)) + geom_line() + facet_grid(cols = vars(variable)) +
-  theme_bw(base_size = 18) + ylab("Genetic gain") + facet_grid(rows = vars(variable, Trait), cols = vars(Import)) + 
-  geom_ribbon(aes(ymin = meanZTGV - sdZTGV, ymax = meanZTGV + sdZTGV, fill = Group),  linetype = 0, alpha = 0.3)
+# ggplot(data=TGVAvg[TGVAvg$Scenario == "GenGen" & TGVAvg$Generation > 29,], aes(x=Generation, y=zMean30, group=Group, colour=Group)) + geom_line() + facet_grid(cols = vars(variable)) +
+#   theme_bw(base_size = 18) + ylab("Genetic gain") + 
+#   facet_grid(rows = vars(variable, Trait), cols = vars(Import)) + 
+#   geom_ribbon(aes(ymin = zMean30 - zSd30, ymax = zMean30 + zSd30, fill = Group),  linetype = 0, alpha = 0.3)
 # Now plot the genetic gain for trait 1 in home and trait 2 in import - since this is condidered the same trait
 head(TGVAvg)
+table(TGVAvg$Group, TGVAvg$variable)
 TGVAvg_oneTrait <- rbind(TGVAvg[TGVAvg$Group == "import" & TGVAvg$variable == "Trait import",], 
                          TGVAvg[TGVAvg$Group == "home" & TGVAvg$variable == "Trait home",])
 table(TGVAvg_oneTrait$Group)
 TGVAvg_oneTrait$variable <- "Correlated trait"
 
 # Plot genetic gain for just the one correlated trait
-TGVAvg_oneTrait$PlotGroup <- ifelse(TGVAvg_oneTrait$Group == "home", paste0(TGVAvg_oneTrait$Group, "_", TGVAvg_oneTrait$Import), TGVAvg_oneTrait$Group)
-head(TGVAvg_oneTrait)
-table(TGVAvg_oneTrait$Generation)
 table(TGVAvg_oneTrait$PlotGroup)
-
-plotTGV <- TGVAvg_oneTrait %>% group_by(Scenario, Generation, Trait, PlotGroup) %>% 
-  dplyr::summarise(TGV = mean(meanZTGV), sdTGV = sd(meanZTGV), sdG = mean(meanzGeneticSD), sdsdG = sd(meanzGeneticSD), sdGenic = mean(meanGenicSD))
-head(plotTGV)
-plotTGV$PlotGroup <- as.factor(plotTGV$PlotGroup)
-plotTGV$PlotGroup <- factor(plotTGV$PlotGroup, c("home_0", "home_10",   "home_25", "home_50", "home_100", "home_100BD", "import"))
-plotTGV$Scenario <- plyr::revalue(plotTGV$Scenario, c("ClassGen" = "10y_delay", "GenGen" = "No_delay"))
+TGVAvg_oneTrait$PlotGroup <- factor(TGVAvg_oneTrait$PlotGroup, c("home_0", "home_10",   "home_25", "home_50", "home_100", "home_100BD", "import"))
+table(TGVAvg_oneTrait$PlotGroup)
+TGVAvg_oneTrait$Scenario <- plyr::revalue(TGVAvg_oneTrait$Scenario, c("ClassGen" = "10y_delay", "GenGen" = "No_delay"))
 # ggplot(data=TGVAvg_oneTrait[TGVAvg_oneTrait$Scenario == "GenGen" & TGVAvg_oneTrait$Generation > 29,], aes(x=Generation, y=meanZTGV, group=Group, colour=Group)) + geom_line() + 
 #   theme_bw(base_size = 18) + ylab("Genetic gain") + facet_grid(cols = vars(Import), rows = vars(Trait)) + 
 #   #scale_y_continuous(breaks = c(seq(3, 9, 0.5))) +
 #   geom_ribbon(aes(ymin = meanZTGV - sdZTGV, ymax = meanZTGV + sdZTGV, fill = Group),  linetype = 0, alpha = 0.3) + ggtitle("Both populations run genomic selection")
-ggplot(data=plotTGV[plotTGV$Generation > 29,], aes(x=Generation, y=TGV, group=PlotGroup, colour=PlotGroup)) + 
+ggplot(data=TGVAvg_oneTrait[TGVAvg_oneTrait$Generation > 29,], aes(x=Generation, y=meanZTGV, group=PlotGroup, colour=PlotGroup)) + 
   geom_line(size=0.9) + 
   theme_bw(base_size = 18) + ylab("Genetic gain") + facet_grid(cols = vars(Trait), rows = vars(Scenario)) + 
   #scale_y_continuous(breaks = c(seq(3, 9, 0.5))) +
-  geom_ribbon(aes(ymin = TGV - sdTGV, ymax = TGV + sdTGV, fill = PlotGroup),  linetype = 0, alpha = 0.3) + 
+  geom_ribbon(aes(ymin = meanZTGV - sdZTGV, ymax = meanZTGV + sdZTGV, fill = PlotGroup),  linetype = 0, alpha = 0.12) + 
+  theme(legend.position = "right") + 
+  scale_colour_manual("", values = c(viridis::plasma(18)[rev(seq(1, 18, 3))][1:6], 'black')) +
+  scale_fill_manual("", values = c(viridis::plasma(18)[rev(seq(1, 18, 3))][1:6], 'black')) 
+
+# Standardized onto generation 30
+head(TGVAvg_oneTrait)
+ggplot(data=TGVAvg_oneTrait[TGVAvg_oneTrait$Generation > 29,], aes(x=Generation, y=zMean30, group=PlotGroup, colour=PlotGroup)) + 
+  geom_line(size=0.9) + 
+  theme_bw(base_size = 18) + ylab("Genetic gain") + facet_grid(cols = vars(Trait), rows = vars(Scenario)) + 
+  #scale_y_continuous(breaks = c(seq(3, 9, 0.5))) +
+  geom_ribbon(aes(ymin = zMean30 - zSd30, ymax = zMean30 + zSd30, fill = PlotGroup),  linetype = 0, alpha = 0.12) + 
   theme(legend.position = "right") + 
   scale_colour_manual("", values = c(viridis::plasma(18)[rev(seq(1, 18, 3))][1:6], 'black')) +
   scale_fill_manual("", values = c(viridis::plasma(18)[rev(seq(1, 18, 3))][1:6], 'black')) 
@@ -114,26 +141,62 @@ ggplot(data=plotTGV[plotTGV$Generation > 29,], aes(x=Generation, y=TGV, group=Pl
 # Cmpute the slope of the regression lines, you need data by reps
 TGV_oneTrait <- rbind(TGVsAll[TGVsAll$Group == "import" & TGVsAll$variable == "Trait import",], 
                          TGVsAll[TGVsAll$Group == "home" & TGVsAll$variable == "Trait home",])
-TGV_oneTrait$Import <- plyr::revalue(TGV_oneTrait$Import, c("0_0" = "0", "10_10" = "10", "25_25" = "25", "50_50" = "50", "100_100" = "100", "0_100" = "100BD"))
-TGV_oneTrait$PlotGroup <- ifelse(TGV_oneTrait$Group == "home", paste0(TGV_oneTrait$Group, "", TGV_oneTrait$Import), TGV_oneTrait$Group)
 head(TGV_oneTrait)
-TGV_oneTrait$regressionGroup <- paste(TGV_oneTrait$Scenario, TGV_oneTrait$PlotGroup, TGV_oneTrait$Rep, sep="_")
+TGV_oneTrait$regressionGroup <- paste(TGV_oneTrait$Scenario, TGV_oneTrait$PlotGroup, TGV_oneTrait$Rep, sep="-")
 head(TGV_oneTrait)
-gain0.9 <- lmList(zMean ~ Generation | regressionGroup, data=TGV_oneTrait[TGV_oneTrait$Trait == "cor = 0.9",])
-gain0.8 <- lmList(zMean ~ Generation | regressionGroup, data=TGV_oneTrait[TGV_oneTrait$Trait == "cor = 0.8",])
+tail(TGV_oneTrait)
+
+gain0.9 <- lmList(zMean30 ~ Generation | regressionGroup, data=TGV_oneTrait[TGV_oneTrait$Trait == "cor = 0.9",])
+gain0.8 <- lmList(zMean30 ~ Generation | regressionGroup, data=TGV_oneTrait[TGV_oneTrait$Trait == "cor = 0.8",])
 gain0.8
 gain <- data.frame(Group = c(names(gain0.8), names(gain0.9)), 
                    Slope = c(coefficients(gain0.8)$Generation, coefficients(gain0.9)$Generation), 
                    Cor = rep(c(0.8, 0.9), each = length(names(gain0.8)))
                    )
 
-
 head(gain)
-gain <- gain %>%  separate(Group, into = c("Scenario", "Import", "Rep"), sep="_")
+gain <- gain %>%  separate(Group, into = c("Scenario",  "Import","Rep"), sep="-")
 head(gain)
 gainAvg <- gain %>% group_by(Cor, Scenario, Import) %>% dplyr::summarize(meanSlope = mean(Slope), sd = sd(Slope))
+head(gainAvg)
 table(gainAvg$Import)
-gainAvg$Import <- factor(gainAvg$Import, c("home0", "home10",   "home25", "home50", "home100", "home100BD", "import"))
+gainAvg$Import <- factor(gainAvg$Import, c("home_0", "home_10",   "home_25", "home_50", "home_100", "home_100BD", "import"))
+gainAvg[gainAvg$Scenario == "GenGen" & gainAvg$Cor == 0.8,]
+gainAvg[gainAvg$Scenario == "GenGen" & gainAvg$Cor == 0.9,]
+head(gainAvg)
+
+
+
+#For Class Gen you need two slopes, each for each scheme / era
+head(TGV_oneTrait)
+gain0.9_a <- lmList(zMean30 ~ Generation | regressionGroup, data=TGV_oneTrait[TGV_oneTrait$Trait == "cor = 0.9" & TGV_oneTrait$Generation %in% 31:40,])
+gain0.8_a <- lmList(zMean30 ~ Generation | regressionGroup, data=TGV_oneTrait[TGV_oneTrait$Trait == "cor = 0.8" & TGV_oneTrait$Generation %in% 31:40,])
+gain_a <- data.frame(Group = c(names(gain0.8_a), names(gain0.9_a)), 
+                   Slope = c(coefficients(gain0.8_a)$Generation, coefficients(gain0.9_a)$Generation), 
+                   Cor = rep(c(0.8, 0.9), each = length(names(gain0.8_a)))
+)
+
+# Second - genomics - era
+head(TGV_oneTrait)
+gain0.9_b <- lmList(zMean30 ~ Generation | regressionGroup, data=TGV_oneTrait[TGV_oneTrait$Trait == "cor = 0.9" & TGV_oneTrait$Generation %in% 41:50,])
+gain0.8_b <- lmList(zMean30 ~ Generation | regressionGroup, data=TGV_oneTrait[TGV_oneTrait$Trait == "cor = 0.8" & TGV_oneTrait$Generation %in% 41:50,])
+gain_b <- data.frame(Group = c(names(gain0.8_b), names(gain0.9_b)), 
+                   Slope = c(coefficients(gain0.8_b)$Generation, coefficients(gain0.9_b)$Generation), 
+                   Cor = rep(c(0.8, 0.9), each = length(names(gain0.8_b)))
+)
+
+gain_a <- gain_a %>%  separate(Group, into = c("Scenario",  "Import","Rep"), sep="-")
+gainAvg_a <- gain_a %>% group_by(Cor, Scenario, Import) %>% dplyr::summarize(meanSlope = mean(Slope), sd = sd(Slope))
+gain_b <- gain_b %>%  separate(Group, into = c("Scenario",  "Import","Rep"), sep="-")
+gainAvg_b <- gain_b %>% group_by(Cor, Scenario, Import) %>% dplyr::summarize(meanSlope = mean(Slope), sd = sd(Slope))
+
+gainAvg_a[gainAvg_a$Scenario == "ClassGen" & gainAvg$Cor == 0.8,]
+gainAvg_a[gainAvg_a$Scenario == "ClassGen" & gainAvg$Cor == 0.9,]
+gainAvg_b[gainAvg_a$Scenario == "ClassGen" & gainAvg$Cor == 0.8,]
+gainAvg_b[gainAvg_a$Scenario == "ClassGen" & gainAvg$Cor == 0.9,]
+
+
+
 # gain$Cor <- as.factor(gain$Cor)
 # gain$Scenario <- vapply(strsplit(gain$Group,"_"), `[`, 1, FUN.VALUE=character(1))
 # gain$Population <- vapply(strsplit(gain$Group,"_"), `[`, 2, FUN.VALUE=character(1))
@@ -143,33 +206,54 @@ gainAvg$Import <- factor(gainAvg$Import, c("home0", "home10",   "home25", "home5
 gainAvg$meanSlope <- as.numeric(gainAvg$meanSlope)
 gainAvg$sd <- as.numeric(gainAvg$sd)
 gainAvg$Cor <- as.factor(gainAvg$Cor)
-head(gainAvg)
-ggplot(data = gainAvg, aes(x=Import, y = meanSlope, group=Cor, fill=Cor)) + 
+gainAvg$Era <- "No delay"
+
+# Regerssion slopes for ClassGen - two era
+gainAvg_a$Era <- "Delay - PT"
+gainAvg_b$Era <- "Delay - GS"
+gainAvgC <- rbind(gainAvg_a[gainAvg_a$Scenario == "ClassGen", ], gainAvg_b[gainAvg_b$Scenario == "ClassGen", ])
+gainAvgC$sd <- as.numeric(gainAvgC$sd)
+gainAvgC$Cor <- as.factor(gainAvgC$Cor)
+gainAvgC <- rbind(gainAvgC, gainAvg[gainAvg$Scenario == "GenGen",])
+gainAvgC$meanSlope <- as.numeric(gainAvgC$meanSlope)
+gainAvgC$sd <- as.numeric(gainAvgC$sd)
+gainAvgC$Cor <- as.factor(gainAvgC$Cor)
+gainAvgC$Import <- factor(gainAvgC$Import, c("home_0", "home_10","home_25", "home_50", "home_100", "home_100BD", "import"))
+
+table(gainAvgC$Scenario, gainAvgC$Era)
+gainAvgC$Era <- factor(gainAvgC$Era, c("No delay", "Delay - PT", "Delay - GS"))
+ggplot(data = gainAvgC, aes(x=Import, y = meanSlope, group=Cor, fill=Cor)) + 
   geom_bar(stat="identity", position="dodge") + 
   geom_errorbar(aes(ymin = meanSlope - sd, ymax = meanSlope + sd), position ="dodge", size=0.8) + 
   scale_fill_manual("Correlation", values = viridis::plasma(8)[c(3, 6)]) + 
   theme_bw(base_size=16) + 
-  facet_grid(cols=vars(Scenario))
+  facet_grid(cols=vars(Era)) 
+
+library(Rmisc)
+multiplot(slopeGenGen, slopeClassGen, cols=2)
 
 
 # Plot genetic variance
-ggplot(data=plotTGV[plotTGV$Generation > 29,], aes(x=Generation, y=sdG, group=PlotGroup, colour=PlotGroup)) + 
+head(TGVAvg_oneTrait[TGVAvg_oneTrait$Generation > 29,])
+ggplot(data=TGVAvg_oneTrait[TGVAvg_oneTrait$Generation > 29,], aes(x=Generation, y=zSd30, group=PlotGroup, colour=PlotGroup)) + 
   geom_line(size=0.9) + 
   theme_bw(base_size = 18) + ylab("Genetic variance") + facet_grid(cols = vars(Trait), rows = vars(Scenario)) + 
   #scale_y_continuous(breaks = c(seq(3, 9, 0.5))) +
-  geom_ribbon(aes(ymin = sdG - sdsdG, ymax = sdG + sdsdG, fill = PlotGroup),  linetype = 0, alpha = 0.3) + 
+ # geom_ribbon(aes(ymin = sdG - sdsdG, ymax = sdG + sdsdG, fill = PlotGroup),  linetype = 0, alpha = 0.3) + 
   theme(legend.position = "right") + 
-  scale_colour_manual(values = c(viridis::plasma(18)[rev(seq(1, 21, 3))])) +
-  scale_fill_manual(values = c(viridis::plasma(18)[rev(seq(1, 21, 3))])) 
+  scale_colour_manual(values = c(viridis::plasma(18)[rev(seq(1, 21, 3))][2:7], 'black')) 
+
 
 # Plot genic variance
-ggplot(data=plotTGV[plotTGV$Generation > 29,], aes(x=Generation, y=sdGenic, group=PlotGroup, colour=PlotGroup)) + 
+summary(TGVAvg_oneTrait$meanGenicSD)
+summary(TGVAvg_oneTrait$meanzGenicSD)
+ggplot(data=TGVAvg_oneTrait[TGVAvg_oneTrait$Generation > 29,], aes(x=Generation, y=meanGenicSD, group=PlotGroup, colour=PlotGroup)) + 
   geom_line(size=1) + 
   theme_bw(base_size = 18) + ylab("Genetic variance") + facet_grid(cols = vars(Trait), rows = vars(Scenario)) + 
   #scale_y_continuous(breaks = c(seq(3, 9, 0.5))) +
   #geom_ribbon(aes(ymin = sdG - sdsdG, ymax = sdG + sdsdG, fill = PlotGroup),  linetype = 0, alpha = 0.3) + 
   theme(legend.position = "right") + 
-  scale_colour_manual(values = c(viridis::plasma(18)[rev(seq(1, 21, 3))][1:6], 'black')) 
+  scale_colour_manual(values = c(viridis::plasma(18)[rev(seq(1, 21, 3))][2:7], 'black')) 
 
 
 # Plot genetic gain for just the one correlated trait for generations 30:50
@@ -204,29 +288,86 @@ ggplot(data=TGVAvg[TGVAvg$Generation > 40,], aes(x=Generation, y=meanGenicSD, gr
 
 #Only last generation accuracies
 
-acc <- read.csv("AccuraciesPost.csv")
+acc <- read.csv("Results/AccuraciesPost_rep.csv")
 head(acc)
-accA <- acc %>%  group_by(Category, Generation, Group, Scenario, Strategy) %>% dplyr::summarise(meanAcc = mean(Cor), sdAcc=sd(Cor))
+
+accA <- acc %>%  group_by(Category, Generation, Group, Scenario, Strategy, Trait) %>% dplyr::summarise(meanAcc = mean(Cor), sdAcc=sd(Cor))
 head(accA)
 ggplot(data = accA[!accA$Category %in% c("Male candidates1", "izl") & accA$Strategy == "GenGen",], aes(x=Generation, y=meanAcc, group=Category, colour=Category)) + 
   geom_line() + 
   geom_ribbon(aes(ymin = meanAcc - sdAcc, ymax = meanAcc + sdAcc, fill = Category),  linetype = 0, alpha = 0.3)+
-  facet_grid(rows = vars(Group), cols=vars(Scenario)) + 
+  facet_grid(rows = vars(Scenario), cols=vars(Group, Trait)) + 
+  theme_bw(base_size=16)
+#Compare home and import
+ggplot(data = accA[!accA$Category %in% c("Male candidates1", "izl") & accA$Strategy == "GenGen",], aes(x=Generation, y=meanAcc, group=Group, colour=Group)) + 
+  geom_line() + 
+  geom_ribbon(aes(ymin = meanAcc - sdAcc, ymax = meanAcc + sdAcc, fill = Group),  linetype = 0, alpha = 0.3)+
+  facet_grid(rows = vars(Scenario), cols=vars(Category, Trait)) + 
   theme_bw(base_size=16)
 
 # For delay scenarios
-ggplot(data = accA[!accA$Category %in% c("izl") & accA$Strategy == "ClassGen",], aes(x=Generation, y=meanAcc, group=Category, colour=Category)) + 
+ggplot(data = accA[!accA$Category %in% c("Male candidates1", "izl") & accA$Strategy == "ClassGen",], aes(x=Generation, y=meanAcc, group=Category, colour=Category)) + 
   geom_line() + 
   geom_ribbon(aes(ymin = meanAcc - sdAcc, ymax = meanAcc + sdAcc, fill = Category),  linetype = 0, alpha = 0.3)+
-  facet_grid(rows = vars(Group), cols=vars(Scenario)) + 
+  facet_grid(rows = vars(Scenario), cols=vars(Group, Trait)) + 
   theme_bw(base_size=16)
-
-
-ggplot(data = accA[!accA$Category %in% c("Male candidates1", "izl"),], aes(x=Generation, y=meanAcc, group=Group, colour=Group)) + 
+#Compare home and import
+ggplot(data = accA[!accA$Category %in% c("Male candidates1", "izl") & accA$Strategy == "ClassGen",], aes(x=Generation, y=meanAcc, group=Group, colour=Group)) + 
   geom_line() + 
-  #geom_ribbon(aes(ymin = meanAcc - sdAcc, ymax = meanAcc + sdAcc, fill = Group),  linetype = 0, alpha = 0.3)+
-  facet_grid(rows = vars(Category), cols=vars(Scenario)) + 
+  geom_ribbon(aes(ymin = meanAcc - sdAcc, ymax = meanAcc + sdAcc, fill = Group),  linetype = 0, alpha = 0.3)+
+  facet_grid(rows = vars(Scenario), cols=vars(Category, Trait)) + 
   theme_bw(base_size=16)
+
+#Compare home and import
+ggplot(data = accA[!accA$Category %in% c("Male candidates1", "izl") & accA$Trait == 2,], aes(x=Generation, y=meanAcc, group=Strategy, colour=Strategy)) + 
+  geom_line() + 
+  geom_ribbon(aes(ymin = meanAcc - sdAcc, ymax = meanAcc + sdAcc, fill = Strategy),  linetype = 0, alpha = 0.3)+
+  facet_grid(rows = vars(Scenario), cols=vars(Category, Group)) + 
+  theme_bw(base_size=16)
+
+
+
+# Now compare the one value for accuracy
+# But separately for butn-in, first and second ten years
+head(acc)
+acc$Era <- ifelse(acc$Generation %in% 21:30, "Burn-in", ifelse(acc$Generation %in% 31:40, "FirstTenY", "SecondTenY"))
+accAE <- acc %>%  group_by(Category, Era, Group, Scenario, Strategy, Trait) %>% dplyr::summarise(meanAcc = mean(Cor), sdAcc=sd(Cor))
+
+#BurnIN
+ggplot(data = accAE[!accAE$Category %in% c("Male candidates1", "izl") & accAE$Strategy == "GenGen" & accAE$Era =="Burn-in",], aes(x=Category, y=meanAcc, group=Group, fill=Group)) + 
+  geom_bar(stat="identity", position = "dodge") + 
+  facet_grid(rows = vars(Scenario), cols=vars(Trait)) + 
+  theme_bw(base_size=16)
+
+# First ten years
+ggplot(data = accAE[!accAE$Category %in% c("Male candidates1", "izl") & accAE$Strategy == "GenGen" & accAE$Era =="FirstTenY",], aes(x=Category, y=meanAcc, group=Group, fill=Group)) + 
+  geom_bar(stat="identity", position = "dodge") + 
+  facet_grid(rows = vars(Scenario), cols=vars(Trait)) + 
+  theme_bw(base_size=16)
+# Second ten years
+ggplot(data = accAE[!accAE$Category %in% c("Male candidates1", "izl") & accAE$Strategy == "GenGen" & accAE$Era =="SecondTenY",], aes(x=Category, y=meanAcc, group=Group, fill=Group)) + 
+  geom_bar(stat="identity", position = "dodge") + 
+  facet_grid(rows = vars(Scenario), cols=vars(Trait)) + 
+  theme_bw(base_size=16)
+
+#CLASS-GEN
+#BurnIN
+ggplot(data = accAE[!accAE$Category %in% c("Male candidates1", "izl") & accAE$Strategy == "ClassGen" & accAE$Era =="Burn-in",], aes(x=Category, y=meanAcc, group=Group, fill=Group)) + 
+  geom_bar(stat="identity", position = "dodge") + 
+  facet_grid(rows = vars(Scenario), cols=vars(Trait)) + 
+  theme_bw(base_size=16)
+
+# First ten years
+ggplot(data = accAE[!accAE$Category %in% c("Male candidates1", "izl") & accAE$Strategy == "ClassGen" & accAE$Era =="FirstTenY",], aes(x=Category, y=meanAcc, group=Group, fill=Group)) + 
+  geom_bar(stat="identity", position = "dodge") + 
+  facet_grid(rows = vars(Scenario), cols=vars(Trait)) + 
+  theme_bw(base_size=16)
+# Second ten years
+ggplot(data = accAE[!accAE$Category %in% c("Male candidates1", "izl") & accAE$Strategy == "ClassGen" & accAE$Era =="SecondTenY",], aes(x=Category, y=meanAcc, group=Group, fill=Group)) + 
+  geom_bar(stat="identity", position = "dodge") + 
+  facet_grid(rows = vars(Scenario), cols=vars(Trait)) + 
+  theme_bw(base_size=16)
+
 ###############################################
 ###############################################
 # Check the EBVs (last estimation)
@@ -396,7 +537,7 @@ ggplot(data=gi[gi$strategy == "ClassGen",], aes(x=Gen, y=genInt, group=lineSex, 
 #######################################
 ## Partitioned trends
 #######################################
-part <- read.csv("Partition_Import_28102020.csv", sep= " ")
+part <- read.csv("Results/Partition_Import_28102020.csv", sep= " ")
 head(part)
 #part <- read.csv("Partition_Import.csv", sep= " ")
 part$Import <- plyr::revalue(part$Import, c("0_0" = "0", "10_10" = "10", "50_50" = "50", "100_100" = "100", "0_100" = "100BD"))
@@ -458,4 +599,12 @@ ggplot(data = filter(homeMales_oneTrait, strategy == "GenGen"), aes(x = Generati
 
 
 
-
+######################################
+# Reference size
+#####################################
+ref <- read.csv("Results/ReferenceSize_Import_15122020.csv")[,-1]
+head(ref)
+refA <- ref %>% group_by(Group, scenario, strategy, trait) %>% summarise(meanSize = mean(V1))
+refA %>%  ggplot(aes(x = scenario, y = meanSize, group = Group,fill = Group)) + 
+  geom_bar(stat = "identity", position = "dodge") + 
+  facet_grid(rows = vars(strategy), cols = vars(trait))

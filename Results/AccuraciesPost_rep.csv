@@ -6679,96 +6679,96 @@
 2,Male candidates,EBV30,0.9311808644960787,home,3,0_0,1,30,ClassGen
 3,Male candidates1,EBV30,0.0745740967121969,home,3,0_0,1,30,ClassGen
 4,Mothers,EBV30,0.5579265372883654,home,3,0_0,1,30,ClassGen
-0,Fathers,EBV31,0.8607482417055942,home,3,0_0,1,31,ClassGen
-1,Female candidates,EBV31,0.3606311915828481,home,3,0_0,1,31,ClassGen
-2,Male candidates,EBV31,0.9515980333954492,home,3,0_0,1,31,ClassGen
-3,Male candidates1,EBV31,0.4619398628249814,home,3,0_0,1,31,ClassGen
-4,Mothers,EBV31,0.5563308684128382,home,3,0_0,1,31,ClassGen
-0,Fathers,EBV32,0.8585369921404847,home,3,0_0,1,32,ClassGen
-1,Female candidates,EBV32,0.31780660641189673,home,3,0_0,1,32,ClassGen
-2,Male candidates,EBV32,0.6605169276608515,home,3,0_0,1,32,ClassGen
-3,Male candidates1,EBV32,0.38374654756782883,home,3,0_0,1,32,ClassGen
-4,Mothers,EBV32,0.5442520739394506,home,3,0_0,1,32,ClassGen
-0,Fathers,EBV33,0.7946981171219211,home,3,0_0,1,33,ClassGen
-1,Female candidates,EBV33,0.32879761972297955,home,3,0_0,1,33,ClassGen
-2,Male candidates,EBV33,0.9412346832681163,home,3,0_0,1,33,ClassGen
-3,Male candidates1,EBV33,0.3229066206708332,home,3,0_0,1,33,ClassGen
-4,Mothers,EBV33,0.528224706534992,home,3,0_0,1,33,ClassGen
-0,Fathers,EBV34,0.8345033139086228,home,3,0_0,1,34,ClassGen
-1,Female candidates,EBV34,0.30729121034198453,home,3,0_0,1,34,ClassGen
-2,Male candidates,EBV34,0.978076706627154,home,3,0_0,1,34,ClassGen
-3,Male candidates1,EBV34,0.3390646694051858,home,3,0_0,1,34,ClassGen
-4,Mothers,EBV34,0.521907085181223,home,3,0_0,1,34,ClassGen
-0,Fathers,EBV35,0.862831908449612,home,3,0_0,1,35,ClassGen
-1,Female candidates,EBV35,0.26225825827397437,home,3,0_0,1,35,ClassGen
-2,Male candidates,EBV35,0.8874838740352228,home,3,0_0,1,35,ClassGen
-3,Male candidates1,EBV35,0.5462965545143513,home,3,0_0,1,35,ClassGen
-4,Mothers,EBV35,0.5252784046051289,home,3,0_0,1,35,ClassGen
-0,Fathers,EBV36,0.925674392678904,home,3,0_0,1,36,ClassGen
-1,Female candidates,EBV36,0.28198893717751333,home,3,0_0,1,36,ClassGen
-2,Male candidates,EBV36,0.9555513050937828,home,3,0_0,1,36,ClassGen
-3,Male candidates1,EBV36,0.23522807018323655,home,3,0_0,1,36,ClassGen
-4,Mothers,EBV36,0.5165461252482936,home,3,0_0,1,36,ClassGen
-0,Fathers,EBV37,0.8955975774496678,home,3,0_0,1,37,ClassGen
-1,Female candidates,EBV37,0.3175273699757679,home,3,0_0,1,37,ClassGen
-2,Male candidates,EBV37,0.9212831705234772,home,3,0_0,1,37,ClassGen
-3,Male candidates1,EBV37,0.25534804469335565,home,3,0_0,1,37,ClassGen
-4,Mothers,EBV37,0.4965457111699134,home,3,0_0,1,37,ClassGen
-0,Fathers,EBV38,0.8509300715854572,home,3,0_0,1,38,ClassGen
-1,Female candidates,EBV38,0.3173465476741985,home,3,0_0,1,38,ClassGen
-2,Male candidates,EBV38,0.9715562827893757,home,3,0_0,1,38,ClassGen
-3,Male candidates1,EBV38,-0.08393188406685799,home,3,0_0,1,38,ClassGen
-4,Mothers,EBV38,0.48875783285476515,home,3,0_0,1,38,ClassGen
-0,Fathers,EBV39,0.779178236548646,home,3,0_0,1,39,ClassGen
-1,Female candidates,EBV39,0.3248218842630697,home,3,0_0,1,39,ClassGen
-2,Male candidates,EBV39,0.7941078799380097,home,3,0_0,1,39,ClassGen
-3,Male candidates1,EBV39,0.20982739657687682,home,3,0_0,1,39,ClassGen
-4,Mothers,EBV39,0.49465270497382013,home,3,0_0,1,39,ClassGen
-0,Fathers,EBV40,0.7045109048198939,home,3,0_0,1,40,ClassGen
-1,Female candidates,EBV40,0.2745520122075877,home,3,0_0,1,40,ClassGen
-2,Male candidates,EBV40,0.9515667644899893,home,3,0_0,1,40,ClassGen
-3,Male candidates1,EBV40,0.2945477204449166,home,3,0_0,1,40,ClassGen
-4,Mothers,EBV40,0.5057084526311733,home,3,0_0,1,40,ClassGen
-0,Fathers,EBV41,0.5511796068949844,home,3,0_0,1,41,ClassGen
-1,Female candidates,EBV41,0.2928351566156817,home,3,0_0,1,41,ClassGen
-2,Male candidates,EBV41,-0.02165434260368223,home,3,0_0,1,41,ClassGen
-3,Mothers,EBV41,0.5994038773368445,home,3,0_0,1,41,ClassGen
-0,Fathers,EBV42,0.6939379955832524,home,3,0_0,1,42,ClassGen
-1,Female candidates,EBV42,0.4562867813517069,home,3,0_0,1,42,ClassGen
-2,Male candidates,EBV42,0.8595080673241555,home,3,0_0,1,42,ClassGen
-3,Mothers,EBV42,0.6496925281720987,home,3,0_0,1,42,ClassGen
-0,Fathers,EBV43,0.8213533457465966,home,3,0_0,1,43,ClassGen
-1,Female candidates,EBV43,0.4641632983567035,home,3,0_0,1,43,ClassGen
-2,Male candidates,EBV43,0.866050012372365,home,3,0_0,1,43,ClassGen
-3,Mothers,EBV43,0.6675916482386794,home,3,0_0,1,43,ClassGen
-0,Fathers,EBV44,0.8353963908740908,home,3,0_0,1,44,ClassGen
-1,Female candidates,EBV44,0.5623614729022458,home,3,0_0,1,44,ClassGen
-2,Male candidates,EBV44,0.8223605055023409,home,3,0_0,1,44,ClassGen
-3,Mothers,EBV44,0.6753045253836134,home,3,0_0,1,44,ClassGen
-0,Fathers,EBV45,0.8649167303914882,home,3,0_0,1,45,ClassGen
-1,Female candidates,EBV45,0.5570929992801781,home,3,0_0,1,45,ClassGen
-2,Male candidates,EBV45,0.7764186682083216,home,3,0_0,1,45,ClassGen
-3,Mothers,EBV45,0.6989635128618582,home,3,0_0,1,45,ClassGen
-0,Fathers,EBV46,0.9047881163745322,home,3,0_0,1,46,ClassGen
-1,Female candidates,EBV46,0.5609601386133614,home,3,0_0,1,46,ClassGen
-2,Male candidates,EBV46,0.8255679370425465,home,3,0_0,1,46,ClassGen
-3,Mothers,EBV46,0.729294212214484,home,3,0_0,1,46,ClassGen
-0,Fathers,EBV47,0.8827830728729834,home,3,0_0,1,47,ClassGen
-1,Female candidates,EBV47,0.5635481185904454,home,3,0_0,1,47,ClassGen
-2,Male candidates,EBV47,0.8577781568758565,home,3,0_0,1,47,ClassGen
-3,Mothers,EBV47,0.7357208585060807,home,3,0_0,1,47,ClassGen
-0,Fathers,EBV48,0.8940840281169821,home,3,0_0,1,48,ClassGen
-1,Female candidates,EBV48,0.542368879533924,home,3,0_0,1,48,ClassGen
-2,Male candidates,EBV48,0.8632960118474126,home,3,0_0,1,48,ClassGen
-3,Mothers,EBV48,0.7410854040679554,home,3,0_0,1,48,ClassGen
-0,Fathers,EBV49,0.9055068581742393,home,3,0_0,1,49,ClassGen
-1,Female candidates,EBV49,0.5372446645617449,home,3,0_0,1,49,ClassGen
-2,Male candidates,EBV49,0.861478875015755,home,3,0_0,1,49,ClassGen
-3,Mothers,EBV49,0.7440834839200726,home,3,0_0,1,49,ClassGen
-0,Fathers,EBV50,0.8993292469064458,home,3,0_0,1,50,ClassGen
-1,Female candidates,EBV50,0.5614149560651441,home,3,0_0,1,50,ClassGen
-2,Male candidates,EBV50,0.8464981213869938,home,3,0_0,1,50,ClassGen
-3,Mothers,EBV50,0.7364428349345976,home,3,0_0,1,50,ClassGen
+0,Fathers,EBV31,0.8573319227518305,home,3,0_0,1,31,ClassGen
+1,Female candidates,EBV31,0.36034854346065537,home,3,0_0,1,31,ClassGen
+2,Male candidates,EBV31,0.9529045136587238,home,3,0_0,1,31,ClassGen
+3,Male candidates1,EBV31,0.26451658572758274,home,3,0_0,1,31,ClassGen
+4,Mothers,EBV31,0.5530072131604455,home,3,0_0,1,31,ClassGen
+0,Fathers,EBV32,0.8606380789128607,home,3,0_0,1,32,ClassGen
+1,Female candidates,EBV32,0.32042897833403833,home,3,0_0,1,32,ClassGen
+2,Male candidates,EBV32,0.6539511773882,home,3,0_0,1,32,ClassGen
+3,Male candidates1,EBV32,0.006983733100182547,home,3,0_0,1,32,ClassGen
+4,Mothers,EBV32,0.5434139422760522,home,3,0_0,1,32,ClassGen
+0,Fathers,EBV33,0.7867174566893369,home,3,0_0,1,33,ClassGen
+1,Female candidates,EBV33,0.29952528834314035,home,3,0_0,1,33,ClassGen
+2,Male candidates,EBV33,0.9454045463937959,home,3,0_0,1,33,ClassGen
+3,Male candidates1,EBV33,-0.2023245523100818,home,3,0_0,1,33,ClassGen
+4,Mothers,EBV33,0.5276223994624148,home,3,0_0,1,33,ClassGen
+0,Fathers,EBV34,0.7950469940185497,home,3,0_0,1,34,ClassGen
+1,Female candidates,EBV34,0.26743722755308763,home,3,0_0,1,34,ClassGen
+2,Male candidates,EBV34,0.8955197047391605,home,3,0_0,1,34,ClassGen
+3,Male candidates1,EBV34,0.346141644162827,home,3,0_0,1,34,ClassGen
+4,Mothers,EBV34,0.5263487628158648,home,3,0_0,1,34,ClassGen
+0,Fathers,EBV35,0.7756107062081394,home,3,0_0,1,35,ClassGen
+1,Female candidates,EBV35,0.23398237951132303,home,3,0_0,1,35,ClassGen
+2,Male candidates,EBV35,0.8779063228408778,home,3,0_0,1,35,ClassGen
+3,Male candidates1,EBV35,0.15400804912469698,home,3,0_0,1,35,ClassGen
+4,Mothers,EBV35,0.5182500850127985,home,3,0_0,1,35,ClassGen
+0,Fathers,EBV36,0.7896810529558093,home,3,0_0,1,36,ClassGen
+1,Female candidates,EBV36,0.3285420930574961,home,3,0_0,1,36,ClassGen
+2,Male candidates,EBV36,0.5896368337702393,home,3,0_0,1,36,ClassGen
+3,Male candidates1,EBV36,0.18988064433000823,home,3,0_0,1,36,ClassGen
+4,Mothers,EBV36,0.5052239800990974,home,3,0_0,1,36,ClassGen
+0,Fathers,EBV37,0.7530679872896184,home,3,0_0,1,37,ClassGen
+1,Female candidates,EBV37,0.28994079799718114,home,3,0_0,1,37,ClassGen
+2,Male candidates,EBV37,0.7719917910322003,home,3,0_0,1,37,ClassGen
+3,Male candidates1,EBV37,0.00034511182849891845,home,3,0_0,1,37,ClassGen
+4,Mothers,EBV37,0.4842969853946123,home,3,0_0,1,37,ClassGen
+0,Fathers,EBV38,0.7359061635947887,home,3,0_0,1,38,ClassGen
+1,Female candidates,EBV38,0.2718237584428191,home,3,0_0,1,38,ClassGen
+2,Male candidates,EBV38,0.7642109675756386,home,3,0_0,1,38,ClassGen
+3,Male candidates1,EBV38,0.5688016512588109,home,3,0_0,1,38,ClassGen
+4,Mothers,EBV38,0.488814793708233,home,3,0_0,1,38,ClassGen
+0,Fathers,EBV39,0.7501507737778363,home,3,0_0,1,39,ClassGen
+1,Female candidates,EBV39,0.2826154682497086,home,3,0_0,1,39,ClassGen
+2,Male candidates,EBV39,0.8829304084964721,home,3,0_0,1,39,ClassGen
+3,Male candidates1,EBV39,0.5847496700666157,home,3,0_0,1,39,ClassGen
+4,Mothers,EBV39,0.4918248948029155,home,3,0_0,1,39,ClassGen
+0,Fathers,EBV40,0.8307435106643501,home,3,0_0,1,40,ClassGen
+1,Female candidates,EBV40,0.36770187743791377,home,3,0_0,1,40,ClassGen
+2,Male candidates,EBV40,0.9502184522169224,home,3,0_0,1,40,ClassGen
+3,Male candidates1,EBV40,0.5933423067740512,home,3,0_0,1,40,ClassGen
+4,Mothers,EBV40,0.4831952075065606,home,3,0_0,1,40,ClassGen
+0,Fathers,EBV41,0.7402943440804085,home,3,0_0,1,41,ClassGen
+1,Female candidates,EBV41,0.4189882138471022,home,3,0_0,1,41,ClassGen
+2,Male candidates,EBV41,0.452608544294076,home,3,0_0,1,41,ClassGen
+3,Mothers,EBV41,0.5991279715830464,home,3,0_0,1,41,ClassGen
+0,Fathers,EBV42,0.8262947448494915,home,3,0_0,1,42,ClassGen
+1,Female candidates,EBV42,0.473359708877217,home,3,0_0,1,42,ClassGen
+2,Male candidates,EBV42,0.8106153059853682,home,3,0_0,1,42,ClassGen
+3,Mothers,EBV42,0.661386527307642,home,3,0_0,1,42,ClassGen
+0,Fathers,EBV43,0.811998743005634,home,3,0_0,1,43,ClassGen
+1,Female candidates,EBV43,0.47534235140747855,home,3,0_0,1,43,ClassGen
+2,Male candidates,EBV43,0.8596366796884147,home,3,0_0,1,43,ClassGen
+3,Mothers,EBV43,0.6753571517135738,home,3,0_0,1,43,ClassGen
+0,Fathers,EBV44,0.8113189839351966,home,3,0_0,1,44,ClassGen
+1,Female candidates,EBV44,0.5036830775995195,home,3,0_0,1,44,ClassGen
+2,Male candidates,EBV44,0.8181700754315543,home,3,0_0,1,44,ClassGen
+3,Mothers,EBV44,0.6826506086894544,home,3,0_0,1,44,ClassGen
+0,Fathers,EBV45,0.8733591067007227,home,3,0_0,1,45,ClassGen
+1,Female candidates,EBV45,0.5086219319796306,home,3,0_0,1,45,ClassGen
+2,Male candidates,EBV45,0.779578675743127,home,3,0_0,1,45,ClassGen
+3,Mothers,EBV45,0.6890703856722065,home,3,0_0,1,45,ClassGen
+0,Fathers,EBV46,0.8487963054914166,home,3,0_0,1,46,ClassGen
+1,Female candidates,EBV46,0.5596677219292534,home,3,0_0,1,46,ClassGen
+2,Male candidates,EBV46,0.7097054042889531,home,3,0_0,1,46,ClassGen
+3,Mothers,EBV46,0.7120861766192064,home,3,0_0,1,46,ClassGen
+0,Fathers,EBV47,0.6506032483230015,home,3,0_0,1,47,ClassGen
+1,Female candidates,EBV47,0.5221365326318108,home,3,0_0,1,47,ClassGen
+2,Male candidates,EBV47,0.8505837927392462,home,3,0_0,1,47,ClassGen
+3,Mothers,EBV47,0.7146824854647581,home,3,0_0,1,47,ClassGen
+0,Fathers,EBV48,0.8421359678974549,home,3,0_0,1,48,ClassGen
+1,Female candidates,EBV48,0.47723607252338235,home,3,0_0,1,48,ClassGen
+2,Male candidates,EBV48,0.7657936344886785,home,3,0_0,1,48,ClassGen
+3,Mothers,EBV48,0.7187326510936912,home,3,0_0,1,48,ClassGen
+0,Fathers,EBV49,0.8446082020203108,home,3,0_0,1,49,ClassGen
+1,Female candidates,EBV49,0.5107287766361124,home,3,0_0,1,49,ClassGen
+2,Male candidates,EBV49,0.7936492354795596,home,3,0_0,1,49,ClassGen
+3,Mothers,EBV49,0.7158125147849324,home,3,0_0,1,49,ClassGen
+0,Fathers,EBV50,0.7745249741833674,home,3,0_0,1,50,ClassGen
+1,Female candidates,EBV50,0.4982733190715637,home,3,0_0,1,50,ClassGen
+2,Male candidates,EBV50,0.7182144181282518,home,3,0_0,1,50,ClassGen
+3,Mothers,EBV50,0.7075852751199686,home,3,0_0,1,50,ClassGen
 0,Fathers,EBV21,-0.18059104542548265,import,3,0_0,1,21,ClassGen
 1,Female candidates,EBV21,0.18474793961223696,import,3,0_0,1,21,ClassGen
 2,Male candidates,EBV21,0.2010970257729168,import,3,0_0,1,21,ClassGen
@@ -6819,86 +6819,86 @@
 2,Male candidates,EBV30,0.5198544811444892,import,3,0_0,1,30,ClassGen
 3,Male candidates1,EBV30,0.23471651016377046,import,3,0_0,1,30,ClassGen
 4,Mothers,EBV30,0.6070025508001454,import,3,0_0,1,30,ClassGen
-0,Fathers,EBV31,0.10278477202487273,import,3,0_0,1,31,ClassGen
-1,Female candidates,EBV31,0.1134120448764064,import,3,0_0,1,31,ClassGen
-2,Male candidates,EBV31,-0.0942170061746795,import,3,0_0,1,31,ClassGen
-3,Mothers,EBV31,-0.0017563656580687952,import,3,0_0,1,31,ClassGen
-0,Fathers,EBV32,-0.16147241522188674,import,3,0_0,1,32,ClassGen
-1,Female candidates,EBV32,0.16384054320374336,import,3,0_0,1,32,ClassGen
-2,Male candidates,EBV32,0.034440092456901654,import,3,0_0,1,32,ClassGen
-3,Mothers,EBV32,-0.002552745240593588,import,3,0_0,1,32,ClassGen
-0,Fathers,EBV33,-0.025831655638113526,import,3,0_0,1,33,ClassGen
-1,Female candidates,EBV33,0.11670828969864197,import,3,0_0,1,33,ClassGen
-2,Male candidates,EBV33,-0.0148712470222066,import,3,0_0,1,33,ClassGen
-3,Mothers,EBV33,-0.004182840638441896,import,3,0_0,1,33,ClassGen
-0,Fathers,EBV34,0.1434924100579549,import,3,0_0,1,34,ClassGen
-1,Female candidates,EBV34,0.020680487372069564,import,3,0_0,1,34,ClassGen
-2,Male candidates,EBV34,-0.06361773185141906,import,3,0_0,1,34,ClassGen
-3,Mothers,EBV34,0.013053003823031581,import,3,0_0,1,34,ClassGen
-0,Fathers,EBV35,0.003477866441303415,import,3,0_0,1,35,ClassGen
-1,Female candidates,EBV35,-7.653235848710924e-05,import,3,0_0,1,35,ClassGen
-2,Male candidates,EBV35,0.024803804339662783,import,3,0_0,1,35,ClassGen
-3,Mothers,EBV35,0.004299701458358938,import,3,0_0,1,35,ClassGen
-0,Fathers,EBV36,0.06424157745843546,import,3,0_0,1,36,ClassGen
-1,Female candidates,EBV36,-0.024755176480029072,import,3,0_0,1,36,ClassGen
-2,Male candidates,EBV36,-0.057891353084347424,import,3,0_0,1,36,ClassGen
-3,Mothers,EBV36,-0.006106504457827633,import,3,0_0,1,36,ClassGen
-0,Fathers,EBV37,0.17214743999977963,import,3,0_0,1,37,ClassGen
-1,Female candidates,EBV37,-0.00956470828408179,import,3,0_0,1,37,ClassGen
-2,Male candidates,EBV37,-0.019994065226006406,import,3,0_0,1,37,ClassGen
-3,Mothers,EBV37,0.013430314826177533,import,3,0_0,1,37,ClassGen
-0,Fathers,EBV38,0.1143778465010304,import,3,0_0,1,38,ClassGen
-1,Female candidates,EBV38,-0.0006476352760613121,import,3,0_0,1,38,ClassGen
-2,Male candidates,EBV38,0.009193076819715785,import,3,0_0,1,38,ClassGen
-3,Mothers,EBV38,0.00010798247560892506,import,3,0_0,1,38,ClassGen
-0,Fathers,EBV39,0.04143066011331854,import,3,0_0,1,39,ClassGen
-1,Female candidates,EBV39,-0.01605796422225283,import,3,0_0,1,39,ClassGen
-2,Male candidates,EBV39,-0.056370592213790364,import,3,0_0,1,39,ClassGen
-3,Mothers,EBV39,0.019708666196039348,import,3,0_0,1,39,ClassGen
-0,Fathers,EBV40,0.053894367141383716,import,3,0_0,1,40,ClassGen
-1,Female candidates,EBV40,0.007510512387372995,import,3,0_0,1,40,ClassGen
-2,Male candidates,EBV40,-0.04936196345315326,import,3,0_0,1,40,ClassGen
-3,Mothers,EBV40,0.0037965443129645924,import,3,0_0,1,40,ClassGen
-0,Fathers,EBV41,0.10705417203845109,import,3,0_0,1,41,ClassGen
-1,Female candidates,EBV41,-0.025262160334568243,import,3,0_0,1,41,ClassGen
-2,Male candidates,EBV41,0.06888498921809778,import,3,0_0,1,41,ClassGen
-3,Mothers,EBV41,-0.009070681706523444,import,3,0_0,1,41,ClassGen
-0,Fathers,EBV42,0.08581902300375122,import,3,0_0,1,42,ClassGen
-1,Female candidates,EBV42,0.007933648266517976,import,3,0_0,1,42,ClassGen
-2,Male candidates,EBV42,0.03267983509326769,import,3,0_0,1,42,ClassGen
-3,Mothers,EBV42,0.00856141358362404,import,3,0_0,1,42,ClassGen
-0,Fathers,EBV43,0.07522957654241666,import,3,0_0,1,43,ClassGen
-1,Female candidates,EBV43,-0.0015030179768721456,import,3,0_0,1,43,ClassGen
-2,Male candidates,EBV43,0.01292607508174949,import,3,0_0,1,43,ClassGen
-3,Mothers,EBV43,0.015583510707911887,import,3,0_0,1,43,ClassGen
-0,Fathers,EBV44,-0.14548929140324238,import,3,0_0,1,44,ClassGen
-1,Female candidates,EBV44,0.005949885521000054,import,3,0_0,1,44,ClassGen
-2,Male candidates,EBV44,-0.032716805262588085,import,3,0_0,1,44,ClassGen
-3,Mothers,EBV44,0.01112157744550827,import,3,0_0,1,44,ClassGen
-0,Fathers,EBV45,-0.0730917764411168,import,3,0_0,1,45,ClassGen
-1,Female candidates,EBV45,0.005519649962960636,import,3,0_0,1,45,ClassGen
-2,Male candidates,EBV45,-0.05463805971882224,import,3,0_0,1,45,ClassGen
-3,Mothers,EBV45,0.002027723603557838,import,3,0_0,1,45,ClassGen
-0,Fathers,EBV46,-0.01984854098317559,import,3,0_0,1,46,ClassGen
-1,Female candidates,EBV46,-0.026346776041240434,import,3,0_0,1,46,ClassGen
-2,Male candidates,EBV46,-0.0009529465530842107,import,3,0_0,1,46,ClassGen
-3,Mothers,EBV46,-0.0021009817856601867,import,3,0_0,1,46,ClassGen
-0,Fathers,EBV47,-0.025148509993103797,import,3,0_0,1,47,ClassGen
-1,Female candidates,EBV47,0.03783127932178041,import,3,0_0,1,47,ClassGen
-2,Male candidates,EBV47,0.02034888116294378,import,3,0_0,1,47,ClassGen
-3,Mothers,EBV47,-0.018018782627166743,import,3,0_0,1,47,ClassGen
-0,Fathers,EBV48,0.07614578340930193,import,3,0_0,1,48,ClassGen
-1,Female candidates,EBV48,0.013813454358090144,import,3,0_0,1,48,ClassGen
-2,Male candidates,EBV48,0.01845628517386315,import,3,0_0,1,48,ClassGen
-3,Mothers,EBV48,0.0015124474133256815,import,3,0_0,1,48,ClassGen
-0,Fathers,EBV49,-0.03772719357124788,import,3,0_0,1,49,ClassGen
-1,Female candidates,EBV49,0.004054301317016866,import,3,0_0,1,49,ClassGen
-2,Male candidates,EBV49,-0.06671514551812757,import,3,0_0,1,49,ClassGen
-3,Mothers,EBV49,0.016192049012971284,import,3,0_0,1,49,ClassGen
-0,Fathers,EBV50,0.10168515583034864,import,3,0_0,1,50,ClassGen
-1,Female candidates,EBV50,-0.020753445590750125,import,3,0_0,1,50,ClassGen
-2,Male candidates,EBV50,0.06812568981632137,import,3,0_0,1,50,ClassGen
-3,Mothers,EBV50,-0.007580783061090044,import,3,0_0,1,50,ClassGen
+0,Fathers,EBV31,0.5898808049676669,import,3,0_0,1,31,ClassGen
+1,Female candidates,EBV31,0.4130816851522196,import,3,0_0,1,31,ClassGen
+2,Male candidates,EBV31,0.36185122250792967,import,3,0_0,1,31,ClassGen
+3,Mothers,EBV31,0.7637830784689711,import,3,0_0,1,31,ClassGen
+0,Fathers,EBV32,0.6501849350828524,import,3,0_0,1,32,ClassGen
+1,Female candidates,EBV32,0.4221459415280138,import,3,0_0,1,32,ClassGen
+2,Male candidates,EBV32,0.7858067185952493,import,3,0_0,1,32,ClassGen
+3,Mothers,EBV32,0.7332772280494921,import,3,0_0,1,32,ClassGen
+0,Fathers,EBV33,0.7732741331135552,import,3,0_0,1,33,ClassGen
+1,Female candidates,EBV33,0.35287425359044505,import,3,0_0,1,33,ClassGen
+2,Male candidates,EBV33,0.7852887906082225,import,3,0_0,1,33,ClassGen
+3,Mothers,EBV33,0.7140370395969287,import,3,0_0,1,33,ClassGen
+0,Fathers,EBV34,0.8652415777943808,import,3,0_0,1,34,ClassGen
+1,Female candidates,EBV34,0.40607634679912646,import,3,0_0,1,34,ClassGen
+2,Male candidates,EBV34,0.7710645849113567,import,3,0_0,1,34,ClassGen
+3,Mothers,EBV34,0.6980107463805477,import,3,0_0,1,34,ClassGen
+0,Fathers,EBV35,0.8603067458627948,import,3,0_0,1,35,ClassGen
+1,Female candidates,EBV35,0.4491298890881407,import,3,0_0,1,35,ClassGen
+2,Male candidates,EBV35,0.8128603517671364,import,3,0_0,1,35,ClassGen
+3,Mothers,EBV35,0.7096930514635914,import,3,0_0,1,35,ClassGen
+0,Fathers,EBV36,0.8651373898738466,import,3,0_0,1,36,ClassGen
+1,Female candidates,EBV36,0.44377061826426323,import,3,0_0,1,36,ClassGen
+2,Male candidates,EBV36,0.8101325980961672,import,3,0_0,1,36,ClassGen
+3,Mothers,EBV36,0.717619125136818,import,3,0_0,1,36,ClassGen
+0,Fathers,EBV37,0.800828804700328,import,3,0_0,1,37,ClassGen
+1,Female candidates,EBV37,0.47773557238848846,import,3,0_0,1,37,ClassGen
+2,Male candidates,EBV37,0.8165638305802786,import,3,0_0,1,37,ClassGen
+3,Mothers,EBV37,0.7244814744371019,import,3,0_0,1,37,ClassGen
+0,Fathers,EBV38,0.7989939746065472,import,3,0_0,1,38,ClassGen
+1,Female candidates,EBV38,0.46422692954572137,import,3,0_0,1,38,ClassGen
+2,Male candidates,EBV38,0.7986266660916905,import,3,0_0,1,38,ClassGen
+3,Mothers,EBV38,0.723766760388164,import,3,0_0,1,38,ClassGen
+0,Fathers,EBV39,0.7991289618414364,import,3,0_0,1,39,ClassGen
+1,Female candidates,EBV39,0.434253361212428,import,3,0_0,1,39,ClassGen
+2,Male candidates,EBV39,0.779811888032675,import,3,0_0,1,39,ClassGen
+3,Mothers,EBV39,0.7267576417718968,import,3,0_0,1,39,ClassGen
+0,Fathers,EBV40,0.7567201287818843,import,3,0_0,1,40,ClassGen
+1,Female candidates,EBV40,0.4560131083832592,import,3,0_0,1,40,ClassGen
+2,Male candidates,EBV40,0.8227166192055587,import,3,0_0,1,40,ClassGen
+3,Mothers,EBV40,0.7307267854996418,import,3,0_0,1,40,ClassGen
+0,Fathers,EBV41,0.8043757059355575,import,3,0_0,1,41,ClassGen
+1,Female candidates,EBV41,0.45933407569672624,import,3,0_0,1,41,ClassGen
+2,Male candidates,EBV41,0.7766223628242586,import,3,0_0,1,41,ClassGen
+3,Mothers,EBV41,0.7304547655803396,import,3,0_0,1,41,ClassGen
+0,Fathers,EBV42,0.8319493599719773,import,3,0_0,1,42,ClassGen
+1,Female candidates,EBV42,0.4379458251236223,import,3,0_0,1,42,ClassGen
+2,Male candidates,EBV42,0.8328044038133248,import,3,0_0,1,42,ClassGen
+3,Mothers,EBV42,0.7271625285830314,import,3,0_0,1,42,ClassGen
+0,Fathers,EBV43,0.844667068228875,import,3,0_0,1,43,ClassGen
+1,Female candidates,EBV43,0.4828340834727546,import,3,0_0,1,43,ClassGen
+2,Male candidates,EBV43,0.8108289609517403,import,3,0_0,1,43,ClassGen
+3,Mothers,EBV43,0.7336732103252026,import,3,0_0,1,43,ClassGen
+0,Fathers,EBV44,0.7807580485503061,import,3,0_0,1,44,ClassGen
+1,Female candidates,EBV44,0.4735038943357501,import,3,0_0,1,44,ClassGen
+2,Male candidates,EBV44,0.8250346221047354,import,3,0_0,1,44,ClassGen
+3,Mothers,EBV44,0.7370786187950784,import,3,0_0,1,44,ClassGen
+0,Fathers,EBV45,0.8101608949152275,import,3,0_0,1,45,ClassGen
+1,Female candidates,EBV45,0.43824195965060914,import,3,0_0,1,45,ClassGen
+2,Male candidates,EBV45,0.798245992328736,import,3,0_0,1,45,ClassGen
+3,Mothers,EBV45,0.739018346531407,import,3,0_0,1,45,ClassGen
+0,Fathers,EBV46,0.794038591172391,import,3,0_0,1,46,ClassGen
+1,Female candidates,EBV46,0.489708361062112,import,3,0_0,1,46,ClassGen
+2,Male candidates,EBV46,0.8386085148001716,import,3,0_0,1,46,ClassGen
+3,Mothers,EBV46,0.7424822655654585,import,3,0_0,1,46,ClassGen
+0,Fathers,EBV47,0.7936210653724968,import,3,0_0,1,47,ClassGen
+1,Female candidates,EBV47,0.43782225545954645,import,3,0_0,1,47,ClassGen
+2,Male candidates,EBV47,0.8373266880819035,import,3,0_0,1,47,ClassGen
+3,Mothers,EBV47,0.7428998622326275,import,3,0_0,1,47,ClassGen
+0,Fathers,EBV48,0.7988617907433168,import,3,0_0,1,48,ClassGen
+1,Female candidates,EBV48,0.4689855155911639,import,3,0_0,1,48,ClassGen
+2,Male candidates,EBV48,0.8083584809002007,import,3,0_0,1,48,ClassGen
+3,Mothers,EBV48,0.7355740789856582,import,3,0_0,1,48,ClassGen
+0,Fathers,EBV49,0.7973932817171437,import,3,0_0,1,49,ClassGen
+1,Female candidates,EBV49,0.4418928545593571,import,3,0_0,1,49,ClassGen
+2,Male candidates,EBV49,0.7769937281556937,import,3,0_0,1,49,ClassGen
+3,Mothers,EBV49,0.7362173419846362,import,3,0_0,1,49,ClassGen
+0,Fathers,EBV50,0.7455870268466213,import,3,0_0,1,50,ClassGen
+1,Female candidates,EBV50,0.4654935903119827,import,3,0_0,1,50,ClassGen
+2,Male candidates,EBV50,0.8367895362154821,import,3,0_0,1,50,ClassGen
+3,Mothers,EBV50,0.7430756517215664,import,3,0_0,1,50,ClassGen
 0,Fathers,EBV21,0.05418058203428819,home,2,10_10,1,21,ClassGen
 1,Female candidates,EBV21,0.10482679058570016,home,2,10_10,1,21,ClassGen
 2,Male candidates,EBV21,0.36832798941743483,home,2,10_10,1,21,ClassGen
@@ -7219,96 +7219,96 @@
 2,Male candidates,EBV30,0.9311808644960787,home,3,10_10,1,30,ClassGen
 3,Male candidates1,EBV30,0.0745740967121969,home,3,10_10,1,30,ClassGen
 4,Mothers,EBV30,0.5579265372883654,home,3,10_10,1,30,ClassGen
-0,Fathers,EBV31,0.8833001532350675,home,3,10_10,1,31,ClassGen
-1,Female candidates,EBV31,0.3581773223136705,home,3,10_10,1,31,ClassGen
-2,Male candidates,EBV31,0.9514731747789954,home,3,10_10,1,31,ClassGen
-3,Male candidates1,EBV31,0.0783256557885418,home,3,10_10,1,31,ClassGen
-4,Mothers,EBV31,0.551500976970442,home,3,10_10,1,31,ClassGen
-0,Fathers,EBV32,0.876296355039327,home,3,10_10,1,32,ClassGen
-1,Female candidates,EBV32,0.32841409949840805,home,3,10_10,1,32,ClassGen
-2,Male candidates,EBV32,0.6630787174730184,home,3,10_10,1,32,ClassGen
-3,Male candidates1,EBV32,0.17259947080658467,home,3,10_10,1,32,ClassGen
-4,Mothers,EBV32,0.5336603410140774,home,3,10_10,1,32,ClassGen
-0,Fathers,EBV33,0.8354853181497237,home,3,10_10,1,33,ClassGen
-1,Female candidates,EBV33,0.26169834980956685,home,3,10_10,1,33,ClassGen
-2,Male candidates,EBV33,0.9448346502499108,home,3,10_10,1,33,ClassGen
-3,Male candidates1,EBV33,0.06246357394262023,home,3,10_10,1,33,ClassGen
-4,Mothers,EBV33,0.5224307005762076,home,3,10_10,1,33,ClassGen
-0,Fathers,EBV34,0.8440866439527263,home,3,10_10,1,34,ClassGen
-1,Female candidates,EBV34,0.2984069388508267,home,3,10_10,1,34,ClassGen
-2,Male candidates,EBV34,0.015364951142411064,home,3,10_10,1,34,ClassGen
-3,Male candidates1,EBV34,0.0655728216810901,home,3,10_10,1,34,ClassGen
-4,Mothers,EBV34,0.5233328705339948,home,3,10_10,1,34,ClassGen
-0,Fathers,EBV35,0.23387643829508556,home,3,10_10,1,35,ClassGen
-1,Female candidates,EBV35,0.31154100890039027,home,3,10_10,1,35,ClassGen
-2,Male candidates,EBV35,-0.32776942874373066,home,3,10_10,1,35,ClassGen
-3,Male candidates1,EBV35,0.12218910082742006,home,3,10_10,1,35,ClassGen
-4,Mothers,EBV35,0.5169629024431542,home,3,10_10,1,35,ClassGen
-0,Fathers,EBV36,-0.2115520721032329,home,3,10_10,1,36,ClassGen
-1,Female candidates,EBV36,0.244045014709657,home,3,10_10,1,36,ClassGen
-2,Male candidates,EBV36,0.5971552159132493,home,3,10_10,1,36,ClassGen
-3,Male candidates1,EBV36,0.2406726134875303,home,3,10_10,1,36,ClassGen
-4,Mothers,EBV36,0.5092345436720255,home,3,10_10,1,36,ClassGen
-0,Fathers,EBV37,0.2560076962012497,home,3,10_10,1,37,ClassGen
-1,Female candidates,EBV37,0.21875502563557353,home,3,10_10,1,37,ClassGen
-2,Male candidates,EBV37,0.25955855324062665,home,3,10_10,1,37,ClassGen
-3,Male candidates1,EBV37,-0.07366208945065841,home,3,10_10,1,37,ClassGen
-4,Mothers,EBV37,0.4933342418467198,home,3,10_10,1,37,ClassGen
-0,Fathers,EBV38,0.3833720384767303,home,3,10_10,1,38,ClassGen
-1,Female candidates,EBV38,0.24340186898561195,home,3,10_10,1,38,ClassGen
-2,Male candidates,EBV38,0.0213614193351809,home,3,10_10,1,38,ClassGen
-3,Male candidates1,EBV38,0.2987745130957061,home,3,10_10,1,38,ClassGen
-4,Mothers,EBV38,0.49846448522821957,home,3,10_10,1,38,ClassGen
-0,Fathers,EBV39,0.6706655511665592,home,3,10_10,1,39,ClassGen
-1,Female candidates,EBV39,0.39605864539445007,home,3,10_10,1,39,ClassGen
-2,Male candidates,EBV39,0.3719355893034157,home,3,10_10,1,39,ClassGen
-3,Male candidates1,EBV39,0.23410861982683823,home,3,10_10,1,39,ClassGen
-4,Mothers,EBV39,0.5069235862323005,home,3,10_10,1,39,ClassGen
-0,Fathers,EBV40,0.4759000483694779,home,3,10_10,1,40,ClassGen
-1,Female candidates,EBV40,0.39887230026894455,home,3,10_10,1,40,ClassGen
-2,Male candidates,EBV40,0.48076106342114155,home,3,10_10,1,40,ClassGen
-3,Male candidates1,EBV40,-0.031672768805945335,home,3,10_10,1,40,ClassGen
-4,Mothers,EBV40,0.519352737532473,home,3,10_10,1,40,ClassGen
-0,Fathers,EBV41,0.4964055729844857,home,3,10_10,1,41,ClassGen
-1,Female candidates,EBV41,0.47100661177038133,home,3,10_10,1,41,ClassGen
-2,Male candidates,EBV41,0.4600885138903924,home,3,10_10,1,41,ClassGen
-3,Mothers,EBV41,0.6258894543156234,home,3,10_10,1,41,ClassGen
-0,Fathers,EBV42,0.7121356032422493,home,3,10_10,1,42,ClassGen
-1,Female candidates,EBV42,0.38932912073878223,home,3,10_10,1,42,ClassGen
-2,Male candidates,EBV42,0.7589663814478573,home,3,10_10,1,42,ClassGen
-3,Mothers,EBV42,0.6768282578863688,home,3,10_10,1,42,ClassGen
-0,Fathers,EBV43,0.8411726821588873,home,3,10_10,1,43,ClassGen
-1,Female candidates,EBV43,0.4461954466833711,home,3,10_10,1,43,ClassGen
-2,Male candidates,EBV43,0.7096877661918605,home,3,10_10,1,43,ClassGen
-3,Mothers,EBV43,0.7037969959908135,home,3,10_10,1,43,ClassGen
-0,Fathers,EBV44,0.8906600354445954,home,3,10_10,1,44,ClassGen
-1,Female candidates,EBV44,0.5249276017846166,home,3,10_10,1,44,ClassGen
-2,Male candidates,EBV44,0.7960965125794606,home,3,10_10,1,44,ClassGen
-3,Mothers,EBV44,0.7050681820418482,home,3,10_10,1,44,ClassGen
-0,Fathers,EBV45,0.9262077512088224,home,3,10_10,1,45,ClassGen
-1,Female candidates,EBV45,0.5555526075188051,home,3,10_10,1,45,ClassGen
-2,Male candidates,EBV45,0.8751824243744435,home,3,10_10,1,45,ClassGen
-3,Mothers,EBV45,0.7238571646490093,home,3,10_10,1,45,ClassGen
-0,Fathers,EBV46,0.8547297150122563,home,3,10_10,1,46,ClassGen
-1,Female candidates,EBV46,0.604894243551648,home,3,10_10,1,46,ClassGen
-2,Male candidates,EBV46,0.8983855925957214,home,3,10_10,1,46,ClassGen
-3,Mothers,EBV46,0.7328220885151039,home,3,10_10,1,46,ClassGen
-0,Fathers,EBV47,0.8786051759465611,home,3,10_10,1,47,ClassGen
-1,Female candidates,EBV47,0.5991767049482893,home,3,10_10,1,47,ClassGen
-2,Male candidates,EBV47,0.8225694667271868,home,3,10_10,1,47,ClassGen
-3,Mothers,EBV47,0.7317683833707597,home,3,10_10,1,47,ClassGen
-0,Fathers,EBV48,0.8634000497332278,home,3,10_10,1,48,ClassGen
-1,Female candidates,EBV48,0.6149877100149316,home,3,10_10,1,48,ClassGen
-2,Male candidates,EBV48,0.77815858736383,home,3,10_10,1,48,ClassGen
-3,Mothers,EBV48,0.750536977770753,home,3,10_10,1,48,ClassGen
-0,Fathers,EBV49,0.6928503725400665,home,3,10_10,1,49,ClassGen
-1,Female candidates,EBV49,0.6264366657993017,home,3,10_10,1,49,ClassGen
-2,Male candidates,EBV49,0.8594879294648484,home,3,10_10,1,49,ClassGen
-3,Mothers,EBV49,0.7532076086016138,home,3,10_10,1,49,ClassGen
-0,Fathers,EBV50,0.7617458213256428,home,3,10_10,1,50,ClassGen
-1,Female candidates,EBV50,0.6016781856694982,home,3,10_10,1,50,ClassGen
-2,Male candidates,EBV50,0.8680080626117177,home,3,10_10,1,50,ClassGen
-3,Mothers,EBV50,0.7557830866973464,home,3,10_10,1,50,ClassGen
+0,Fathers,EBV31,0.8474639455593873,home,3,10_10,1,31,ClassGen
+1,Female candidates,EBV31,0.3598345237194682,home,3,10_10,1,31,ClassGen
+2,Male candidates,EBV31,0.9527904183249678,home,3,10_10,1,31,ClassGen
+3,Male candidates1,EBV31,0.395326233973445,home,3,10_10,1,31,ClassGen
+4,Mothers,EBV31,0.5539675477849293,home,3,10_10,1,31,ClassGen
+0,Fathers,EBV32,0.838477031011143,home,3,10_10,1,32,ClassGen
+1,Female candidates,EBV32,0.29227338802818914,home,3,10_10,1,32,ClassGen
+2,Male candidates,EBV32,0.6674265592265954,home,3,10_10,1,32,ClassGen
+3,Male candidates1,EBV32,0.38985560275099934,home,3,10_10,1,32,ClassGen
+4,Mothers,EBV32,0.5381960496416015,home,3,10_10,1,32,ClassGen
+0,Fathers,EBV33,0.7305372761027321,home,3,10_10,1,33,ClassGen
+1,Female candidates,EBV33,0.2758673021650402,home,3,10_10,1,33,ClassGen
+2,Male candidates,EBV33,0.949486179671847,home,3,10_10,1,33,ClassGen
+3,Male candidates1,EBV33,0.32280431492420025,home,3,10_10,1,33,ClassGen
+4,Mothers,EBV33,0.519224334831063,home,3,10_10,1,33,ClassGen
+0,Fathers,EBV34,0.796317444841866,home,3,10_10,1,34,ClassGen
+1,Female candidates,EBV34,0.2671420917329211,home,3,10_10,1,34,ClassGen
+2,Male candidates,EBV34,0.0667839098606144,home,3,10_10,1,34,ClassGen
+3,Male candidates1,EBV34,0.11451572704327884,home,3,10_10,1,34,ClassGen
+4,Mothers,EBV34,0.520228222710345,home,3,10_10,1,34,ClassGen
+0,Fathers,EBV35,0.3009760787673906,home,3,10_10,1,35,ClassGen
+1,Female candidates,EBV35,0.2583919322284034,home,3,10_10,1,35,ClassGen
+2,Male candidates,EBV35,0.7498426426588278,home,3,10_10,1,35,ClassGen
+3,Male candidates1,EBV35,0.13108375994275054,home,3,10_10,1,35,ClassGen
+4,Mothers,EBV35,0.5244845183851444,home,3,10_10,1,35,ClassGen
+0,Fathers,EBV36,0.42181045325838873,home,3,10_10,1,36,ClassGen
+1,Female candidates,EBV36,0.22764296314040294,home,3,10_10,1,36,ClassGen
+2,Male candidates,EBV36,-0.3776570967250237,home,3,10_10,1,36,ClassGen
+3,Male candidates1,EBV36,0.19838266677557082,home,3,10_10,1,36,ClassGen
+4,Mothers,EBV36,0.5121533852153707,home,3,10_10,1,36,ClassGen
+0,Fathers,EBV37,0.5328785827463332,home,3,10_10,1,37,ClassGen
+1,Female candidates,EBV37,0.20938150588052742,home,3,10_10,1,37,ClassGen
+2,Male candidates,EBV37,0.45041274585068963,home,3,10_10,1,37,ClassGen
+3,Male candidates1,EBV37,-0.1581461592615417,home,3,10_10,1,37,ClassGen
+4,Mothers,EBV37,0.4983041153343262,home,3,10_10,1,37,ClassGen
+0,Fathers,EBV38,0.7555294973091623,home,3,10_10,1,38,ClassGen
+1,Female candidates,EBV38,0.30532137110337537,home,3,10_10,1,38,ClassGen
+2,Male candidates,EBV38,0.10975961614539434,home,3,10_10,1,38,ClassGen
+3,Male candidates1,EBV38,0.2153015707830158,home,3,10_10,1,38,ClassGen
+4,Mothers,EBV38,0.49645531488379274,home,3,10_10,1,38,ClassGen
+0,Fathers,EBV39,0.1572214314387865,home,3,10_10,1,39,ClassGen
+1,Female candidates,EBV39,0.2902197774890962,home,3,10_10,1,39,ClassGen
+2,Male candidates,EBV39,0.4701954014714907,home,3,10_10,1,39,ClassGen
+3,Male candidates1,EBV39,0.21982904971541847,home,3,10_10,1,39,ClassGen
+4,Mothers,EBV39,0.5015390885607827,home,3,10_10,1,39,ClassGen
+0,Fathers,EBV40,0.22002762933226935,home,3,10_10,1,40,ClassGen
+1,Female candidates,EBV40,0.24588640589748814,home,3,10_10,1,40,ClassGen
+2,Male candidates,EBV40,0.8190978627179722,home,3,10_10,1,40,ClassGen
+3,Male candidates1,EBV40,0.011100434244278945,home,3,10_10,1,40,ClassGen
+4,Mothers,EBV40,0.5089652667071943,home,3,10_10,1,40,ClassGen
+0,Fathers,EBV41,0.503889323068395,home,3,10_10,1,41,ClassGen
+1,Female candidates,EBV41,0.376098125600822,home,3,10_10,1,41,ClassGen
+2,Male candidates,EBV41,0.24335857704603758,home,3,10_10,1,41,ClassGen
+3,Mothers,EBV41,0.625087755376557,home,3,10_10,1,41,ClassGen
+0,Fathers,EBV42,0.4553715821737718,home,3,10_10,1,42,ClassGen
+1,Female candidates,EBV42,0.25940673562059596,home,3,10_10,1,42,ClassGen
+2,Male candidates,EBV42,0.806256126578248,home,3,10_10,1,42,ClassGen
+3,Mothers,EBV42,0.666451791702339,home,3,10_10,1,42,ClassGen
+0,Fathers,EBV43,0.6722295372377044,home,3,10_10,1,43,ClassGen
+1,Female candidates,EBV43,0.2773187185578409,home,3,10_10,1,43,ClassGen
+2,Male candidates,EBV43,0.78873470923126,home,3,10_10,1,43,ClassGen
+3,Mothers,EBV43,0.6766221029413394,home,3,10_10,1,43,ClassGen
+0,Fathers,EBV44,0.8402122422612598,home,3,10_10,1,44,ClassGen
+1,Female candidates,EBV44,0.49710810072632267,home,3,10_10,1,44,ClassGen
+2,Male candidates,EBV44,0.7681659999752118,home,3,10_10,1,44,ClassGen
+3,Mothers,EBV44,0.6924788297693516,home,3,10_10,1,44,ClassGen
+0,Fathers,EBV45,0.8964823949852624,home,3,10_10,1,45,ClassGen
+1,Female candidates,EBV45,0.54744349389295,home,3,10_10,1,45,ClassGen
+2,Male candidates,EBV45,0.8687086179536762,home,3,10_10,1,45,ClassGen
+3,Mothers,EBV45,0.7236273309672817,home,3,10_10,1,45,ClassGen
+0,Fathers,EBV46,0.9099534933625383,home,3,10_10,1,46,ClassGen
+1,Female candidates,EBV46,0.5336599104800261,home,3,10_10,1,46,ClassGen
+2,Male candidates,EBV46,0.8100314921317805,home,3,10_10,1,46,ClassGen
+3,Mothers,EBV46,0.756318595892685,home,3,10_10,1,46,ClassGen
+0,Fathers,EBV47,0.8896335597664671,home,3,10_10,1,47,ClassGen
+1,Female candidates,EBV47,0.5559762758894079,home,3,10_10,1,47,ClassGen
+2,Male candidates,EBV47,0.8808737493260861,home,3,10_10,1,47,ClassGen
+3,Mothers,EBV47,0.773237792137986,home,3,10_10,1,47,ClassGen
+0,Fathers,EBV48,0.9119920613580169,home,3,10_10,1,48,ClassGen
+1,Female candidates,EBV48,0.5086179948109403,home,3,10_10,1,48,ClassGen
+2,Male candidates,EBV48,0.8464113673430702,home,3,10_10,1,48,ClassGen
+3,Mothers,EBV48,0.7661095737338394,home,3,10_10,1,48,ClassGen
+0,Fathers,EBV49,0.9077770854533502,home,3,10_10,1,49,ClassGen
+1,Female candidates,EBV49,0.5278149960120434,home,3,10_10,1,49,ClassGen
+2,Male candidates,EBV49,0.8237186126721643,home,3,10_10,1,49,ClassGen
+3,Mothers,EBV49,0.7761070470243401,home,3,10_10,1,49,ClassGen
+0,Fathers,EBV50,0.8865000479038231,home,3,10_10,1,50,ClassGen
+1,Female candidates,EBV50,0.5291977612143376,home,3,10_10,1,50,ClassGen
+2,Male candidates,EBV50,0.8160574104761389,home,3,10_10,1,50,ClassGen
+3,Mothers,EBV50,0.7675250354311355,home,3,10_10,1,50,ClassGen
 0,Fathers,EBV21,-0.18059104542548265,import,3,10_10,1,21,ClassGen
 1,Female candidates,EBV21,0.18474793961223696,import,3,10_10,1,21,ClassGen
 2,Male candidates,EBV21,0.2010970257729168,import,3,10_10,1,21,ClassGen
@@ -7359,86 +7359,86 @@
 2,Male candidates,EBV30,0.5198544811444892,import,3,10_10,1,30,ClassGen
 3,Male candidates1,EBV30,0.23471651016377046,import,3,10_10,1,30,ClassGen
 4,Mothers,EBV30,0.6070025508001454,import,3,10_10,1,30,ClassGen
-0,Fathers,EBV31,0.09745597641531657,import,3,10_10,1,31,ClassGen
-1,Female candidates,EBV31,0.10431883896348276,import,3,10_10,1,31,ClassGen
-2,Male candidates,EBV31,-0.05276493535336981,import,3,10_10,1,31,ClassGen
-3,Mothers,EBV31,-0.0024943741138791584,import,3,10_10,1,31,ClassGen
-0,Fathers,EBV32,-0.07988005896932773,import,3,10_10,1,32,ClassGen
-1,Female candidates,EBV32,0.1421206341132872,import,3,10_10,1,32,ClassGen
-2,Male candidates,EBV32,-0.06151204368627966,import,3,10_10,1,32,ClassGen
-3,Mothers,EBV32,-0.0013837799375802562,import,3,10_10,1,32,ClassGen
-0,Fathers,EBV33,0.04696925974219036,import,3,10_10,1,33,ClassGen
-1,Female candidates,EBV33,0.04191522006310851,import,3,10_10,1,33,ClassGen
-2,Male candidates,EBV33,0.0772539219159341,import,3,10_10,1,33,ClassGen
-3,Mothers,EBV33,0.010590414570962573,import,3,10_10,1,33,ClassGen
-0,Fathers,EBV34,0.08932612983771863,import,3,10_10,1,34,ClassGen
-1,Female candidates,EBV34,0.014995226005611807,import,3,10_10,1,34,ClassGen
-2,Male candidates,EBV34,-0.03878541184205101,import,3,10_10,1,34,ClassGen
-3,Mothers,EBV34,0.00850584414018383,import,3,10_10,1,34,ClassGen
-0,Fathers,EBV35,-0.1993197101855431,import,3,10_10,1,35,ClassGen
-1,Female candidates,EBV35,-0.015148942793961683,import,3,10_10,1,35,ClassGen
-2,Male candidates,EBV35,0.05947180712507038,import,3,10_10,1,35,ClassGen
-3,Mothers,EBV35,-0.005715360043408775,import,3,10_10,1,35,ClassGen
-0,Fathers,EBV36,-0.09748562299905411,import,3,10_10,1,36,ClassGen
-1,Female candidates,EBV36,-0.004631840899905723,import,3,10_10,1,36,ClassGen
-2,Male candidates,EBV36,-0.02479510877216512,import,3,10_10,1,36,ClassGen
-3,Mothers,EBV36,0.007889331377624192,import,3,10_10,1,36,ClassGen
-0,Fathers,EBV37,0.08728089416265448,import,3,10_10,1,37,ClassGen
-1,Female candidates,EBV37,-0.025398427103258334,import,3,10_10,1,37,ClassGen
-2,Male candidates,EBV37,0.01217436658239733,import,3,10_10,1,37,ClassGen
-3,Mothers,EBV37,-0.008524282322134782,import,3,10_10,1,37,ClassGen
-0,Fathers,EBV38,0.10782704415067022,import,3,10_10,1,38,ClassGen
-1,Female candidates,EBV38,-0.027314667490777846,import,3,10_10,1,38,ClassGen
-2,Male candidates,EBV38,-0.04486497259249963,import,3,10_10,1,38,ClassGen
-3,Mothers,EBV38,-0.015300111030121147,import,3,10_10,1,38,ClassGen
-0,Fathers,EBV39,0.18093305603468196,import,3,10_10,1,39,ClassGen
-1,Female candidates,EBV39,-0.0065069428072786544,import,3,10_10,1,39,ClassGen
-2,Male candidates,EBV39,-0.01835192139342643,import,3,10_10,1,39,ClassGen
-3,Mothers,EBV39,-0.013478540614289597,import,3,10_10,1,39,ClassGen
-0,Fathers,EBV40,0.18027234910859244,import,3,10_10,1,40,ClassGen
-1,Female candidates,EBV40,-0.008398516645010928,import,3,10_10,1,40,ClassGen
-2,Male candidates,EBV40,-0.07496930223422205,import,3,10_10,1,40,ClassGen
-3,Mothers,EBV40,0.0019038496552145512,import,3,10_10,1,40,ClassGen
-0,Fathers,EBV41,0.10805680851356196,import,3,10_10,1,41,ClassGen
-1,Female candidates,EBV41,-0.00593867356886857,import,3,10_10,1,41,ClassGen
-2,Male candidates,EBV41,0.044015735483978406,import,3,10_10,1,41,ClassGen
-3,Mothers,EBV41,0.010365699429291867,import,3,10_10,1,41,ClassGen
-0,Fathers,EBV42,0.01127759949070356,import,3,10_10,1,42,ClassGen
-1,Female candidates,EBV42,0.00511713021416951,import,3,10_10,1,42,ClassGen
-2,Male candidates,EBV42,-0.03269189739892011,import,3,10_10,1,42,ClassGen
-3,Mothers,EBV42,0.0009354260622488326,import,3,10_10,1,42,ClassGen
-0,Fathers,EBV43,0.24955842530072703,import,3,10_10,1,43,ClassGen
-1,Female candidates,EBV43,0.0034672684130783696,import,3,10_10,1,43,ClassGen
-2,Male candidates,EBV43,-0.006607966668088411,import,3,10_10,1,43,ClassGen
-3,Mothers,EBV43,-0.003561571803055165,import,3,10_10,1,43,ClassGen
-0,Fathers,EBV44,0.2006568155894458,import,3,10_10,1,44,ClassGen
-1,Female candidates,EBV44,-0.0029993068838908227,import,3,10_10,1,44,ClassGen
-2,Male candidates,EBV44,-0.015485323021040102,import,3,10_10,1,44,ClassGen
-3,Mothers,EBV44,-0.00707977414562682,import,3,10_10,1,44,ClassGen
-0,Fathers,EBV45,-0.18351742342113964,import,3,10_10,1,45,ClassGen
-1,Female candidates,EBV45,0.0006388862775425251,import,3,10_10,1,45,ClassGen
-2,Male candidates,EBV45,0.024021297435698644,import,3,10_10,1,45,ClassGen
-3,Mothers,EBV45,0.01265549674710507,import,3,10_10,1,45,ClassGen
-0,Fathers,EBV46,-0.0023590300614198764,import,3,10_10,1,46,ClassGen
-1,Female candidates,EBV46,-0.0008907340084345862,import,3,10_10,1,46,ClassGen
-2,Male candidates,EBV46,0.02487179712381499,import,3,10_10,1,46,ClassGen
-3,Mothers,EBV46,-0.009802712396462389,import,3,10_10,1,46,ClassGen
-0,Fathers,EBV47,-0.021430658833386428,import,3,10_10,1,47,ClassGen
-1,Female candidates,EBV47,-0.013251419157888876,import,3,10_10,1,47,ClassGen
-2,Male candidates,EBV47,-0.005822556532309603,import,3,10_10,1,47,ClassGen
-3,Mothers,EBV47,-0.013525017087528611,import,3,10_10,1,47,ClassGen
-0,Fathers,EBV48,0.004455415985309686,import,3,10_10,1,48,ClassGen
-1,Female candidates,EBV48,0.009290245801039177,import,3,10_10,1,48,ClassGen
-2,Male candidates,EBV48,0.04779976300645718,import,3,10_10,1,48,ClassGen
-3,Mothers,EBV48,0.010903487966544865,import,3,10_10,1,48,ClassGen
-0,Fathers,EBV49,0.054575202962285005,import,3,10_10,1,49,ClassGen
-1,Female candidates,EBV49,0.005655972951751515,import,3,10_10,1,49,ClassGen
-2,Male candidates,EBV49,-0.02354719634620639,import,3,10_10,1,49,ClassGen
-3,Mothers,EBV49,-0.0012539891391584832,import,3,10_10,1,49,ClassGen
-0,Fathers,EBV50,-0.011514443583698115,import,3,10_10,1,50,ClassGen
-1,Female candidates,EBV50,-0.008063007306332347,import,3,10_10,1,50,ClassGen
-2,Male candidates,EBV50,-0.0446516946649089,import,3,10_10,1,50,ClassGen
-3,Mothers,EBV50,0.013708990713578046,import,3,10_10,1,50,ClassGen
+0,Fathers,EBV31,0.5595704553461776,import,3,10_10,1,31,ClassGen
+1,Female candidates,EBV31,0.41058497197695987,import,3,10_10,1,31,ClassGen
+2,Male candidates,EBV31,0.3599913597555331,import,3,10_10,1,31,ClassGen
+3,Mothers,EBV31,0.7639131103495909,import,3,10_10,1,31,ClassGen
+0,Fathers,EBV32,0.5954201621920552,import,3,10_10,1,32,ClassGen
+1,Female candidates,EBV32,0.40996266153288957,import,3,10_10,1,32,ClassGen
+2,Male candidates,EBV32,0.7485418829490179,import,3,10_10,1,32,ClassGen
+3,Mothers,EBV32,0.7361382692738229,import,3,10_10,1,32,ClassGen
+0,Fathers,EBV33,0.7708396984942826,import,3,10_10,1,33,ClassGen
+1,Female candidates,EBV33,0.35518969664765837,import,3,10_10,1,33,ClassGen
+2,Male candidates,EBV33,0.7735158075207161,import,3,10_10,1,33,ClassGen
+3,Mothers,EBV33,0.7139087378662641,import,3,10_10,1,33,ClassGen
+0,Fathers,EBV34,0.839531644006931,import,3,10_10,1,34,ClassGen
+1,Female candidates,EBV34,0.4155087609407426,import,3,10_10,1,34,ClassGen
+2,Male candidates,EBV34,0.7941787041834241,import,3,10_10,1,34,ClassGen
+3,Mothers,EBV34,0.6988724864019492,import,3,10_10,1,34,ClassGen
+0,Fathers,EBV35,0.8623710139811965,import,3,10_10,1,35,ClassGen
+1,Female candidates,EBV35,0.46245031551254323,import,3,10_10,1,35,ClassGen
+2,Male candidates,EBV35,0.7785929816708919,import,3,10_10,1,35,ClassGen
+3,Mothers,EBV35,0.7035082124365432,import,3,10_10,1,35,ClassGen
+0,Fathers,EBV36,0.8790660855544491,import,3,10_10,1,36,ClassGen
+1,Female candidates,EBV36,0.47472666431699656,import,3,10_10,1,36,ClassGen
+2,Male candidates,EBV36,0.8338176628523118,import,3,10_10,1,36,ClassGen
+3,Mothers,EBV36,0.7125967882866834,import,3,10_10,1,36,ClassGen
+0,Fathers,EBV37,0.8157247751421679,import,3,10_10,1,37,ClassGen
+1,Female candidates,EBV37,0.5019454788239981,import,3,10_10,1,37,ClassGen
+2,Male candidates,EBV37,0.8393940966234318,import,3,10_10,1,37,ClassGen
+3,Mothers,EBV37,0.7313773804055604,import,3,10_10,1,37,ClassGen
+0,Fathers,EBV38,0.8123612461855578,import,3,10_10,1,38,ClassGen
+1,Female candidates,EBV38,0.46553115733845357,import,3,10_10,1,38,ClassGen
+2,Male candidates,EBV38,0.8195294910898088,import,3,10_10,1,38,ClassGen
+3,Mothers,EBV38,0.7417403063768223,import,3,10_10,1,38,ClassGen
+0,Fathers,EBV39,0.8178441566277553,import,3,10_10,1,39,ClassGen
+1,Female candidates,EBV39,0.4645585088395613,import,3,10_10,1,39,ClassGen
+2,Male candidates,EBV39,0.7889888817591887,import,3,10_10,1,39,ClassGen
+3,Mothers,EBV39,0.7493087641378554,import,3,10_10,1,39,ClassGen
+0,Fathers,EBV40,0.7819936180841567,import,3,10_10,1,40,ClassGen
+1,Female candidates,EBV40,0.474084178393269,import,3,10_10,1,40,ClassGen
+2,Male candidates,EBV40,0.8229655934755242,import,3,10_10,1,40,ClassGen
+3,Mothers,EBV40,0.7438998977201741,import,3,10_10,1,40,ClassGen
+0,Fathers,EBV41,0.7879920501469947,import,3,10_10,1,41,ClassGen
+1,Female candidates,EBV41,0.43197616481002116,import,3,10_10,1,41,ClassGen
+2,Male candidates,EBV41,0.8314572242929369,import,3,10_10,1,41,ClassGen
+3,Mothers,EBV41,0.7438215126814813,import,3,10_10,1,41,ClassGen
+0,Fathers,EBV42,0.7727736655738743,import,3,10_10,1,42,ClassGen
+1,Female candidates,EBV42,0.42141595240123336,import,3,10_10,1,42,ClassGen
+2,Male candidates,EBV42,0.8254072726025854,import,3,10_10,1,42,ClassGen
+3,Mothers,EBV42,0.7416342304687424,import,3,10_10,1,42,ClassGen
+0,Fathers,EBV43,0.8245022086257018,import,3,10_10,1,43,ClassGen
+1,Female candidates,EBV43,0.44212398860058316,import,3,10_10,1,43,ClassGen
+2,Male candidates,EBV43,0.8108553062295756,import,3,10_10,1,43,ClassGen
+3,Mothers,EBV43,0.7334822208172834,import,3,10_10,1,43,ClassGen
+0,Fathers,EBV44,0.8466334010413928,import,3,10_10,1,44,ClassGen
+1,Female candidates,EBV44,0.4691992190861147,import,3,10_10,1,44,ClassGen
+2,Male candidates,EBV44,0.8037930714866357,import,3,10_10,1,44,ClassGen
+3,Mothers,EBV44,0.7316254231288615,import,3,10_10,1,44,ClassGen
+0,Fathers,EBV45,0.7777954436798242,import,3,10_10,1,45,ClassGen
+1,Female candidates,EBV45,0.4221035126126696,import,3,10_10,1,45,ClassGen
+2,Male candidates,EBV45,0.8000068009087238,import,3,10_10,1,45,ClassGen
+3,Mothers,EBV45,0.7313069687002424,import,3,10_10,1,45,ClassGen
+0,Fathers,EBV46,0.7081860013354302,import,3,10_10,1,46,ClassGen
+1,Female candidates,EBV46,0.4512276244694669,import,3,10_10,1,46,ClassGen
+2,Male candidates,EBV46,0.8093298002786976,import,3,10_10,1,46,ClassGen
+3,Mothers,EBV46,0.7410618558762758,import,3,10_10,1,46,ClassGen
+0,Fathers,EBV47,0.7875558710795354,import,3,10_10,1,47,ClassGen
+1,Female candidates,EBV47,0.4398984857900324,import,3,10_10,1,47,ClassGen
+2,Male candidates,EBV47,0.7681834205954182,import,3,10_10,1,47,ClassGen
+3,Mothers,EBV47,0.7403688224518838,import,3,10_10,1,47,ClassGen
+0,Fathers,EBV48,0.7938655762828668,import,3,10_10,1,48,ClassGen
+1,Female candidates,EBV48,0.44586781331166886,import,3,10_10,1,48,ClassGen
+2,Male candidates,EBV48,0.818325678249862,import,3,10_10,1,48,ClassGen
+3,Mothers,EBV48,0.7368171421697405,import,3,10_10,1,48,ClassGen
+0,Fathers,EBV49,0.8606927220244099,import,3,10_10,1,49,ClassGen
+1,Female candidates,EBV49,0.42991463899483784,import,3,10_10,1,49,ClassGen
+2,Male candidates,EBV49,0.8275861942713847,import,3,10_10,1,49,ClassGen
+3,Mothers,EBV49,0.7300803818453915,import,3,10_10,1,49,ClassGen
+0,Fathers,EBV50,0.7597831369703565,import,3,10_10,1,50,ClassGen
+1,Female candidates,EBV50,0.4719917843510509,import,3,10_10,1,50,ClassGen
+2,Male candidates,EBV50,0.8176521507250871,import,3,10_10,1,50,ClassGen
+3,Mothers,EBV50,0.73080239156057,import,3,10_10,1,50,ClassGen
 0,Fathers,EBV21,0.05418058203428819,home,2,25_25,1,21,ClassGen
 1,Female candidates,EBV21,0.10482679058570016,home,2,25_25,1,21,ClassGen
 2,Male candidates,EBV21,0.36832798941743483,home,2,25_25,1,21,ClassGen
@@ -7759,96 +7759,96 @@
 2,Male candidates,EBV30,0.9311808644960787,home,3,25_25,1,30,ClassGen
 3,Male candidates1,EBV30,0.0745740967121969,home,3,25_25,1,30,ClassGen
 4,Mothers,EBV30,0.5579265372883654,home,3,25_25,1,30,ClassGen
-0,Fathers,EBV31,0.8590210493152518,home,3,25_25,1,31,ClassGen
-1,Female candidates,EBV31,0.36042072888297577,home,3,25_25,1,31,ClassGen
-2,Male candidates,EBV31,0.9521149188783244,home,3,25_25,1,31,ClassGen
-3,Male candidates1,EBV31,0.20457241798688391,home,3,25_25,1,31,ClassGen
-4,Mothers,EBV31,0.5513643165851042,home,3,25_25,1,31,ClassGen
-0,Fathers,EBV32,0.8327225639704559,home,3,25_25,1,32,ClassGen
-1,Female candidates,EBV32,0.2088745132448723,home,3,25_25,1,32,ClassGen
-2,Male candidates,EBV32,0.6620567879286333,home,3,25_25,1,32,ClassGen
-3,Male candidates1,EBV32,-0.03585530929350761,home,3,25_25,1,32,ClassGen
-4,Mothers,EBV32,0.5360636063565524,home,3,25_25,1,32,ClassGen
-0,Fathers,EBV33,0.7038803197429526,home,3,25_25,1,33,ClassGen
-1,Female candidates,EBV33,0.1714666968166647,home,3,25_25,1,33,ClassGen
-2,Male candidates,EBV33,0.9454513999645922,home,3,25_25,1,33,ClassGen
-3,Male candidates1,EBV33,-0.2113832825158117,home,3,25_25,1,33,ClassGen
-4,Mothers,EBV33,0.5215636470182275,home,3,25_25,1,33,ClassGen
-0,Fathers,EBV34,0.7293482100177593,home,3,25_25,1,34,ClassGen
-1,Female candidates,EBV34,0.2701045367617828,home,3,25_25,1,34,ClassGen
-2,Male candidates,EBV34,0.011930011932316808,home,3,25_25,1,34,ClassGen
-3,Male candidates1,EBV34,0.10276193911444424,home,3,25_25,1,34,ClassGen
-4,Mothers,EBV34,0.5278915803030062,home,3,25_25,1,34,ClassGen
-0,Fathers,EBV35,0.25338994242278884,home,3,25_25,1,35,ClassGen
-1,Female candidates,EBV35,0.24536027232444474,home,3,25_25,1,35,ClassGen
-2,Male candidates,EBV35,-0.3378678013816098,home,3,25_25,1,35,ClassGen
-3,Male candidates1,EBV35,0.19472511522797606,home,3,25_25,1,35,ClassGen
-4,Mothers,EBV35,0.5330790266660522,home,3,25_25,1,35,ClassGen
-0,Fathers,EBV36,-0.06688332923532993,home,3,25_25,1,36,ClassGen
-1,Female candidates,EBV36,0.21162045767824958,home,3,25_25,1,36,ClassGen
-2,Male candidates,EBV36,-0.5944683048950894,home,3,25_25,1,36,ClassGen
-3,Male candidates1,EBV36,0.05070548624042079,home,3,25_25,1,36,ClassGen
-4,Mothers,EBV36,0.5246388225764959,home,3,25_25,1,36,ClassGen
-0,Fathers,EBV37,0.026496338442342254,home,3,25_25,1,37,ClassGen
-1,Female candidates,EBV37,0.15233207676948832,home,3,25_25,1,37,ClassGen
-2,Male candidates,EBV37,0.36236895674069175,home,3,25_25,1,37,ClassGen
-3,Male candidates1,EBV37,0.07474060006489969,home,3,25_25,1,37,ClassGen
-4,Mothers,EBV37,0.5193079076853824,home,3,25_25,1,37,ClassGen
-0,Fathers,EBV38,0.32025576198705,home,3,25_25,1,38,ClassGen
-1,Female candidates,EBV38,0.2113091250800535,home,3,25_25,1,38,ClassGen
-2,Male candidates,EBV38,0.3390469070735451,home,3,25_25,1,38,ClassGen
-3,Male candidates1,EBV38,0.07896817571520424,home,3,25_25,1,38,ClassGen
-4,Mothers,EBV38,0.5221735394250603,home,3,25_25,1,38,ClassGen
-0,Fathers,EBV39,0.47590960876879557,home,3,25_25,1,39,ClassGen
-1,Female candidates,EBV39,0.2859626428813561,home,3,25_25,1,39,ClassGen
-2,Male candidates,EBV39,0.6235224270884455,home,3,25_25,1,39,ClassGen
-3,Male candidates1,EBV39,0.4536966999623277,home,3,25_25,1,39,ClassGen
-4,Mothers,EBV39,0.5392302598069937,home,3,25_25,1,39,ClassGen
-0,Fathers,EBV40,0.6645533813482362,home,3,25_25,1,40,ClassGen
-1,Female candidates,EBV40,0.4002663971543469,home,3,25_25,1,40,ClassGen
-2,Male candidates,EBV40,0.49681363700083037,home,3,25_25,1,40,ClassGen
-3,Male candidates1,EBV40,0.1698650472283415,home,3,25_25,1,40,ClassGen
-4,Mothers,EBV40,0.5627922448179118,home,3,25_25,1,40,ClassGen
-0,Fathers,EBV41,0.6474648635230964,home,3,25_25,1,41,ClassGen
-1,Female candidates,EBV41,0.49829393452355836,home,3,25_25,1,41,ClassGen
-2,Male candidates,EBV41,0.5436837121856616,home,3,25_25,1,41,ClassGen
-3,Mothers,EBV41,0.6732788942958488,home,3,25_25,1,41,ClassGen
-0,Fathers,EBV42,0.7579360174172984,home,3,25_25,1,42,ClassGen
-1,Female candidates,EBV42,0.4133214199063067,home,3,25_25,1,42,ClassGen
-2,Male candidates,EBV42,0.8294886899927016,home,3,25_25,1,42,ClassGen
-3,Mothers,EBV42,0.7325586006467862,home,3,25_25,1,42,ClassGen
-0,Fathers,EBV43,0.7795148617044804,home,3,25_25,1,43,ClassGen
-1,Female candidates,EBV43,0.4294178825553222,home,3,25_25,1,43,ClassGen
-2,Male candidates,EBV43,0.8412648011198645,home,3,25_25,1,43,ClassGen
-3,Mothers,EBV43,0.753145132218847,home,3,25_25,1,43,ClassGen
-0,Fathers,EBV44,0.8760852485856746,home,3,25_25,1,44,ClassGen
-1,Female candidates,EBV44,0.5293317467020846,home,3,25_25,1,44,ClassGen
-2,Male candidates,EBV44,0.7811576573964346,home,3,25_25,1,44,ClassGen
-3,Mothers,EBV44,0.7628930382467343,home,3,25_25,1,44,ClassGen
-0,Fathers,EBV45,0.864240163201288,home,3,25_25,1,45,ClassGen
-1,Female candidates,EBV45,0.5333062036247874,home,3,25_25,1,45,ClassGen
-2,Male candidates,EBV45,0.8221278684086585,home,3,25_25,1,45,ClassGen
-3,Mothers,EBV45,0.7726537525822672,home,3,25_25,1,45,ClassGen
-0,Fathers,EBV46,0.828691091764277,home,3,25_25,1,46,ClassGen
-1,Female candidates,EBV46,0.5294916208158568,home,3,25_25,1,46,ClassGen
-2,Male candidates,EBV46,0.8872138385072318,home,3,25_25,1,46,ClassGen
-3,Mothers,EBV46,0.7692601028701996,home,3,25_25,1,46,ClassGen
-0,Fathers,EBV47,0.7190076453361814,home,3,25_25,1,47,ClassGen
-1,Female candidates,EBV47,0.4901866564270966,home,3,25_25,1,47,ClassGen
-2,Male candidates,EBV47,0.7585560548948928,home,3,25_25,1,47,ClassGen
-3,Mothers,EBV47,0.7640170577462266,home,3,25_25,1,47,ClassGen
-0,Fathers,EBV48,0.7835723203272693,home,3,25_25,1,48,ClassGen
-1,Female candidates,EBV48,0.444031686144582,home,3,25_25,1,48,ClassGen
-2,Male candidates,EBV48,0.7672559789552431,home,3,25_25,1,48,ClassGen
-3,Mothers,EBV48,0.7595363418357194,home,3,25_25,1,48,ClassGen
-0,Fathers,EBV49,0.7447859796227803,home,3,25_25,1,49,ClassGen
-1,Female candidates,EBV49,0.44219701136215095,home,3,25_25,1,49,ClassGen
-2,Male candidates,EBV49,0.6649106309253465,home,3,25_25,1,49,ClassGen
-3,Mothers,EBV49,0.7520229211888838,home,3,25_25,1,49,ClassGen
-0,Fathers,EBV50,0.6488067460877623,home,3,25_25,1,50,ClassGen
-1,Female candidates,EBV50,0.405392043852017,home,3,25_25,1,50,ClassGen
-2,Male candidates,EBV50,0.8130999604508506,home,3,25_25,1,50,ClassGen
-3,Mothers,EBV50,0.742952100813865,home,3,25_25,1,50,ClassGen
+0,Fathers,EBV31,0.8701061282802223,home,3,25_25,1,31,ClassGen
+1,Female candidates,EBV31,0.35897694775424366,home,3,25_25,1,31,ClassGen
+2,Male candidates,EBV31,0.9526173409175359,home,3,25_25,1,31,ClassGen
+3,Male candidates1,EBV31,0.36196744793407454,home,3,25_25,1,31,ClassGen
+4,Mothers,EBV31,0.553095793326909,home,3,25_25,1,31,ClassGen
+0,Fathers,EBV32,0.8721230754555908,home,3,25_25,1,32,ClassGen
+1,Female candidates,EBV32,0.25819869252563526,home,3,25_25,1,32,ClassGen
+2,Male candidates,EBV32,0.6554835801304549,home,3,25_25,1,32,ClassGen
+3,Male candidates1,EBV32,0.3321850837813785,home,3,25_25,1,32,ClassGen
+4,Mothers,EBV32,0.5416028395343139,home,3,25_25,1,32,ClassGen
+0,Fathers,EBV33,0.8114326997597235,home,3,25_25,1,33,ClassGen
+1,Female candidates,EBV33,0.250253343493505,home,3,25_25,1,33,ClassGen
+2,Male candidates,EBV33,0.9427513037110702,home,3,25_25,1,33,ClassGen
+3,Male candidates1,EBV33,0.011741839943733156,home,3,25_25,1,33,ClassGen
+4,Mothers,EBV33,0.5252614788200172,home,3,25_25,1,33,ClassGen
+0,Fathers,EBV34,0.8868777777218986,home,3,25_25,1,34,ClassGen
+1,Female candidates,EBV34,0.24974089016690873,home,3,25_25,1,34,ClassGen
+2,Male candidates,EBV34,-0.317059555456512,home,3,25_25,1,34,ClassGen
+3,Male candidates1,EBV34,0.11256408847763356,home,3,25_25,1,34,ClassGen
+4,Mothers,EBV34,0.5250829001194202,home,3,25_25,1,34,ClassGen
+0,Fathers,EBV35,0.03533432393352399,home,3,25_25,1,35,ClassGen
+1,Female candidates,EBV35,0.26568022392647445,home,3,25_25,1,35,ClassGen
+2,Male candidates,EBV35,0.002844114863772086,home,3,25_25,1,35,ClassGen
+3,Male candidates1,EBV35,-0.15259956873591507,home,3,25_25,1,35,ClassGen
+4,Mothers,EBV35,0.5214693173250339,home,3,25_25,1,35,ClassGen
+0,Fathers,EBV36,-0.06025611641134381,home,3,25_25,1,36,ClassGen
+1,Female candidates,EBV36,0.1742406404714109,home,3,25_25,1,36,ClassGen
+2,Male candidates,EBV36,0.7910440037030593,home,3,25_25,1,36,ClassGen
+3,Male candidates1,EBV36,0.26347319082470055,home,3,25_25,1,36,ClassGen
+4,Mothers,EBV36,0.5103777306943392,home,3,25_25,1,36,ClassGen
+0,Fathers,EBV37,0.2964335269548195,home,3,25_25,1,37,ClassGen
+1,Female candidates,EBV37,0.1412179303331145,home,3,25_25,1,37,ClassGen
+2,Male candidates,EBV37,0.4918919311607776,home,3,25_25,1,37,ClassGen
+3,Male candidates1,EBV37,-0.22330583658582281,home,3,25_25,1,37,ClassGen
+4,Mothers,EBV37,0.5049853889994681,home,3,25_25,1,37,ClassGen
+0,Fathers,EBV38,0.5798616727363869,home,3,25_25,1,38,ClassGen
+1,Female candidates,EBV38,0.2747691970276872,home,3,25_25,1,38,ClassGen
+2,Male candidates,EBV38,0.36125844810482116,home,3,25_25,1,38,ClassGen
+3,Male candidates1,EBV38,-0.15128441437291457,home,3,25_25,1,38,ClassGen
+4,Mothers,EBV38,0.525570272351218,home,3,25_25,1,38,ClassGen
+0,Fathers,EBV39,0.5541003650088477,home,3,25_25,1,39,ClassGen
+1,Female candidates,EBV39,0.37479999387110874,home,3,25_25,1,39,ClassGen
+2,Male candidates,EBV39,0.8156619698096318,home,3,25_25,1,39,ClassGen
+3,Male candidates1,EBV39,0.5624208716460652,home,3,25_25,1,39,ClassGen
+4,Mothers,EBV39,0.5607490974551584,home,3,25_25,1,39,ClassGen
+0,Fathers,EBV40,0.10645263907367068,home,3,25_25,1,40,ClassGen
+1,Female candidates,EBV40,0.3818062072787374,home,3,25_25,1,40,ClassGen
+2,Male candidates,EBV40,0.25504662838433806,home,3,25_25,1,40,ClassGen
+3,Male candidates1,EBV40,-0.0693614904231057,home,3,25_25,1,40,ClassGen
+4,Mothers,EBV40,0.5885697843584733,home,3,25_25,1,40,ClassGen
+0,Fathers,EBV41,0.6707919980247206,home,3,25_25,1,41,ClassGen
+1,Female candidates,EBV41,0.47204580574783733,home,3,25_25,1,41,ClassGen
+2,Male candidates,EBV41,0.16931874597227842,home,3,25_25,1,41,ClassGen
+3,Mothers,EBV41,0.687889866592993,home,3,25_25,1,41,ClassGen
+0,Fathers,EBV42,0.6661429054212403,home,3,25_25,1,42,ClassGen
+1,Female candidates,EBV42,0.2976403816353215,home,3,25_25,1,42,ClassGen
+2,Male candidates,EBV42,0.825800598492132,home,3,25_25,1,42,ClassGen
+3,Mothers,EBV42,0.7268857981727993,home,3,25_25,1,42,ClassGen
+0,Fathers,EBV43,0.7308814069846259,home,3,25_25,1,43,ClassGen
+1,Female candidates,EBV43,0.3503452272190602,home,3,25_25,1,43,ClassGen
+2,Male candidates,EBV43,0.8415925019082406,home,3,25_25,1,43,ClassGen
+3,Mothers,EBV43,0.7342747987064541,home,3,25_25,1,43,ClassGen
+0,Fathers,EBV44,0.8888056477491236,home,3,25_25,1,44,ClassGen
+1,Female candidates,EBV44,0.48915713113637704,home,3,25_25,1,44,ClassGen
+2,Male candidates,EBV44,0.7699211383789579,home,3,25_25,1,44,ClassGen
+3,Mothers,EBV44,0.7342928828816774,home,3,25_25,1,44,ClassGen
+0,Fathers,EBV45,0.8890394931475558,home,3,25_25,1,45,ClassGen
+1,Female candidates,EBV45,0.5387750333439881,home,3,25_25,1,45,ClassGen
+2,Male candidates,EBV45,0.8436489264752689,home,3,25_25,1,45,ClassGen
+3,Mothers,EBV45,0.7476606548364699,home,3,25_25,1,45,ClassGen
+0,Fathers,EBV46,0.8432033388135811,home,3,25_25,1,46,ClassGen
+1,Female candidates,EBV46,0.5084993793621134,home,3,25_25,1,46,ClassGen
+2,Male candidates,EBV46,0.7916317400608094,home,3,25_25,1,46,ClassGen
+3,Mothers,EBV46,0.7588115971436759,home,3,25_25,1,46,ClassGen
+0,Fathers,EBV47,0.7464812113558604,home,3,25_25,1,47,ClassGen
+1,Female candidates,EBV47,0.5144693985097968,home,3,25_25,1,47,ClassGen
+2,Male candidates,EBV47,0.7918711791799748,home,3,25_25,1,47,ClassGen
+3,Mothers,EBV47,0.7747805115692223,home,3,25_25,1,47,ClassGen
+0,Fathers,EBV48,0.8413006039414064,home,3,25_25,1,48,ClassGen
+1,Female candidates,EBV48,0.4765382822162216,home,3,25_25,1,48,ClassGen
+2,Male candidates,EBV48,0.8066492935292601,home,3,25_25,1,48,ClassGen
+3,Mothers,EBV48,0.7717331718591416,home,3,25_25,1,48,ClassGen
+0,Fathers,EBV49,0.8495450541795482,home,3,25_25,1,49,ClassGen
+1,Female candidates,EBV49,0.4578595722326705,home,3,25_25,1,49,ClassGen
+2,Male candidates,EBV49,0.8166830254050591,home,3,25_25,1,49,ClassGen
+3,Mothers,EBV49,0.7626713421237842,home,3,25_25,1,49,ClassGen
+0,Fathers,EBV50,0.7800494390001621,home,3,25_25,1,50,ClassGen
+1,Female candidates,EBV50,0.44526372163240024,home,3,25_25,1,50,ClassGen
+2,Male candidates,EBV50,0.8525038497994907,home,3,25_25,1,50,ClassGen
+3,Mothers,EBV50,0.7613796010322116,home,3,25_25,1,50,ClassGen
 0,Fathers,EBV21,-0.18059104542548265,import,3,25_25,1,21,ClassGen
 1,Female candidates,EBV21,0.18474793961223696,import,3,25_25,1,21,ClassGen
 2,Male candidates,EBV21,0.2010970257729168,import,3,25_25,1,21,ClassGen
@@ -7899,86 +7899,86 @@
 2,Male candidates,EBV30,0.5198544811444892,import,3,25_25,1,30,ClassGen
 3,Male candidates1,EBV30,0.23471651016377046,import,3,25_25,1,30,ClassGen
 4,Mothers,EBV30,0.6070025508001454,import,3,25_25,1,30,ClassGen
-0,Fathers,EBV31,0.5568416940536806,import,3,25_25,1,31,ClassGen
-1,Female candidates,EBV31,0.40880996228659894,import,3,25_25,1,31,ClassGen
-2,Male candidates,EBV31,0.3721645057084168,import,3,25_25,1,31,ClassGen
-3,Mothers,EBV31,0.7630103472994514,import,3,25_25,1,31,ClassGen
-0,Fathers,EBV32,0.605718165830064,import,3,25_25,1,32,ClassGen
-1,Female candidates,EBV32,0.38759644443688596,import,3,25_25,1,32,ClassGen
-2,Male candidates,EBV32,0.7600236668359946,import,3,25_25,1,32,ClassGen
-3,Mothers,EBV32,0.7386413328031777,import,3,25_25,1,32,ClassGen
-0,Fathers,EBV33,0.7699596975113141,import,3,25_25,1,33,ClassGen
-1,Female candidates,EBV33,0.40770509519770237,import,3,25_25,1,33,ClassGen
-2,Male candidates,EBV33,0.7704164160958692,import,3,25_25,1,33,ClassGen
-3,Mothers,EBV33,0.7144965199324006,import,3,25_25,1,33,ClassGen
-0,Fathers,EBV34,0.8546821292897807,import,3,25_25,1,34,ClassGen
-1,Female candidates,EBV34,0.4244577507355857,import,3,25_25,1,34,ClassGen
-2,Male candidates,EBV34,0.7617969350907022,import,3,25_25,1,34,ClassGen
-3,Mothers,EBV34,0.6962779513913058,import,3,25_25,1,34,ClassGen
-0,Fathers,EBV35,0.8292808753669703,import,3,25_25,1,35,ClassGen
-1,Female candidates,EBV35,0.43792071348860734,import,3,25_25,1,35,ClassGen
-2,Male candidates,EBV35,0.8362304358926225,import,3,25_25,1,35,ClassGen
-3,Mothers,EBV35,0.7074916936451844,import,3,25_25,1,35,ClassGen
-0,Fathers,EBV36,0.8369575815577472,import,3,25_25,1,36,ClassGen
-1,Female candidates,EBV36,0.41975868400810007,import,3,25_25,1,36,ClassGen
-2,Male candidates,EBV36,0.7726932240420712,import,3,25_25,1,36,ClassGen
-3,Mothers,EBV36,0.7178929928038501,import,3,25_25,1,36,ClassGen
-0,Fathers,EBV37,0.6633826931693424,import,3,25_25,1,37,ClassGen
-1,Female candidates,EBV37,0.43984582833662417,import,3,25_25,1,37,ClassGen
-2,Male candidates,EBV37,0.7945748349612213,import,3,25_25,1,37,ClassGen
-3,Mothers,EBV37,0.7185597096393688,import,3,25_25,1,37,ClassGen
-0,Fathers,EBV38,0.7613949586702913,import,3,25_25,1,38,ClassGen
-1,Female candidates,EBV38,0.4224361532912215,import,3,25_25,1,38,ClassGen
-2,Male candidates,EBV38,0.7614276288372022,import,3,25_25,1,38,ClassGen
-3,Mothers,EBV38,0.726349823335766,import,3,25_25,1,38,ClassGen
-0,Fathers,EBV39,0.7862608701842786,import,3,25_25,1,39,ClassGen
-1,Female candidates,EBV39,0.4537808739634117,import,3,25_25,1,39,ClassGen
-2,Male candidates,EBV39,0.7721305907320927,import,3,25_25,1,39,ClassGen
-3,Mothers,EBV39,0.7293496347303083,import,3,25_25,1,39,ClassGen
-0,Fathers,EBV40,0.686208560383008,import,3,25_25,1,40,ClassGen
-1,Female candidates,EBV40,0.4377746505795747,import,3,25_25,1,40,ClassGen
-2,Male candidates,EBV40,0.8305468657147345,import,3,25_25,1,40,ClassGen
-3,Mothers,EBV40,0.7321078535915087,import,3,25_25,1,40,ClassGen
-0,Fathers,EBV41,0.8090205013062151,import,3,25_25,1,41,ClassGen
-1,Female candidates,EBV41,0.4366393303491691,import,3,25_25,1,41,ClassGen
-2,Male candidates,EBV41,0.7748030194550524,import,3,25_25,1,41,ClassGen
-3,Mothers,EBV41,0.7401099532698019,import,3,25_25,1,41,ClassGen
-0,Fathers,EBV42,0.784703356352683,import,3,25_25,1,42,ClassGen
-1,Female candidates,EBV42,0.4443866879781653,import,3,25_25,1,42,ClassGen
-2,Male candidates,EBV42,0.82464983546529,import,3,25_25,1,42,ClassGen
-3,Mothers,EBV42,0.7305278126800185,import,3,25_25,1,42,ClassGen
-0,Fathers,EBV43,0.8146764863574528,import,3,25_25,1,43,ClassGen
-1,Female candidates,EBV43,0.43744534002116664,import,3,25_25,1,43,ClassGen
-2,Male candidates,EBV43,0.8122702092231631,import,3,25_25,1,43,ClassGen
-3,Mothers,EBV43,0.7339442465632178,import,3,25_25,1,43,ClassGen
-0,Fathers,EBV44,0.8237671036853833,import,3,25_25,1,44,ClassGen
-1,Female candidates,EBV44,0.4351670974103749,import,3,25_25,1,44,ClassGen
-2,Male candidates,EBV44,0.8337624873564994,import,3,25_25,1,44,ClassGen
-3,Mothers,EBV44,0.7359934036158541,import,3,25_25,1,44,ClassGen
-0,Fathers,EBV45,0.7562925083718581,import,3,25_25,1,45,ClassGen
-1,Female candidates,EBV45,0.4452802530634148,import,3,25_25,1,45,ClassGen
-2,Male candidates,EBV45,0.8062925604568251,import,3,25_25,1,45,ClassGen
-3,Mothers,EBV45,0.740459625586576,import,3,25_25,1,45,ClassGen
-0,Fathers,EBV46,0.8378888834773346,import,3,25_25,1,46,ClassGen
-1,Female candidates,EBV46,0.45857022544016385,import,3,25_25,1,46,ClassGen
-2,Male candidates,EBV46,0.8111139657188468,import,3,25_25,1,46,ClassGen
-3,Mothers,EBV46,0.7385060282144652,import,3,25_25,1,46,ClassGen
-0,Fathers,EBV47,0.8442586964716962,import,3,25_25,1,47,ClassGen
-1,Female candidates,EBV47,0.437938221591935,import,3,25_25,1,47,ClassGen
-2,Male candidates,EBV47,0.8319407127191589,import,3,25_25,1,47,ClassGen
-3,Mothers,EBV47,0.7452205549104206,import,3,25_25,1,47,ClassGen
-0,Fathers,EBV48,0.831222514054247,import,3,25_25,1,48,ClassGen
-1,Female candidates,EBV48,0.4463141692995253,import,3,25_25,1,48,ClassGen
-2,Male candidates,EBV48,0.7981661511844729,import,3,25_25,1,48,ClassGen
-3,Mothers,EBV48,0.745238440858712,import,3,25_25,1,48,ClassGen
-0,Fathers,EBV49,0.787470798528201,import,3,25_25,1,49,ClassGen
-1,Female candidates,EBV49,0.44392608485321566,import,3,25_25,1,49,ClassGen
-2,Male candidates,EBV49,0.7965276890438837,import,3,25_25,1,49,ClassGen
-3,Mothers,EBV49,0.7398432871530003,import,3,25_25,1,49,ClassGen
-0,Fathers,EBV50,0.7798894429807492,import,3,25_25,1,50,ClassGen
-1,Female candidates,EBV50,0.44813762846866434,import,3,25_25,1,50,ClassGen
-2,Male candidates,EBV50,0.8113408816568477,import,3,25_25,1,50,ClassGen
-3,Mothers,EBV50,0.7252520719142483,import,3,25_25,1,50,ClassGen
+0,Fathers,EBV31,0.5002432937692464,import,3,25_25,1,31,ClassGen
+1,Female candidates,EBV31,0.4092000901666555,import,3,25_25,1,31,ClassGen
+2,Male candidates,EBV31,0.36410198874880173,import,3,25_25,1,31,ClassGen
+3,Mothers,EBV31,0.7630501152631107,import,3,25_25,1,31,ClassGen
+0,Fathers,EBV32,0.5956614781132793,import,3,25_25,1,32,ClassGen
+1,Female candidates,EBV32,0.40706901811219776,import,3,25_25,1,32,ClassGen
+2,Male candidates,EBV32,0.7873251530068738,import,3,25_25,1,32,ClassGen
+3,Mothers,EBV32,0.7340737328872642,import,3,25_25,1,32,ClassGen
+0,Fathers,EBV33,0.7536233783815481,import,3,25_25,1,33,ClassGen
+1,Female candidates,EBV33,0.37801781470289203,import,3,25_25,1,33,ClassGen
+2,Male candidates,EBV33,0.7618946385533515,import,3,25_25,1,33,ClassGen
+3,Mothers,EBV33,0.7116501105452242,import,3,25_25,1,33,ClassGen
+0,Fathers,EBV34,0.8383420898309694,import,3,25_25,1,34,ClassGen
+1,Female candidates,EBV34,0.395772916412861,import,3,25_25,1,34,ClassGen
+2,Male candidates,EBV34,0.8260446379507143,import,3,25_25,1,34,ClassGen
+3,Mothers,EBV34,0.6899951421172458,import,3,25_25,1,34,ClassGen
+0,Fathers,EBV35,0.8887030924407692,import,3,25_25,1,35,ClassGen
+1,Female candidates,EBV35,0.46598856374878184,import,3,25_25,1,35,ClassGen
+2,Male candidates,EBV35,0.7946778203094408,import,3,25_25,1,35,ClassGen
+3,Mothers,EBV35,0.7023656720522753,import,3,25_25,1,35,ClassGen
+0,Fathers,EBV36,0.8362257508089481,import,3,25_25,1,36,ClassGen
+1,Female candidates,EBV36,0.45706541418370006,import,3,25_25,1,36,ClassGen
+2,Male candidates,EBV36,0.8122552030843169,import,3,25_25,1,36,ClassGen
+3,Mothers,EBV36,0.7094288875463145,import,3,25_25,1,36,ClassGen
+0,Fathers,EBV37,0.7565202122462404,import,3,25_25,1,37,ClassGen
+1,Female candidates,EBV37,0.4501167703985457,import,3,25_25,1,37,ClassGen
+2,Male candidates,EBV37,0.7816546361200307,import,3,25_25,1,37,ClassGen
+3,Mothers,EBV37,0.7202144265294342,import,3,25_25,1,37,ClassGen
+0,Fathers,EBV38,0.7773342838268218,import,3,25_25,1,38,ClassGen
+1,Female candidates,EBV38,0.4543122988712585,import,3,25_25,1,38,ClassGen
+2,Male candidates,EBV38,0.8053998144072249,import,3,25_25,1,38,ClassGen
+3,Mothers,EBV38,0.7281434561753952,import,3,25_25,1,38,ClassGen
+0,Fathers,EBV39,0.8349894729915608,import,3,25_25,1,39,ClassGen
+1,Female candidates,EBV39,0.4522932218311669,import,3,25_25,1,39,ClassGen
+2,Male candidates,EBV39,0.8047328126769446,import,3,25_25,1,39,ClassGen
+3,Mothers,EBV39,0.7378522615067582,import,3,25_25,1,39,ClassGen
+0,Fathers,EBV40,0.8470064812267616,import,3,25_25,1,40,ClassGen
+1,Female candidates,EBV40,0.4602111341418184,import,3,25_25,1,40,ClassGen
+2,Male candidates,EBV40,0.791030576083562,import,3,25_25,1,40,ClassGen
+3,Mothers,EBV40,0.7416870766488027,import,3,25_25,1,40,ClassGen
+0,Fathers,EBV41,0.8754846839870692,import,3,25_25,1,41,ClassGen
+1,Female candidates,EBV41,0.46206544514847053,import,3,25_25,1,41,ClassGen
+2,Male candidates,EBV41,0.8090263655689797,import,3,25_25,1,41,ClassGen
+3,Mothers,EBV41,0.7403077543834871,import,3,25_25,1,41,ClassGen
+0,Fathers,EBV42,0.8145608888428217,import,3,25_25,1,42,ClassGen
+1,Female candidates,EBV42,0.47467403557274945,import,3,25_25,1,42,ClassGen
+2,Male candidates,EBV42,0.8066696238889515,import,3,25_25,1,42,ClassGen
+3,Mothers,EBV42,0.7405348226317308,import,3,25_25,1,42,ClassGen
+0,Fathers,EBV43,0.8340446414786574,import,3,25_25,1,43,ClassGen
+1,Female candidates,EBV43,0.45556515276729076,import,3,25_25,1,43,ClassGen
+2,Male candidates,EBV43,0.7964117734243467,import,3,25_25,1,43,ClassGen
+3,Mothers,EBV43,0.7334809255151119,import,3,25_25,1,43,ClassGen
+0,Fathers,EBV44,0.8061290493294653,import,3,25_25,1,44,ClassGen
+1,Female candidates,EBV44,0.4561245646394487,import,3,25_25,1,44,ClassGen
+2,Male candidates,EBV44,0.7588607253287414,import,3,25_25,1,44,ClassGen
+3,Mothers,EBV44,0.7329310656574987,import,3,25_25,1,44,ClassGen
+0,Fathers,EBV45,0.786609497851502,import,3,25_25,1,45,ClassGen
+1,Female candidates,EBV45,0.43601802113833266,import,3,25_25,1,45,ClassGen
+2,Male candidates,EBV45,0.7842083247158451,import,3,25_25,1,45,ClassGen
+3,Mothers,EBV45,0.731130639004785,import,3,25_25,1,45,ClassGen
+0,Fathers,EBV46,0.7589735499226218,import,3,25_25,1,46,ClassGen
+1,Female candidates,EBV46,0.43488356078516616,import,3,25_25,1,46,ClassGen
+2,Male candidates,EBV46,0.7762559986828865,import,3,25_25,1,46,ClassGen
+3,Mothers,EBV46,0.7360769721138251,import,3,25_25,1,46,ClassGen
+0,Fathers,EBV47,0.7576874553066922,import,3,25_25,1,47,ClassGen
+1,Female candidates,EBV47,0.439309733141178,import,3,25_25,1,47,ClassGen
+2,Male candidates,EBV47,0.7772805432078673,import,3,25_25,1,47,ClassGen
+3,Mothers,EBV47,0.7276857477144771,import,3,25_25,1,47,ClassGen
+0,Fathers,EBV48,0.6770353488757342,import,3,25_25,1,48,ClassGen
+1,Female candidates,EBV48,0.4218400553939471,import,3,25_25,1,48,ClassGen
+2,Male candidates,EBV48,0.8095430173765537,import,3,25_25,1,48,ClassGen
+3,Mothers,EBV48,0.7218466821044577,import,3,25_25,1,48,ClassGen
+0,Fathers,EBV49,0.8113713413864804,import,3,25_25,1,49,ClassGen
+1,Female candidates,EBV49,0.4245018120974604,import,3,25_25,1,49,ClassGen
+2,Male candidates,EBV49,0.7846684354930482,import,3,25_25,1,49,ClassGen
+3,Mothers,EBV49,0.7279077560925079,import,3,25_25,1,49,ClassGen
+0,Fathers,EBV50,0.7504972358687702,import,3,25_25,1,50,ClassGen
+1,Female candidates,EBV50,0.42848252155720207,import,3,25_25,1,50,ClassGen
+2,Male candidates,EBV50,0.7919068806380062,import,3,25_25,1,50,ClassGen
+3,Mothers,EBV50,0.7323672833290744,import,3,25_25,1,50,ClassGen
 0,Fathers,EBV21,0.05418058203428819,home,2,50_50,1,21,ClassGen
 1,Female candidates,EBV21,0.10482679058570016,home,2,50_50,1,21,ClassGen
 2,Male candidates,EBV21,0.36832798941743483,home,2,50_50,1,21,ClassGen
@@ -8299,96 +8299,96 @@
 2,Male candidates,EBV30,0.9311808644960787,home,3,50_50,1,30,ClassGen
 3,Male candidates1,EBV30,0.0745740967121969,home,3,50_50,1,30,ClassGen
 4,Mothers,EBV30,0.5579265372883654,home,3,50_50,1,30,ClassGen
-0,Fathers,EBV31,0.8768136810704161,home,3,50_50,1,31,ClassGen
-1,Female candidates,EBV31,0.3606355208012455,home,3,50_50,1,31,ClassGen
-2,Male candidates,EBV31,0.9521664701635137,home,3,50_50,1,31,ClassGen
-3,Male candidates1,EBV31,0.22420616248368744,home,3,50_50,1,31,ClassGen
-4,Mothers,EBV31,0.5560253942973622,home,3,50_50,1,31,ClassGen
-0,Fathers,EBV32,0.891754013226638,home,3,50_50,1,32,ClassGen
-1,Female candidates,EBV32,0.13655212302059624,home,3,50_50,1,32,ClassGen
-2,Male candidates,EBV32,0.6527743610896722,home,3,50_50,1,32,ClassGen
-3,Male candidates1,EBV32,-0.02009284935706776,home,3,50_50,1,32,ClassGen
-4,Mothers,EBV32,0.5492310520414551,home,3,50_50,1,32,ClassGen
-0,Fathers,EBV33,0.8372817175859818,home,3,50_50,1,33,ClassGen
-1,Female candidates,EBV33,0.17484000170871836,home,3,50_50,1,33,ClassGen
-2,Male candidates,EBV33,0.9399021195656716,home,3,50_50,1,33,ClassGen
-3,Male candidates1,EBV33,0.06282925620668765,home,3,50_50,1,33,ClassGen
-4,Mothers,EBV33,0.5291010154014796,home,3,50_50,1,33,ClassGen
-0,Fathers,EBV34,0.8017666112002383,home,3,50_50,1,34,ClassGen
-1,Female candidates,EBV34,0.2568593204272399,home,3,50_50,1,34,ClassGen
-2,Male candidates,EBV34,0.17622625703894396,home,3,50_50,1,34,ClassGen
-3,Male candidates1,EBV34,0.09733459903919604,home,3,50_50,1,34,ClassGen
-4,Mothers,EBV34,0.5452601118848168,home,3,50_50,1,34,ClassGen
-0,Fathers,EBV35,0.2697281696637675,home,3,50_50,1,35,ClassGen
-1,Female candidates,EBV35,0.32762497178976757,home,3,50_50,1,35,ClassGen
-2,Male candidates,EBV35,0.5345531614052829,home,3,50_50,1,35,ClassGen
-3,Male candidates1,EBV35,0.2737695614138013,home,3,50_50,1,35,ClassGen
-4,Mothers,EBV35,0.5492353344530291,home,3,50_50,1,35,ClassGen
-0,Fathers,EBV36,0.34648578315645384,home,3,50_50,1,36,ClassGen
-1,Female candidates,EBV36,0.32076890729415947,home,3,50_50,1,36,ClassGen
-2,Male candidates,EBV36,-0.12423983428338255,home,3,50_50,1,36,ClassGen
-3,Male candidates1,EBV36,0.22303609000057448,home,3,50_50,1,36,ClassGen
-4,Mothers,EBV36,0.5396062172020363,home,3,50_50,1,36,ClassGen
-0,Fathers,EBV37,0.36808161900705777,home,3,50_50,1,37,ClassGen
-1,Female candidates,EBV37,0.266153550444015,home,3,50_50,1,37,ClassGen
-2,Male candidates,EBV37,0.21453403177639083,home,3,50_50,1,37,ClassGen
-3,Male candidates1,EBV37,0.11207436288156038,home,3,50_50,1,37,ClassGen
-4,Mothers,EBV37,0.5172062275893315,home,3,50_50,1,37,ClassGen
-0,Fathers,EBV38,0.3833697846352898,home,3,50_50,1,38,ClassGen
-1,Female candidates,EBV38,0.2618769040450735,home,3,50_50,1,38,ClassGen
-2,Male candidates,EBV38,0.08323740525907339,home,3,50_50,1,38,ClassGen
-3,Male candidates1,EBV38,0.2236138374250138,home,3,50_50,1,38,ClassGen
-4,Mothers,EBV38,0.5213467482145775,home,3,50_50,1,38,ClassGen
-0,Fathers,EBV39,0.2252685922149443,home,3,50_50,1,39,ClassGen
-1,Female candidates,EBV39,0.30878995343178456,home,3,50_50,1,39,ClassGen
-2,Male candidates,EBV39,0.17924368441910113,home,3,50_50,1,39,ClassGen
-3,Male candidates1,EBV39,0.3733411002380463,home,3,50_50,1,39,ClassGen
-4,Mothers,EBV39,0.5170498205846694,home,3,50_50,1,39,ClassGen
-0,Fathers,EBV40,0.3881490617036006,home,3,50_50,1,40,ClassGen
-1,Female candidates,EBV40,0.3600731354376493,home,3,50_50,1,40,ClassGen
-2,Male candidates,EBV40,0.620521113903841,home,3,50_50,1,40,ClassGen
-3,Male candidates1,EBV40,0.06160716900676812,home,3,50_50,1,40,ClassGen
-4,Mothers,EBV40,0.5289488712852342,home,3,50_50,1,40,ClassGen
-0,Fathers,EBV41,0.6042408245618357,home,3,50_50,1,41,ClassGen
-1,Female candidates,EBV41,0.41739212470257486,home,3,50_50,1,41,ClassGen
-2,Male candidates,EBV41,0.2599776541106427,home,3,50_50,1,41,ClassGen
-3,Mothers,EBV41,0.6212302525328538,home,3,50_50,1,41,ClassGen
-0,Fathers,EBV42,0.520950739383504,home,3,50_50,1,42,ClassGen
-1,Female candidates,EBV42,0.4606459067343712,home,3,50_50,1,42,ClassGen
-2,Male candidates,EBV42,0.8052104731009977,home,3,50_50,1,42,ClassGen
-3,Mothers,EBV42,0.6684590083566437,home,3,50_50,1,42,ClassGen
-0,Fathers,EBV43,0.702012225861447,home,3,50_50,1,43,ClassGen
-1,Female candidates,EBV43,0.4512349229610293,home,3,50_50,1,43,ClassGen
-2,Male candidates,EBV43,0.7811744476514253,home,3,50_50,1,43,ClassGen
-3,Mothers,EBV43,0.6753051102895233,home,3,50_50,1,43,ClassGen
-0,Fathers,EBV44,0.7369649879938416,home,3,50_50,1,44,ClassGen
-1,Female candidates,EBV44,0.5596707870053762,home,3,50_50,1,44,ClassGen
-2,Male candidates,EBV44,0.8084991456818564,home,3,50_50,1,44,ClassGen
-3,Mothers,EBV44,0.7024712476660702,home,3,50_50,1,44,ClassGen
-0,Fathers,EBV45,0.8133644589374068,home,3,50_50,1,45,ClassGen
-1,Female candidates,EBV45,0.5989278967244218,home,3,50_50,1,45,ClassGen
-2,Male candidates,EBV45,0.8059984153238335,home,3,50_50,1,45,ClassGen
-3,Mothers,EBV45,0.7226936186250374,home,3,50_50,1,45,ClassGen
-0,Fathers,EBV46,0.7252265781331698,home,3,50_50,1,46,ClassGen
-1,Female candidates,EBV46,0.6276119391707785,home,3,50_50,1,46,ClassGen
-2,Male candidates,EBV46,0.8038442591967876,home,3,50_50,1,46,ClassGen
-3,Mothers,EBV46,0.7396344789505765,home,3,50_50,1,46,ClassGen
-0,Fathers,EBV47,0.6376891338782121,home,3,50_50,1,47,ClassGen
-1,Female candidates,EBV47,0.6691778413969975,home,3,50_50,1,47,ClassGen
-2,Male candidates,EBV47,0.8403947321329143,home,3,50_50,1,47,ClassGen
-3,Mothers,EBV47,0.7618922046305647,home,3,50_50,1,47,ClassGen
-0,Fathers,EBV48,0.8002180768015862,home,3,50_50,1,48,ClassGen
-1,Female candidates,EBV48,0.6790691767124029,home,3,50_50,1,48,ClassGen
-2,Male candidates,EBV48,0.8268994449488255,home,3,50_50,1,48,ClassGen
-3,Mothers,EBV48,0.7673172765995876,home,3,50_50,1,48,ClassGen
-0,Fathers,EBV49,0.8602550745692763,home,3,50_50,1,49,ClassGen
-1,Female candidates,EBV49,0.675045567623073,home,3,50_50,1,49,ClassGen
-2,Male candidates,EBV49,0.8569501750249222,home,3,50_50,1,49,ClassGen
-3,Mothers,EBV49,0.7709115485822652,home,3,50_50,1,49,ClassGen
-0,Fathers,EBV50,0.8854024547880904,home,3,50_50,1,50,ClassGen
-1,Female candidates,EBV50,0.7036389384098176,home,3,50_50,1,50,ClassGen
-2,Male candidates,EBV50,0.8885281322122738,home,3,50_50,1,50,ClassGen
-3,Mothers,EBV50,0.7769663514378866,home,3,50_50,1,50,ClassGen
+0,Fathers,EBV31,0.8468988290368573,home,3,50_50,1,31,ClassGen
+1,Female candidates,EBV31,0.35968242313476173,home,3,50_50,1,31,ClassGen
+2,Male candidates,EBV31,0.9521627535409994,home,3,50_50,1,31,ClassGen
+3,Male candidates1,EBV31,0.3174727824954552,home,3,50_50,1,31,ClassGen
+4,Mothers,EBV31,0.5543911645387224,home,3,50_50,1,31,ClassGen
+0,Fathers,EBV32,0.8469448880076248,home,3,50_50,1,32,ClassGen
+1,Female candidates,EBV32,0.13987460503774685,home,3,50_50,1,32,ClassGen
+2,Male candidates,EBV32,0.6652950417354293,home,3,50_50,1,32,ClassGen
+3,Male candidates1,EBV32,-0.04620885734190279,home,3,50_50,1,32,ClassGen
+4,Mothers,EBV32,0.5360859060467841,home,3,50_50,1,32,ClassGen
+0,Fathers,EBV33,0.7405771025411462,home,3,50_50,1,33,ClassGen
+1,Female candidates,EBV33,0.11323422085842157,home,3,50_50,1,33,ClassGen
+2,Male candidates,EBV33,0.9390198812330955,home,3,50_50,1,33,ClassGen
+3,Male candidates1,EBV33,0.2619187944388586,home,3,50_50,1,33,ClassGen
+4,Mothers,EBV33,0.5210920146758499,home,3,50_50,1,33,ClassGen
+0,Fathers,EBV34,0.7800210451373515,home,3,50_50,1,34,ClassGen
+1,Female candidates,EBV34,0.18899422463385404,home,3,50_50,1,34,ClassGen
+2,Male candidates,EBV34,-0.0323054030327437,home,3,50_50,1,34,ClassGen
+3,Male candidates1,EBV34,-0.2637044459064449,home,3,50_50,1,34,ClassGen
+4,Mothers,EBV34,0.5364674446147354,home,3,50_50,1,34,ClassGen
+0,Fathers,EBV35,0.22742461374758555,home,3,50_50,1,35,ClassGen
+1,Female candidates,EBV35,0.20540395653328328,home,3,50_50,1,35,ClassGen
+2,Male candidates,EBV35,0.0037919437278001664,home,3,50_50,1,35,ClassGen
+3,Male candidates1,EBV35,-0.09128561633911622,home,3,50_50,1,35,ClassGen
+4,Mothers,EBV35,0.5443779200464846,home,3,50_50,1,35,ClassGen
+0,Fathers,EBV36,-0.055593617017241075,home,3,50_50,1,36,ClassGen
+1,Female candidates,EBV36,0.2929382342241599,home,3,50_50,1,36,ClassGen
+2,Male candidates,EBV36,0.4287617956989936,home,3,50_50,1,36,ClassGen
+3,Male candidates1,EBV36,0.3116425937899521,home,3,50_50,1,36,ClassGen
+4,Mothers,EBV36,0.5486662226108021,home,3,50_50,1,36,ClassGen
+0,Fathers,EBV37,0.24167240773871657,home,3,50_50,1,37,ClassGen
+1,Female candidates,EBV37,0.18580924611560182,home,3,50_50,1,37,ClassGen
+2,Male candidates,EBV37,0.11255898432001545,home,3,50_50,1,37,ClassGen
+3,Male candidates1,EBV37,-0.1822219000278753,home,3,50_50,1,37,ClassGen
+4,Mothers,EBV37,0.5560825029114851,home,3,50_50,1,37,ClassGen
+0,Fathers,EBV38,0.626708514173384,home,3,50_50,1,38,ClassGen
+1,Female candidates,EBV38,0.223491280705775,home,3,50_50,1,38,ClassGen
+2,Male candidates,EBV38,0.015859988767565513,home,3,50_50,1,38,ClassGen
+3,Male candidates1,EBV38,-0.0009584392275365091,home,3,50_50,1,38,ClassGen
+4,Mothers,EBV38,0.5811535125143745,home,3,50_50,1,38,ClassGen
+0,Fathers,EBV39,0.5314097842359915,home,3,50_50,1,39,ClassGen
+1,Female candidates,EBV39,0.3848280774721151,home,3,50_50,1,39,ClassGen
+2,Male candidates,EBV39,0.4580730015395051,home,3,50_50,1,39,ClassGen
+3,Male candidates1,EBV39,0.39453527249976333,home,3,50_50,1,39,ClassGen
+4,Mothers,EBV39,0.6011311394343792,home,3,50_50,1,39,ClassGen
+0,Fathers,EBV40,0.29391121288154154,home,3,50_50,1,40,ClassGen
+1,Female candidates,EBV40,0.37619551473770235,home,3,50_50,1,40,ClassGen
+2,Male candidates,EBV40,0.2290832318472318,home,3,50_50,1,40,ClassGen
+3,Male candidates1,EBV40,0.16887918300297597,home,3,50_50,1,40,ClassGen
+4,Mothers,EBV40,0.6166677980431401,home,3,50_50,1,40,ClassGen
+0,Fathers,EBV41,0.7859521370897165,home,3,50_50,1,41,ClassGen
+1,Female candidates,EBV41,0.43262935191597,home,3,50_50,1,41,ClassGen
+2,Male candidates,EBV41,0.05228749393845964,home,3,50_50,1,41,ClassGen
+3,Mothers,EBV41,0.7063197385846793,home,3,50_50,1,41,ClassGen
+0,Fathers,EBV42,0.775120230712304,home,3,50_50,1,42,ClassGen
+1,Female candidates,EBV42,0.28899545341276184,home,3,50_50,1,42,ClassGen
+2,Male candidates,EBV42,0.8158725392182007,home,3,50_50,1,42,ClassGen
+3,Mothers,EBV42,0.7493677457047615,home,3,50_50,1,42,ClassGen
+0,Fathers,EBV43,0.816722600607917,home,3,50_50,1,43,ClassGen
+1,Female candidates,EBV43,0.3357772435139715,home,3,50_50,1,43,ClassGen
+2,Male candidates,EBV43,0.6323388084960182,home,3,50_50,1,43,ClassGen
+3,Mothers,EBV43,0.7658088239171068,home,3,50_50,1,43,ClassGen
+0,Fathers,EBV44,0.7987781764710565,home,3,50_50,1,44,ClassGen
+1,Female candidates,EBV44,0.46906530311280215,home,3,50_50,1,44,ClassGen
+2,Male candidates,EBV44,0.7040073443444058,home,3,50_50,1,44,ClassGen
+3,Mothers,EBV44,0.7700452760752384,home,3,50_50,1,44,ClassGen
+0,Fathers,EBV45,0.8646532997550219,home,3,50_50,1,45,ClassGen
+1,Female candidates,EBV45,0.5095115417684889,home,3,50_50,1,45,ClassGen
+2,Male candidates,EBV45,0.8644183410241443,home,3,50_50,1,45,ClassGen
+3,Mothers,EBV45,0.772627803388679,home,3,50_50,1,45,ClassGen
+0,Fathers,EBV46,0.8459416104235021,home,3,50_50,1,46,ClassGen
+1,Female candidates,EBV46,0.5190272729003417,home,3,50_50,1,46,ClassGen
+2,Male candidates,EBV46,0.6844259883005169,home,3,50_50,1,46,ClassGen
+3,Mothers,EBV46,0.7691176405096326,home,3,50_50,1,46,ClassGen
+0,Fathers,EBV47,0.798494066601382,home,3,50_50,1,47,ClassGen
+1,Female candidates,EBV47,0.5233724438475823,home,3,50_50,1,47,ClassGen
+2,Male candidates,EBV47,0.848881417601859,home,3,50_50,1,47,ClassGen
+3,Mothers,EBV47,0.7611010231948044,home,3,50_50,1,47,ClassGen
+0,Fathers,EBV48,0.8778995522479233,home,3,50_50,1,48,ClassGen
+1,Female candidates,EBV48,0.4951428598102065,home,3,50_50,1,48,ClassGen
+2,Male candidates,EBV48,0.8125854813804025,home,3,50_50,1,48,ClassGen
+3,Mothers,EBV48,0.7601907270940028,home,3,50_50,1,48,ClassGen
+0,Fathers,EBV49,0.8925683486774147,home,3,50_50,1,49,ClassGen
+1,Female candidates,EBV49,0.4896047162175453,home,3,50_50,1,49,ClassGen
+2,Male candidates,EBV49,0.7703166205918994,home,3,50_50,1,49,ClassGen
+3,Mothers,EBV49,0.7678598661145869,home,3,50_50,1,49,ClassGen
+0,Fathers,EBV50,0.8263246027929996,home,3,50_50,1,50,ClassGen
+1,Female candidates,EBV50,0.46874065080356186,home,3,50_50,1,50,ClassGen
+2,Male candidates,EBV50,0.7326733098120365,home,3,50_50,1,50,ClassGen
+3,Mothers,EBV50,0.7625462132493306,home,3,50_50,1,50,ClassGen
 0,Fathers,EBV21,-0.18059104542548265,import,3,50_50,1,21,ClassGen
 1,Female candidates,EBV21,0.18474793961223696,import,3,50_50,1,21,ClassGen
 2,Male candidates,EBV21,0.2010970257729168,import,3,50_50,1,21,ClassGen
@@ -8439,86 +8439,86 @@
 2,Male candidates,EBV30,0.5198544811444892,import,3,50_50,1,30,ClassGen
 3,Male candidates1,EBV30,0.23471651016377046,import,3,50_50,1,30,ClassGen
 4,Mothers,EBV30,0.6070025508001454,import,3,50_50,1,30,ClassGen
-0,Fathers,EBV31,0.10022769124817368,import,3,50_50,1,31,ClassGen
-1,Female candidates,EBV31,0.07905927959075978,import,3,50_50,1,31,ClassGen
-2,Male candidates,EBV31,-0.11851374997642057,import,3,50_50,1,31,ClassGen
-3,Mothers,EBV31,0.003307464095856733,import,3,50_50,1,31,ClassGen
-0,Fathers,EBV32,-0.09755894178616713,import,3,50_50,1,32,ClassGen
-1,Female candidates,EBV32,0.15334398743331668,import,3,50_50,1,32,ClassGen
-2,Male candidates,EBV32,-0.029946826056301494,import,3,50_50,1,32,ClassGen
-3,Mothers,EBV32,-0.003666115487267438,import,3,50_50,1,32,ClassGen
-0,Fathers,EBV33,-0.03496889373905147,import,3,50_50,1,33,ClassGen
-1,Female candidates,EBV33,0.0790194076683876,import,3,50_50,1,33,ClassGen
-2,Male candidates,EBV33,0.024097595301511874,import,3,50_50,1,33,ClassGen
-3,Mothers,EBV33,0.003238473199887581,import,3,50_50,1,33,ClassGen
-0,Fathers,EBV34,0.11798140264980271,import,3,50_50,1,34,ClassGen
-1,Female candidates,EBV34,0.022419392450155475,import,3,50_50,1,34,ClassGen
-2,Male candidates,EBV34,0.0780576370607699,import,3,50_50,1,34,ClassGen
-3,Mothers,EBV34,-0.012642977917980365,import,3,50_50,1,34,ClassGen
-0,Fathers,EBV35,0.059618277117789345,import,3,50_50,1,35,ClassGen
-1,Female candidates,EBV35,0.009624635109930064,import,3,50_50,1,35,ClassGen
-2,Male candidates,EBV35,-0.03870563645960535,import,3,50_50,1,35,ClassGen
-3,Mothers,EBV35,-0.001548010071524077,import,3,50_50,1,35,ClassGen
-0,Fathers,EBV36,-0.002028794921902109,import,3,50_50,1,36,ClassGen
-1,Female candidates,EBV36,-0.003577083721403598,import,3,50_50,1,36,ClassGen
-2,Male candidates,EBV36,-0.14307140905746124,import,3,50_50,1,36,ClassGen
-3,Mothers,EBV36,-0.003358301435689306,import,3,50_50,1,36,ClassGen
-0,Fathers,EBV37,-0.08941830232261418,import,3,50_50,1,37,ClassGen
-1,Female candidates,EBV37,-0.0011824283987139099,import,3,50_50,1,37,ClassGen
-2,Male candidates,EBV37,0.050211401247164625,import,3,50_50,1,37,ClassGen
-3,Mothers,EBV37,-0.00922955028311221,import,3,50_50,1,37,ClassGen
-0,Fathers,EBV38,-0.12651484665941215,import,3,50_50,1,38,ClassGen
-1,Female candidates,EBV38,-0.008543437231287615,import,3,50_50,1,38,ClassGen
-2,Male candidates,EBV38,0.06917023073873288,import,3,50_50,1,38,ClassGen
-3,Mothers,EBV38,0.007925936673937874,import,3,50_50,1,38,ClassGen
-0,Fathers,EBV39,-0.16910084447988005,import,3,50_50,1,39,ClassGen
-1,Female candidates,EBV39,-0.01290557778838689,import,3,50_50,1,39,ClassGen
-2,Male candidates,EBV39,0.0679485202484053,import,3,50_50,1,39,ClassGen
-3,Mothers,EBV39,-0.006545155260545962,import,3,50_50,1,39,ClassGen
-0,Fathers,EBV40,-0.16847950510622567,import,3,50_50,1,40,ClassGen
-1,Female candidates,EBV40,-0.0021731110262475095,import,3,50_50,1,40,ClassGen
-2,Male candidates,EBV40,-0.011852773571344264,import,3,50_50,1,40,ClassGen
-3,Mothers,EBV40,-0.005495697972396576,import,3,50_50,1,40,ClassGen
-0,Fathers,EBV41,0.03799138243635294,import,3,50_50,1,41,ClassGen
-1,Female candidates,EBV41,0.013105609966502629,import,3,50_50,1,41,ClassGen
-2,Male candidates,EBV41,-0.014628827821187615,import,3,50_50,1,41,ClassGen
-3,Mothers,EBV41,-0.007932049836730687,import,3,50_50,1,41,ClassGen
-0,Fathers,EBV42,0.05526553387788486,import,3,50_50,1,42,ClassGen
-1,Female candidates,EBV42,-0.01154885177131239,import,3,50_50,1,42,ClassGen
-2,Male candidates,EBV42,0.012369082288848922,import,3,50_50,1,42,ClassGen
-3,Mothers,EBV42,0.012076259029667588,import,3,50_50,1,42,ClassGen
-0,Fathers,EBV43,0.09581667624290041,import,3,50_50,1,43,ClassGen
-1,Female candidates,EBV43,-0.02513587353457437,import,3,50_50,1,43,ClassGen
-2,Male candidates,EBV43,0.07676330299311761,import,3,50_50,1,43,ClassGen
-3,Mothers,EBV43,-0.006955412308030491,import,3,50_50,1,43,ClassGen
-0,Fathers,EBV44,0.18056332887861407,import,3,50_50,1,44,ClassGen
-1,Female candidates,EBV44,0.0005693284314644295,import,3,50_50,1,44,ClassGen
-2,Male candidates,EBV44,0.03465100452652386,import,3,50_50,1,44,ClassGen
-3,Mothers,EBV44,-0.008739045326892141,import,3,50_50,1,44,ClassGen
-0,Fathers,EBV45,0.20558192541267156,import,3,50_50,1,45,ClassGen
-1,Female candidates,EBV45,-0.01992584401143941,import,3,50_50,1,45,ClassGen
-2,Male candidates,EBV45,-0.0020633919648746354,import,3,50_50,1,45,ClassGen
-3,Mothers,EBV45,0.0004999662675932236,import,3,50_50,1,45,ClassGen
-0,Fathers,EBV46,-0.005746917218068616,import,3,50_50,1,46,ClassGen
-1,Female candidates,EBV46,0.021091165281400166,import,3,50_50,1,46,ClassGen
-2,Male candidates,EBV46,-0.06525905073489714,import,3,50_50,1,46,ClassGen
-3,Mothers,EBV46,0.0050674566787963955,import,3,50_50,1,46,ClassGen
-0,Fathers,EBV47,0.005051642042277335,import,3,50_50,1,47,ClassGen
-1,Female candidates,EBV47,0.014430047178065206,import,3,50_50,1,47,ClassGen
-2,Male candidates,EBV47,-0.08809845070062544,import,3,50_50,1,47,ClassGen
-3,Mothers,EBV47,-0.0047117791379987645,import,3,50_50,1,47,ClassGen
-0,Fathers,EBV48,0.11137985068102571,import,3,50_50,1,48,ClassGen
-1,Female candidates,EBV48,0.01679531887397192,import,3,50_50,1,48,ClassGen
-2,Male candidates,EBV48,-0.027380324182634086,import,3,50_50,1,48,ClassGen
-3,Mothers,EBV48,-0.01761454676164019,import,3,50_50,1,48,ClassGen
-0,Fathers,EBV49,-0.2727427180013862,import,3,50_50,1,49,ClassGen
-1,Female candidates,EBV49,-0.010543806859443831,import,3,50_50,1,49,ClassGen
-2,Male candidates,EBV49,-0.05304953608759882,import,3,50_50,1,49,ClassGen
-3,Mothers,EBV49,0.012360858391996195,import,3,50_50,1,49,ClassGen
-0,Fathers,EBV50,0.0659103939654795,import,3,50_50,1,50,ClassGen
-1,Female candidates,EBV50,0.0005201323139327548,import,3,50_50,1,50,ClassGen
-2,Male candidates,EBV50,0.0741764508092947,import,3,50_50,1,50,ClassGen
-3,Mothers,EBV50,-0.006289838660538732,import,3,50_50,1,50,ClassGen
+0,Fathers,EBV31,0.5600417287249578,import,3,50_50,1,31,ClassGen
+1,Female candidates,EBV31,0.4113294741089133,import,3,50_50,1,31,ClassGen
+2,Male candidates,EBV31,0.3572405764555709,import,3,50_50,1,31,ClassGen
+3,Mothers,EBV31,0.766169504769546,import,3,50_50,1,31,ClassGen
+0,Fathers,EBV32,0.6559312611142838,import,3,50_50,1,32,ClassGen
+1,Female candidates,EBV32,0.42349232344826665,import,3,50_50,1,32,ClassGen
+2,Male candidates,EBV32,0.8131828914932283,import,3,50_50,1,32,ClassGen
+3,Mothers,EBV32,0.7343412119320613,import,3,50_50,1,32,ClassGen
+0,Fathers,EBV33,0.8276397662665417,import,3,50_50,1,33,ClassGen
+1,Female candidates,EBV33,0.37345986221882393,import,3,50_50,1,33,ClassGen
+2,Male candidates,EBV33,0.7798121527328489,import,3,50_50,1,33,ClassGen
+3,Mothers,EBV33,0.7117859650498752,import,3,50_50,1,33,ClassGen
+0,Fathers,EBV34,0.8049932557469301,import,3,50_50,1,34,ClassGen
+1,Female candidates,EBV34,0.44684015809967453,import,3,50_50,1,34,ClassGen
+2,Male candidates,EBV34,0.8073486528514727,import,3,50_50,1,34,ClassGen
+3,Mothers,EBV34,0.6957527839084409,import,3,50_50,1,34,ClassGen
+0,Fathers,EBV35,0.7896851512792579,import,3,50_50,1,35,ClassGen
+1,Female candidates,EBV35,0.42813136535402113,import,3,50_50,1,35,ClassGen
+2,Male candidates,EBV35,0.7799101626451962,import,3,50_50,1,35,ClassGen
+3,Mothers,EBV35,0.7049742061083472,import,3,50_50,1,35,ClassGen
+0,Fathers,EBV36,0.8183483798488402,import,3,50_50,1,36,ClassGen
+1,Female candidates,EBV36,0.42750690861731866,import,3,50_50,1,36,ClassGen
+2,Male candidates,EBV36,0.7890617150339763,import,3,50_50,1,36,ClassGen
+3,Mothers,EBV36,0.7160050867424893,import,3,50_50,1,36,ClassGen
+0,Fathers,EBV37,0.7231047895683117,import,3,50_50,1,37,ClassGen
+1,Female candidates,EBV37,0.481824902538909,import,3,50_50,1,37,ClassGen
+2,Male candidates,EBV37,0.8059046177677872,import,3,50_50,1,37,ClassGen
+3,Mothers,EBV37,0.723203334821696,import,3,50_50,1,37,ClassGen
+0,Fathers,EBV38,0.815931562620669,import,3,50_50,1,38,ClassGen
+1,Female candidates,EBV38,0.4304734721853304,import,3,50_50,1,38,ClassGen
+2,Male candidates,EBV38,0.7656503005736955,import,3,50_50,1,38,ClassGen
+3,Mothers,EBV38,0.7269399331666682,import,3,50_50,1,38,ClassGen
+0,Fathers,EBV39,0.7978684536198004,import,3,50_50,1,39,ClassGen
+1,Female candidates,EBV39,0.46834578309850255,import,3,50_50,1,39,ClassGen
+2,Male candidates,EBV39,0.7934842294591878,import,3,50_50,1,39,ClassGen
+3,Mothers,EBV39,0.7385144892450852,import,3,50_50,1,39,ClassGen
+0,Fathers,EBV40,0.7187154331123978,import,3,50_50,1,40,ClassGen
+1,Female candidates,EBV40,0.48649303062497073,import,3,50_50,1,40,ClassGen
+2,Male candidates,EBV40,0.7984249973241768,import,3,50_50,1,40,ClassGen
+3,Mothers,EBV40,0.7377646979081668,import,3,50_50,1,40,ClassGen
+0,Fathers,EBV41,0.8203137306207137,import,3,50_50,1,41,ClassGen
+1,Female candidates,EBV41,0.44535712370784664,import,3,50_50,1,41,ClassGen
+2,Male candidates,EBV41,0.8057216119290719,import,3,50_50,1,41,ClassGen
+3,Mothers,EBV41,0.7361996119375356,import,3,50_50,1,41,ClassGen
+0,Fathers,EBV42,0.8016642554457871,import,3,50_50,1,42,ClassGen
+1,Female candidates,EBV42,0.4672562865905166,import,3,50_50,1,42,ClassGen
+2,Male candidates,EBV42,0.7489017310876538,import,3,50_50,1,42,ClassGen
+3,Mothers,EBV42,0.7393927172017913,import,3,50_50,1,42,ClassGen
+0,Fathers,EBV43,0.7122758933567293,import,3,50_50,1,43,ClassGen
+1,Female candidates,EBV43,0.45438966826044336,import,3,50_50,1,43,ClassGen
+2,Male candidates,EBV43,0.8096907201297844,import,3,50_50,1,43,ClassGen
+3,Mothers,EBV43,0.7377804640074344,import,3,50_50,1,43,ClassGen
+0,Fathers,EBV44,0.8122629206979134,import,3,50_50,1,44,ClassGen
+1,Female candidates,EBV44,0.44231953591979445,import,3,50_50,1,44,ClassGen
+2,Male candidates,EBV44,0.7982201842838955,import,3,50_50,1,44,ClassGen
+3,Mothers,EBV44,0.7352688981236274,import,3,50_50,1,44,ClassGen
+0,Fathers,EBV45,0.8239276019800564,import,3,50_50,1,45,ClassGen
+1,Female candidates,EBV45,0.4443730738254744,import,3,50_50,1,45,ClassGen
+2,Male candidates,EBV45,0.8265419167631939,import,3,50_50,1,45,ClassGen
+3,Mothers,EBV45,0.734374972419445,import,3,50_50,1,45,ClassGen
+0,Fathers,EBV46,0.8610537860757177,import,3,50_50,1,46,ClassGen
+1,Female candidates,EBV46,0.4793239238091205,import,3,50_50,1,46,ClassGen
+2,Male candidates,EBV46,0.8060455663781653,import,3,50_50,1,46,ClassGen
+3,Mothers,EBV46,0.733479926242101,import,3,50_50,1,46,ClassGen
+0,Fathers,EBV47,0.8231455419352279,import,3,50_50,1,47,ClassGen
+1,Female candidates,EBV47,0.4829813426297766,import,3,50_50,1,47,ClassGen
+2,Male candidates,EBV47,0.8148956982386747,import,3,50_50,1,47,ClassGen
+3,Mothers,EBV47,0.7311739335651233,import,3,50_50,1,47,ClassGen
+0,Fathers,EBV48,0.7318160941919648,import,3,50_50,1,48,ClassGen
+1,Female candidates,EBV48,0.4636925353301747,import,3,50_50,1,48,ClassGen
+2,Male candidates,EBV48,0.8114238051463252,import,3,50_50,1,48,ClassGen
+3,Mothers,EBV48,0.7344101020161713,import,3,50_50,1,48,ClassGen
+0,Fathers,EBV49,0.7778398836911439,import,3,50_50,1,49,ClassGen
+1,Female candidates,EBV49,0.45309964489355,import,3,50_50,1,49,ClassGen
+2,Male candidates,EBV49,0.8299468480691873,import,3,50_50,1,49,ClassGen
+3,Mothers,EBV49,0.7397883601954464,import,3,50_50,1,49,ClassGen
+0,Fathers,EBV50,0.8259927072226535,import,3,50_50,1,50,ClassGen
+1,Female candidates,EBV50,0.4686104892802671,import,3,50_50,1,50,ClassGen
+2,Male candidates,EBV50,0.8311621812499622,import,3,50_50,1,50,ClassGen
+3,Mothers,EBV50,0.7371944060693361,import,3,50_50,1,50,ClassGen
 0,Fathers,EBV21,0.05418058203428819,home,2,100_100,1,21,ClassGen
 1,Female candidates,EBV21,0.10482679058570016,home,2,100_100,1,21,ClassGen
 2,Male candidates,EBV21,0.36832798941743483,home,2,100_100,1,21,ClassGen
@@ -8839,96 +8839,96 @@
 2,Male candidates,EBV30,0.9311808644960787,home,3,100_100,1,30,ClassGen
 3,Male candidates1,EBV30,0.0745740967121969,home,3,100_100,1,30,ClassGen
 4,Mothers,EBV30,0.5579265372883654,home,3,100_100,1,30,ClassGen
-0,Fathers,EBV31,0.8752185229385708,home,3,100_100,1,31,ClassGen
-1,Female candidates,EBV31,0.3602680938464267,home,3,100_100,1,31,ClassGen
-2,Male candidates,EBV31,0.9524909605655578,home,3,100_100,1,31,ClassGen
-3,Male candidates1,EBV31,0.32045665407960006,home,3,100_100,1,31,ClassGen
-4,Mothers,EBV31,0.5512473863968497,home,3,100_100,1,31,ClassGen
-0,Fathers,EBV32,0.853919547492764,home,3,100_100,1,32,ClassGen
-1,Female candidates,EBV32,0.08254475193731318,home,3,100_100,1,32,ClassGen
-2,Male candidates,EBV32,0.6550689170164921,home,3,100_100,1,32,ClassGen
-3,Male candidates1,EBV32,-0.10894111864940746,home,3,100_100,1,32,ClassGen
-4,Mothers,EBV32,0.5389400806399633,home,3,100_100,1,32,ClassGen
-0,Fathers,EBV33,0.7578897470086422,home,3,100_100,1,33,ClassGen
-1,Female candidates,EBV33,0.1424235978169345,home,3,100_100,1,33,ClassGen
-2,Male candidates,EBV33,0.9469200912235645,home,3,100_100,1,33,ClassGen
-3,Male candidates1,EBV33,-0.3212730907455868,home,3,100_100,1,33,ClassGen
-4,Mothers,EBV33,0.5262152987746437,home,3,100_100,1,33,ClassGen
-0,Fathers,EBV34,0.7795481738498046,home,3,100_100,1,34,ClassGen
-1,Female candidates,EBV34,0.26503625307779133,home,3,100_100,1,34,ClassGen
-2,Male candidates,EBV34,0.19553481840487474,home,3,100_100,1,34,ClassGen
-3,Male candidates1,EBV34,-0.16223553930532972,home,3,100_100,1,34,ClassGen
-4,Mothers,EBV34,0.5420098961242525,home,3,100_100,1,34,ClassGen
-0,Fathers,EBV35,0.7048773385307857,home,3,100_100,1,35,ClassGen
-1,Female candidates,EBV35,0.25099215883265974,home,3,100_100,1,35,ClassGen
-2,Male candidates,EBV35,0.9564844631660149,home,3,100_100,1,35,ClassGen
-3,Male candidates1,EBV35,0.3653756640057981,home,3,100_100,1,35,ClassGen
-4,Mothers,EBV35,0.557108795227456,home,3,100_100,1,35,ClassGen
-0,Fathers,EBV36,0.8573563698686099,home,3,100_100,1,36,ClassGen
-1,Female candidates,EBV36,0.1995059059354892,home,3,100_100,1,36,ClassGen
-2,Male candidates,EBV36,0.9814410014146643,home,3,100_100,1,36,ClassGen
-3,Male candidates1,EBV36,-0.033953792505048874,home,3,100_100,1,36,ClassGen
-4,Mothers,EBV36,0.5560574473253621,home,3,100_100,1,36,ClassGen
-0,Fathers,EBV37,0.9055901353314071,home,3,100_100,1,37,ClassGen
-1,Female candidates,EBV37,0.2989254636773322,home,3,100_100,1,37,ClassGen
-2,Male candidates,EBV37,0.8453036785332282,home,3,100_100,1,37,ClassGen
-3,Male candidates1,EBV37,0.2920517087589349,home,3,100_100,1,37,ClassGen
-4,Mothers,EBV37,0.5504320386441104,home,3,100_100,1,37,ClassGen
-0,Fathers,EBV38,0.8999713263016433,home,3,100_100,1,38,ClassGen
-1,Female candidates,EBV38,0.3903640595211767,home,3,100_100,1,38,ClassGen
-2,Male candidates,EBV38,0.8968614851567241,home,3,100_100,1,38,ClassGen
-3,Male candidates1,EBV38,0.19710847768243756,home,3,100_100,1,38,ClassGen
-4,Mothers,EBV38,0.5625497848047915,home,3,100_100,1,38,ClassGen
-0,Fathers,EBV39,0.8896642078863726,home,3,100_100,1,39,ClassGen
-1,Female candidates,EBV39,0.48070949084801906,home,3,100_100,1,39,ClassGen
-2,Male candidates,EBV39,0.6575633626579398,home,3,100_100,1,39,ClassGen
-3,Male candidates1,EBV39,0.4857587721324847,home,3,100_100,1,39,ClassGen
-4,Mothers,EBV39,0.559481646026529,home,3,100_100,1,39,ClassGen
-0,Fathers,EBV40,0.8397411085101812,home,3,100_100,1,40,ClassGen
-1,Female candidates,EBV40,0.43530735769746753,home,3,100_100,1,40,ClassGen
-2,Male candidates,EBV40,0.8718190373524028,home,3,100_100,1,40,ClassGen
-3,Male candidates1,EBV40,0.2720400776062344,home,3,100_100,1,40,ClassGen
-4,Mothers,EBV40,0.5611905934276941,home,3,100_100,1,40,ClassGen
-0,Fathers,EBV41,0.5670508062145813,home,3,100_100,1,41,ClassGen
-1,Female candidates,EBV41,0.3906485614411286,home,3,100_100,1,41,ClassGen
-2,Male candidates,EBV41,0.08023740118079453,home,3,100_100,1,41,ClassGen
-3,Mothers,EBV41,0.6460880770435555,home,3,100_100,1,41,ClassGen
-0,Fathers,EBV42,0.5439999335857826,home,3,100_100,1,42,ClassGen
-1,Female candidates,EBV42,0.4143783723618623,home,3,100_100,1,42,ClassGen
-2,Male candidates,EBV42,0.8123298672255017,home,3,100_100,1,42,ClassGen
-3,Mothers,EBV42,0.6909287829765964,home,3,100_100,1,42,ClassGen
-0,Fathers,EBV43,0.6623213645780818,home,3,100_100,1,43,ClassGen
-1,Female candidates,EBV43,0.459557525806223,home,3,100_100,1,43,ClassGen
-2,Male candidates,EBV43,0.7250684367740914,home,3,100_100,1,43,ClassGen
-3,Mothers,EBV43,0.7065549862937195,home,3,100_100,1,43,ClassGen
-0,Fathers,EBV44,0.645334147072906,home,3,100_100,1,44,ClassGen
-1,Female candidates,EBV44,0.5029991017251777,home,3,100_100,1,44,ClassGen
-2,Male candidates,EBV44,0.6633632384951877,home,3,100_100,1,44,ClassGen
-3,Mothers,EBV44,0.7050270430805917,home,3,100_100,1,44,ClassGen
-0,Fathers,EBV45,0.6257805052739231,home,3,100_100,1,45,ClassGen
-1,Female candidates,EBV45,0.509684847145118,home,3,100_100,1,45,ClassGen
-2,Male candidates,EBV45,0.7811683048732878,home,3,100_100,1,45,ClassGen
-3,Mothers,EBV45,0.7104317768390429,home,3,100_100,1,45,ClassGen
-0,Fathers,EBV46,0.717059392453142,home,3,100_100,1,46,ClassGen
-1,Female candidates,EBV46,0.5448237691276251,home,3,100_100,1,46,ClassGen
-2,Male candidates,EBV46,0.722318739050452,home,3,100_100,1,46,ClassGen
-3,Mothers,EBV46,0.7188440354181028,home,3,100_100,1,46,ClassGen
-0,Fathers,EBV47,0.537415483618397,home,3,100_100,1,47,ClassGen
-1,Female candidates,EBV47,0.5486436999306963,home,3,100_100,1,47,ClassGen
-2,Male candidates,EBV47,0.759257157664983,home,3,100_100,1,47,ClassGen
-3,Mothers,EBV47,0.7209704324197187,home,3,100_100,1,47,ClassGen
-0,Fathers,EBV48,0.5111167609662559,home,3,100_100,1,48,ClassGen
-1,Female candidates,EBV48,0.6058480839051936,home,3,100_100,1,48,ClassGen
-2,Male candidates,EBV48,0.8150277264981372,home,3,100_100,1,48,ClassGen
-3,Mothers,EBV48,0.7326601417283783,home,3,100_100,1,48,ClassGen
-0,Fathers,EBV49,0.5099051568242529,home,3,100_100,1,49,ClassGen
-1,Female candidates,EBV49,0.600129979854229,home,3,100_100,1,49,ClassGen
-2,Male candidates,EBV49,0.8060883226693877,home,3,100_100,1,49,ClassGen
-3,Mothers,EBV49,0.7418437025813981,home,3,100_100,1,49,ClassGen
-0,Fathers,EBV50,0.5027588291475827,home,3,100_100,1,50,ClassGen
-1,Female candidates,EBV50,0.6055689177044276,home,3,100_100,1,50,ClassGen
-2,Male candidates,EBV50,0.8732948947070189,home,3,100_100,1,50,ClassGen
-3,Mothers,EBV50,0.7482357878519004,home,3,100_100,1,50,ClassGen
+0,Fathers,EBV31,0.8720780317293108,home,3,100_100,1,31,ClassGen
+1,Female candidates,EBV31,0.3618594046200598,home,3,100_100,1,31,ClassGen
+2,Male candidates,EBV31,0.9526669576776234,home,3,100_100,1,31,ClassGen
+3,Male candidates1,EBV31,0.2187864897131438,home,3,100_100,1,31,ClassGen
+4,Mothers,EBV31,0.5530272733782627,home,3,100_100,1,31,ClassGen
+0,Fathers,EBV32,0.8783852499571703,home,3,100_100,1,32,ClassGen
+1,Female candidates,EBV32,0.09345360202241733,home,3,100_100,1,32,ClassGen
+2,Male candidates,EBV32,0.6565075696411256,home,3,100_100,1,32,ClassGen
+3,Male candidates1,EBV32,-0.1992368423771846,home,3,100_100,1,32,ClassGen
+4,Mothers,EBV32,0.5364384284245897,home,3,100_100,1,32,ClassGen
+0,Fathers,EBV33,0.7660692401821015,home,3,100_100,1,33,ClassGen
+1,Female candidates,EBV33,0.04434735367451687,home,3,100_100,1,33,ClassGen
+2,Male candidates,EBV33,0.946320640610504,home,3,100_100,1,33,ClassGen
+3,Male candidates1,EBV33,0.15397591869299365,home,3,100_100,1,33,ClassGen
+4,Mothers,EBV33,0.5147161626956198,home,3,100_100,1,33,ClassGen
+0,Fathers,EBV34,0.8305646022974247,home,3,100_100,1,34,ClassGen
+1,Female candidates,EBV34,0.01131503973844853,home,3,100_100,1,34,ClassGen
+2,Male candidates,EBV34,0.649139802619403,home,3,100_100,1,34,ClassGen
+3,Male candidates1,EBV34,0.09914336941665694,home,3,100_100,1,34,ClassGen
+4,Mothers,EBV34,0.5357852028180305,home,3,100_100,1,34,ClassGen
+0,Fathers,EBV35,0.7646718559103473,home,3,100_100,1,35,ClassGen
+1,Female candidates,EBV35,0.11644152405302458,home,3,100_100,1,35,ClassGen
+2,Male candidates,EBV35,0.9037729813957576,home,3,100_100,1,35,ClassGen
+3,Male candidates1,EBV35,-0.17678007545535843,home,3,100_100,1,35,ClassGen
+4,Mothers,EBV35,0.5494302341835053,home,3,100_100,1,35,ClassGen
+0,Fathers,EBV36,0.8319918059967955,home,3,100_100,1,36,ClassGen
+1,Female candidates,EBV36,0.16444137667726968,home,3,100_100,1,36,ClassGen
+2,Male candidates,EBV36,0.9355813056057711,home,3,100_100,1,36,ClassGen
+3,Male candidates1,EBV36,0.3256971437898162,home,3,100_100,1,36,ClassGen
+4,Mothers,EBV36,0.5565943978613302,home,3,100_100,1,36,ClassGen
+0,Fathers,EBV37,0.7720412759290084,home,3,100_100,1,37,ClassGen
+1,Female candidates,EBV37,0.15951159190104774,home,3,100_100,1,37,ClassGen
+2,Male candidates,EBV37,0.9299439470014075,home,3,100_100,1,37,ClassGen
+3,Male candidates1,EBV37,0.22127930275157204,home,3,100_100,1,37,ClassGen
+4,Mothers,EBV37,0.5589993799977968,home,3,100_100,1,37,ClassGen
+0,Fathers,EBV38,0.8691538300172321,home,3,100_100,1,38,ClassGen
+1,Female candidates,EBV38,0.2267171633616381,home,3,100_100,1,38,ClassGen
+2,Male candidates,EBV38,0.9658701158936809,home,3,100_100,1,38,ClassGen
+3,Male candidates1,EBV38,0.31625403509835665,home,3,100_100,1,38,ClassGen
+4,Mothers,EBV38,0.5809663843282439,home,3,100_100,1,38,ClassGen
+0,Fathers,EBV39,0.897573552392717,home,3,100_100,1,39,ClassGen
+1,Female candidates,EBV39,0.21449355259681274,home,3,100_100,1,39,ClassGen
+2,Male candidates,EBV39,0.7651160870229117,home,3,100_100,1,39,ClassGen
+3,Male candidates1,EBV39,0.531411791424602,home,3,100_100,1,39,ClassGen
+4,Mothers,EBV39,0.5852816404149702,home,3,100_100,1,39,ClassGen
+0,Fathers,EBV40,0.8917241516161314,home,3,100_100,1,40,ClassGen
+1,Female candidates,EBV40,0.19693181642991067,home,3,100_100,1,40,ClassGen
+2,Male candidates,EBV40,0.9597397650971363,home,3,100_100,1,40,ClassGen
+3,Male candidates1,EBV40,0.4643477158158571,home,3,100_100,1,40,ClassGen
+4,Mothers,EBV40,0.5734404695558218,home,3,100_100,1,40,ClassGen
+0,Fathers,EBV41,0.7038029221699893,home,3,100_100,1,41,ClassGen
+1,Female candidates,EBV41,0.25452256270844614,home,3,100_100,1,41,ClassGen
+2,Male candidates,EBV41,0.1042560965759584,home,3,100_100,1,41,ClassGen
+3,Mothers,EBV41,0.6539192965384114,home,3,100_100,1,41,ClassGen
+0,Fathers,EBV42,0.7553802828387534,home,3,100_100,1,42,ClassGen
+1,Female candidates,EBV42,0.3756945618277087,home,3,100_100,1,42,ClassGen
+2,Male candidates,EBV42,0.7723183727788197,home,3,100_100,1,42,ClassGen
+3,Mothers,EBV42,0.6817027617245667,home,3,100_100,1,42,ClassGen
+0,Fathers,EBV43,0.7679368704285873,home,3,100_100,1,43,ClassGen
+1,Female candidates,EBV43,0.378864591318083,home,3,100_100,1,43,ClassGen
+2,Male candidates,EBV43,0.7890214139035502,home,3,100_100,1,43,ClassGen
+3,Mothers,EBV43,0.7092598587485452,home,3,100_100,1,43,ClassGen
+0,Fathers,EBV44,0.7633249760113586,home,3,100_100,1,44,ClassGen
+1,Female candidates,EBV44,0.40236953221568617,home,3,100_100,1,44,ClassGen
+2,Male candidates,EBV44,0.7948815400983531,home,3,100_100,1,44,ClassGen
+3,Mothers,EBV44,0.7222147744942645,home,3,100_100,1,44,ClassGen
+0,Fathers,EBV45,0.7189103300017728,home,3,100_100,1,45,ClassGen
+1,Female candidates,EBV45,0.4483933496496447,home,3,100_100,1,45,ClassGen
+2,Male candidates,EBV45,0.8044549187470855,home,3,100_100,1,45,ClassGen
+3,Mothers,EBV45,0.7233311040861458,home,3,100_100,1,45,ClassGen
+0,Fathers,EBV46,0.7557334251429446,home,3,100_100,1,46,ClassGen
+1,Female candidates,EBV46,0.4692419112008039,home,3,100_100,1,46,ClassGen
+2,Male candidates,EBV46,0.8600941173822256,home,3,100_100,1,46,ClassGen
+3,Mothers,EBV46,0.7272705748468508,home,3,100_100,1,46,ClassGen
+0,Fathers,EBV47,0.7433405512110074,home,3,100_100,1,47,ClassGen
+1,Female candidates,EBV47,0.38671689331308545,home,3,100_100,1,47,ClassGen
+2,Male candidates,EBV47,0.8639073722801848,home,3,100_100,1,47,ClassGen
+3,Mothers,EBV47,0.7272662643520689,home,3,100_100,1,47,ClassGen
+0,Fathers,EBV48,0.7803611809160949,home,3,100_100,1,48,ClassGen
+1,Female candidates,EBV48,0.4291990455909606,home,3,100_100,1,48,ClassGen
+2,Male candidates,EBV48,0.7576703375040262,home,3,100_100,1,48,ClassGen
+3,Mothers,EBV48,0.7253888176355554,home,3,100_100,1,48,ClassGen
+0,Fathers,EBV49,0.8636678976552037,home,3,100_100,1,49,ClassGen
+1,Female candidates,EBV49,0.4157143463299501,home,3,100_100,1,49,ClassGen
+2,Male candidates,EBV49,0.7826551737978751,home,3,100_100,1,49,ClassGen
+3,Mothers,EBV49,0.7193198531661765,home,3,100_100,1,49,ClassGen
+0,Fathers,EBV50,0.8736444032209747,home,3,100_100,1,50,ClassGen
+1,Female candidates,EBV50,0.41286395863357617,home,3,100_100,1,50,ClassGen
+2,Male candidates,EBV50,0.7272292644563334,home,3,100_100,1,50,ClassGen
+3,Mothers,EBV50,0.7235608374975957,home,3,100_100,1,50,ClassGen
 0,Fathers,EBV21,-0.18059104542548265,import,3,100_100,1,21,ClassGen
 1,Female candidates,EBV21,0.18474793961223696,import,3,100_100,1,21,ClassGen
 2,Male candidates,EBV21,0.2010970257729168,import,3,100_100,1,21,ClassGen
@@ -8979,86 +8979,86 @@
 2,Male candidates,EBV30,0.5198544811444892,import,3,100_100,1,30,ClassGen
 3,Male candidates1,EBV30,0.23471651016377046,import,3,100_100,1,30,ClassGen
 4,Mothers,EBV30,0.6070025508001454,import,3,100_100,1,30,ClassGen
-0,Fathers,EBV31,0.09968351215253879,import,3,100_100,1,31,ClassGen
-1,Female candidates,EBV31,0.06015604320795167,import,3,100_100,1,31,ClassGen
-2,Male candidates,EBV31,-0.09484551442862421,import,3,100_100,1,31,ClassGen
-3,Mothers,EBV31,-0.0010068695376437837,import,3,100_100,1,31,ClassGen
-0,Fathers,EBV32,-0.11906106035350139,import,3,100_100,1,32,ClassGen
-1,Female candidates,EBV32,0.11166374946324999,import,3,100_100,1,32,ClassGen
-2,Male candidates,EBV32,0.028288606848295424,import,3,100_100,1,32,ClassGen
-3,Mothers,EBV32,-0.0037183167181577,import,3,100_100,1,32,ClassGen
-0,Fathers,EBV33,0.06467587298375535,import,3,100_100,1,33,ClassGen
-1,Female candidates,EBV33,0.05865062902350301,import,3,100_100,1,33,ClassGen
-2,Male candidates,EBV33,-0.04943196134520431,import,3,100_100,1,33,ClassGen
-3,Mothers,EBV33,0.004647209304966706,import,3,100_100,1,33,ClassGen
-0,Fathers,EBV34,0.026955056540969784,import,3,100_100,1,34,ClassGen
-1,Female candidates,EBV34,0.006396126121205476,import,3,100_100,1,34,ClassGen
-2,Male candidates,EBV34,0.003982587358359753,import,3,100_100,1,34,ClassGen
-3,Mothers,EBV34,-0.02059138063742577,import,3,100_100,1,34,ClassGen
-0,Fathers,EBV35,-0.12825833097682826,import,3,100_100,1,35,ClassGen
-1,Female candidates,EBV35,-0.024094023474772644,import,3,100_100,1,35,ClassGen
-2,Male candidates,EBV35,-0.006092497623398514,import,3,100_100,1,35,ClassGen
-3,Mothers,EBV35,0.011344562499043422,import,3,100_100,1,35,ClassGen
-0,Fathers,EBV36,0.08922538835152986,import,3,100_100,1,36,ClassGen
-1,Female candidates,EBV36,-0.010173795875421613,import,3,100_100,1,36,ClassGen
-2,Male candidates,EBV36,-0.021076219124711387,import,3,100_100,1,36,ClassGen
-3,Mothers,EBV36,0.0038930330826406397,import,3,100_100,1,36,ClassGen
-0,Fathers,EBV37,0.06835177169927645,import,3,100_100,1,37,ClassGen
-1,Female candidates,EBV37,8.604322088302403e-05,import,3,100_100,1,37,ClassGen
-2,Male candidates,EBV37,-0.050510206489897534,import,3,100_100,1,37,ClassGen
-3,Mothers,EBV37,-0.0015809298486682962,import,3,100_100,1,37,ClassGen
-0,Fathers,EBV38,0.09699308665433513,import,3,100_100,1,38,ClassGen
-1,Female candidates,EBV38,0.0273742049074916,import,3,100_100,1,38,ClassGen
-2,Male candidates,EBV38,-0.002778622477850827,import,3,100_100,1,38,ClassGen
-3,Mothers,EBV38,-0.0044200300807426835,import,3,100_100,1,38,ClassGen
-0,Fathers,EBV39,0.07670879267484013,import,3,100_100,1,39,ClassGen
-1,Female candidates,EBV39,-0.023846760985476317,import,3,100_100,1,39,ClassGen
-2,Male candidates,EBV39,-0.003347271532567518,import,3,100_100,1,39,ClassGen
-3,Mothers,EBV39,-0.005853132310296678,import,3,100_100,1,39,ClassGen
-0,Fathers,EBV40,0.03650449461306202,import,3,100_100,1,40,ClassGen
-1,Female candidates,EBV40,-0.017450448705014037,import,3,100_100,1,40,ClassGen
-2,Male candidates,EBV40,-0.004238197713050286,import,3,100_100,1,40,ClassGen
-3,Mothers,EBV40,0.01929753467006899,import,3,100_100,1,40,ClassGen
-0,Fathers,EBV41,-0.11208361453869502,import,3,100_100,1,41,ClassGen
-1,Female candidates,EBV41,0.015412496126988143,import,3,100_100,1,41,ClassGen
-2,Male candidates,EBV41,-0.05371276066586116,import,3,100_100,1,41,ClassGen
-3,Mothers,EBV41,0.006413528976680403,import,3,100_100,1,41,ClassGen
-0,Fathers,EBV42,0.07573702316796652,import,3,100_100,1,42,ClassGen
-1,Female candidates,EBV42,0.01087008300611173,import,3,100_100,1,42,ClassGen
-2,Male candidates,EBV42,-0.0011635464272012396,import,3,100_100,1,42,ClassGen
-3,Mothers,EBV42,-0.0137031180989933,import,3,100_100,1,42,ClassGen
-0,Fathers,EBV43,0.09557058984928647,import,3,100_100,1,43,ClassGen
-1,Female candidates,EBV43,0.01902127971339452,import,3,100_100,1,43,ClassGen
-2,Male candidates,EBV43,-0.014034900570909512,import,3,100_100,1,43,ClassGen
-3,Mothers,EBV43,-0.005351277200386958,import,3,100_100,1,43,ClassGen
-0,Fathers,EBV44,-0.10168902058998872,import,3,100_100,1,44,ClassGen
-1,Female candidates,EBV44,0.024921438577793213,import,3,100_100,1,44,ClassGen
-2,Male candidates,EBV44,-0.06123783410948662,import,3,100_100,1,44,ClassGen
-3,Mothers,EBV44,-0.005431579744598394,import,3,100_100,1,44,ClassGen
-0,Fathers,EBV45,-0.0795046294271497,import,3,100_100,1,45,ClassGen
-1,Female candidates,EBV45,-0.02247748150509551,import,3,100_100,1,45,ClassGen
-2,Male candidates,EBV45,-0.013241627497927221,import,3,100_100,1,45,ClassGen
-3,Mothers,EBV45,-0.0001768638344109241,import,3,100_100,1,45,ClassGen
-0,Fathers,EBV46,0.09221883699472969,import,3,100_100,1,46,ClassGen
-1,Female candidates,EBV46,0.032437342124571736,import,3,100_100,1,46,ClassGen
-2,Male candidates,EBV46,-0.1433291786119577,import,3,100_100,1,46,ClassGen
-3,Mothers,EBV46,0.0028054022174931253,import,3,100_100,1,46,ClassGen
-0,Fathers,EBV47,-0.1507762492949379,import,3,100_100,1,47,ClassGen
-1,Female candidates,EBV47,0.015481511211077117,import,3,100_100,1,47,ClassGen
-2,Male candidates,EBV47,0.05818100134630702,import,3,100_100,1,47,ClassGen
-3,Mothers,EBV47,0.0063016215831781614,import,3,100_100,1,47,ClassGen
-0,Fathers,EBV48,0.2543508953506423,import,3,100_100,1,48,ClassGen
-1,Female candidates,EBV48,0.01555891242822613,import,3,100_100,1,48,ClassGen
-2,Male candidates,EBV48,0.06841474553790756,import,3,100_100,1,48,ClassGen
-3,Mothers,EBV48,-0.00039536335175856724,import,3,100_100,1,48,ClassGen
-0,Fathers,EBV49,0.14409543036393208,import,3,100_100,1,49,ClassGen
-1,Female candidates,EBV49,0.001721677514422049,import,3,100_100,1,49,ClassGen
-2,Male candidates,EBV49,0.08260965676130826,import,3,100_100,1,49,ClassGen
-3,Mothers,EBV49,-0.012660409855880435,import,3,100_100,1,49,ClassGen
-0,Fathers,EBV50,-0.11390799878093197,import,3,100_100,1,50,ClassGen
-1,Female candidates,EBV50,-0.014902523113132006,import,3,100_100,1,50,ClassGen
-2,Male candidates,EBV50,-0.057255710489222844,import,3,100_100,1,50,ClassGen
-3,Mothers,EBV50,0.000565126622287562,import,3,100_100,1,50,ClassGen
+0,Fathers,EBV31,0.5722714880447755,import,3,100_100,1,31,ClassGen
+1,Female candidates,EBV31,0.4120620290281946,import,3,100_100,1,31,ClassGen
+2,Male candidates,EBV31,0.35569828834566286,import,3,100_100,1,31,ClassGen
+3,Mothers,EBV31,0.7665516203811206,import,3,100_100,1,31,ClassGen
+0,Fathers,EBV32,0.6430334424158922,import,3,100_100,1,32,ClassGen
+1,Female candidates,EBV32,0.38854303796285883,import,3,100_100,1,32,ClassGen
+2,Male candidates,EBV32,0.8002886017891644,import,3,100_100,1,32,ClassGen
+3,Mothers,EBV32,0.7361628726547111,import,3,100_100,1,32,ClassGen
+0,Fathers,EBV33,0.796512904442473,import,3,100_100,1,33,ClassGen
+1,Female candidates,EBV33,0.3555786406415458,import,3,100_100,1,33,ClassGen
+2,Male candidates,EBV33,0.7912421506429687,import,3,100_100,1,33,ClassGen
+3,Mothers,EBV33,0.7137225982484303,import,3,100_100,1,33,ClassGen
+0,Fathers,EBV34,0.8240100559494973,import,3,100_100,1,34,ClassGen
+1,Female candidates,EBV34,0.4121987471556036,import,3,100_100,1,34,ClassGen
+2,Male candidates,EBV34,0.781255868010832,import,3,100_100,1,34,ClassGen
+3,Mothers,EBV34,0.6897834711552002,import,3,100_100,1,34,ClassGen
+0,Fathers,EBV35,0.8592231919581101,import,3,100_100,1,35,ClassGen
+1,Female candidates,EBV35,0.4472520767521378,import,3,100_100,1,35,ClassGen
+2,Male candidates,EBV35,0.7831581364233077,import,3,100_100,1,35,ClassGen
+3,Mothers,EBV35,0.702764920247202,import,3,100_100,1,35,ClassGen
+0,Fathers,EBV36,0.8278510307594891,import,3,100_100,1,36,ClassGen
+1,Female candidates,EBV36,0.4337049705587324,import,3,100_100,1,36,ClassGen
+2,Male candidates,EBV36,0.8030876960703719,import,3,100_100,1,36,ClassGen
+3,Mothers,EBV36,0.7103669776444647,import,3,100_100,1,36,ClassGen
+0,Fathers,EBV37,0.7189623265854692,import,3,100_100,1,37,ClassGen
+1,Female candidates,EBV37,0.44412138201613505,import,3,100_100,1,37,ClassGen
+2,Male candidates,EBV37,0.7828878844077818,import,3,100_100,1,37,ClassGen
+3,Mothers,EBV37,0.7194023700175648,import,3,100_100,1,37,ClassGen
+0,Fathers,EBV38,0.6535167251034514,import,3,100_100,1,38,ClassGen
+1,Female candidates,EBV38,0.39836934448903616,import,3,100_100,1,38,ClassGen
+2,Male candidates,EBV38,0.7650353592237045,import,3,100_100,1,38,ClassGen
+3,Mothers,EBV38,0.7180813870834066,import,3,100_100,1,38,ClassGen
+0,Fathers,EBV39,0.7361272203160047,import,3,100_100,1,39,ClassGen
+1,Female candidates,EBV39,0.39564089139717307,import,3,100_100,1,39,ClassGen
+2,Male candidates,EBV39,0.7976722973838991,import,3,100_100,1,39,ClassGen
+3,Mothers,EBV39,0.7187342575354425,import,3,100_100,1,39,ClassGen
+0,Fathers,EBV40,0.7773481734432545,import,3,100_100,1,40,ClassGen
+1,Female candidates,EBV40,0.4243896713304474,import,3,100_100,1,40,ClassGen
+2,Male candidates,EBV40,0.7831805144034483,import,3,100_100,1,40,ClassGen
+3,Mothers,EBV40,0.7222431585963489,import,3,100_100,1,40,ClassGen
+0,Fathers,EBV41,0.7720644866956539,import,3,100_100,1,41,ClassGen
+1,Female candidates,EBV41,0.4262103597592171,import,3,100_100,1,41,ClassGen
+2,Male candidates,EBV41,0.768983499911172,import,3,100_100,1,41,ClassGen
+3,Mothers,EBV41,0.7164947861617168,import,3,100_100,1,41,ClassGen
+0,Fathers,EBV42,0.7582679225429803,import,3,100_100,1,42,ClassGen
+1,Female candidates,EBV42,0.4631366370233468,import,3,100_100,1,42,ClassGen
+2,Male candidates,EBV42,0.7526599602939367,import,3,100_100,1,42,ClassGen
+3,Mothers,EBV42,0.7202157530978922,import,3,100_100,1,42,ClassGen
+0,Fathers,EBV43,0.7619255275822869,import,3,100_100,1,43,ClassGen
+1,Female candidates,EBV43,0.42872401356571616,import,3,100_100,1,43,ClassGen
+2,Male candidates,EBV43,0.7909211639402218,import,3,100_100,1,43,ClassGen
+3,Mothers,EBV43,0.7192703898650264,import,3,100_100,1,43,ClassGen
+0,Fathers,EBV44,0.7745257900869762,import,3,100_100,1,44,ClassGen
+1,Female candidates,EBV44,0.4276097816317835,import,3,100_100,1,44,ClassGen
+2,Male candidates,EBV44,0.8172824319659975,import,3,100_100,1,44,ClassGen
+3,Mothers,EBV44,0.7266117082433006,import,3,100_100,1,44,ClassGen
+0,Fathers,EBV45,0.7748992518655656,import,3,100_100,1,45,ClassGen
+1,Female candidates,EBV45,0.44289119203499566,import,3,100_100,1,45,ClassGen
+2,Male candidates,EBV45,0.7870680110053822,import,3,100_100,1,45,ClassGen
+3,Mothers,EBV45,0.7254498643980838,import,3,100_100,1,45,ClassGen
+0,Fathers,EBV46,0.7565191742311235,import,3,100_100,1,46,ClassGen
+1,Female candidates,EBV46,0.4287610193752641,import,3,100_100,1,46,ClassGen
+2,Male candidates,EBV46,0.8271078680850209,import,3,100_100,1,46,ClassGen
+3,Mothers,EBV46,0.7234655975068108,import,3,100_100,1,46,ClassGen
+0,Fathers,EBV47,0.7903713360921379,import,3,100_100,1,47,ClassGen
+1,Female candidates,EBV47,0.4075496236142751,import,3,100_100,1,47,ClassGen
+2,Male candidates,EBV47,0.8152210717951857,import,3,100_100,1,47,ClassGen
+3,Mothers,EBV47,0.7278066158027867,import,3,100_100,1,47,ClassGen
+0,Fathers,EBV48,0.8252941027972538,import,3,100_100,1,48,ClassGen
+1,Female candidates,EBV48,0.44209435979540673,import,3,100_100,1,48,ClassGen
+2,Male candidates,EBV48,0.800788099230621,import,3,100_100,1,48,ClassGen
+3,Mothers,EBV48,0.7360956298502485,import,3,100_100,1,48,ClassGen
+0,Fathers,EBV49,0.7472478539018272,import,3,100_100,1,49,ClassGen
+1,Female candidates,EBV49,0.4515185053962192,import,3,100_100,1,49,ClassGen
+2,Male candidates,EBV49,0.7982561903828309,import,3,100_100,1,49,ClassGen
+3,Mothers,EBV49,0.7286508756984867,import,3,100_100,1,49,ClassGen
+0,Fathers,EBV50,0.834802046080132,import,3,100_100,1,50,ClassGen
+1,Female candidates,EBV50,0.43620922098036163,import,3,100_100,1,50,ClassGen
+2,Male candidates,EBV50,0.7912453429659535,import,3,100_100,1,50,ClassGen
+3,Mothers,EBV50,0.730044757895606,import,3,100_100,1,50,ClassGen
 0,Fathers,EBV21,0.05418058203428819,home,2,0_100,1,21,ClassGen
 1,Female candidates,EBV21,0.10482679058570016,home,2,0_100,1,21,ClassGen
 2,Male candidates,EBV21,0.36832798941743483,home,2,0_100,1,21,ClassGen
@@ -9379,96 +9379,96 @@
 2,Male candidates,EBV30,0.9311808644960787,home,3,0_100,1,30,ClassGen
 3,Male candidates1,EBV30,0.0745740967121969,home,3,0_100,1,30,ClassGen
 4,Mothers,EBV30,0.5579265372883654,home,3,0_100,1,30,ClassGen
-0,Fathers,EBV31,0.8745164759094455,home,3,0_100,1,31,ClassGen
-1,Female candidates,EBV31,0.3596257053717396,home,3,0_100,1,31,ClassGen
-2,Male candidates,EBV31,0.9511511503290924,home,3,0_100,1,31,ClassGen
-3,Male candidates1,EBV31,0.1067473813731622,home,3,0_100,1,31,ClassGen
-4,Mothers,EBV31,0.5487358824881742,home,3,0_100,1,31,ClassGen
-0,Fathers,EBV32,0.8859077064304293,home,3,0_100,1,32,ClassGen
-1,Female candidates,EBV32,0.3149802353009603,home,3,0_100,1,32,ClassGen
-2,Male candidates,EBV32,0.6648104990085485,home,3,0_100,1,32,ClassGen
-3,Male candidates1,EBV32,0.03705680116625331,home,3,0_100,1,32,ClassGen
-4,Mothers,EBV32,0.537256759253323,home,3,0_100,1,32,ClassGen
-0,Fathers,EBV33,0.7826833201198647,home,3,0_100,1,33,ClassGen
-1,Female candidates,EBV33,0.27572749999915913,home,3,0_100,1,33,ClassGen
-2,Male candidates,EBV33,0.9488983025012924,home,3,0_100,1,33,ClassGen
-3,Male candidates1,EBV33,0.4055230361758584,home,3,0_100,1,33,ClassGen
-4,Mothers,EBV33,0.5237789474478712,home,3,0_100,1,33,ClassGen
-0,Fathers,EBV34,0.8093197303337344,home,3,0_100,1,34,ClassGen
-1,Female candidates,EBV34,0.28503958289304776,home,3,0_100,1,34,ClassGen
-2,Male candidates,EBV34,0.21477806995171916,home,3,0_100,1,34,ClassGen
-3,Male candidates1,EBV34,0.09808070160896351,home,3,0_100,1,34,ClassGen
-4,Mothers,EBV34,0.5193486305473287,home,3,0_100,1,34,ClassGen
-0,Fathers,EBV35,0.7474828205429752,home,3,0_100,1,35,ClassGen
-1,Female candidates,EBV35,0.307140879599503,home,3,0_100,1,35,ClassGen
-2,Male candidates,EBV35,0.9018388871464117,home,3,0_100,1,35,ClassGen
-3,Male candidates1,EBV35,0.22003983981173897,home,3,0_100,1,35,ClassGen
-4,Mothers,EBV35,0.5093553876126641,home,3,0_100,1,35,ClassGen
-0,Fathers,EBV36,0.7759569529633787,home,3,0_100,1,36,ClassGen
-1,Female candidates,EBV36,0.3199615049746548,home,3,0_100,1,36,ClassGen
-2,Male candidates,EBV36,0.9089337005081582,home,3,0_100,1,36,ClassGen
-3,Male candidates1,EBV36,0.7122539229805843,home,3,0_100,1,36,ClassGen
-4,Mothers,EBV36,0.4953133479819294,home,3,0_100,1,36,ClassGen
-0,Fathers,EBV37,0.8105948533164467,home,3,0_100,1,37,ClassGen
-1,Female candidates,EBV37,0.3289969250888577,home,3,0_100,1,37,ClassGen
-2,Male candidates,EBV37,0.8157579509495642,home,3,0_100,1,37,ClassGen
-3,Male candidates1,EBV37,0.5550451455482043,home,3,0_100,1,37,ClassGen
-4,Mothers,EBV37,0.4942325748239594,home,3,0_100,1,37,ClassGen
-0,Fathers,EBV38,0.784826008960272,home,3,0_100,1,38,ClassGen
-1,Female candidates,EBV38,0.38052636865429973,home,3,0_100,1,38,ClassGen
-2,Male candidates,EBV38,0.9212606275310373,home,3,0_100,1,38,ClassGen
-3,Male candidates1,EBV38,0.04787806055553131,home,3,0_100,1,38,ClassGen
-4,Mothers,EBV38,0.495395500519085,home,3,0_100,1,38,ClassGen
-0,Fathers,EBV39,0.5579098042909493,home,3,0_100,1,39,ClassGen
-1,Female candidates,EBV39,0.33423891052495536,home,3,0_100,1,39,ClassGen
-2,Male candidates,EBV39,0.8590135395354095,home,3,0_100,1,39,ClassGen
-3,Male candidates1,EBV39,0.09168010758053474,home,3,0_100,1,39,ClassGen
-4,Mothers,EBV39,0.49473871436616806,home,3,0_100,1,39,ClassGen
-0,Fathers,EBV40,0.6786538079198005,home,3,0_100,1,40,ClassGen
-1,Female candidates,EBV40,0.3072679957707001,home,3,0_100,1,40,ClassGen
-2,Male candidates,EBV40,0.9393347986621017,home,3,0_100,1,40,ClassGen
-3,Male candidates1,EBV40,-0.011590631473854614,home,3,0_100,1,40,ClassGen
-4,Mothers,EBV40,0.5082332352995375,home,3,0_100,1,40,ClassGen
-0,Fathers,EBV41,0.6627920277253683,home,3,0_100,1,41,ClassGen
-1,Female candidates,EBV41,0.3740330010020397,home,3,0_100,1,41,ClassGen
-2,Male candidates,EBV41,0.2813798336280749,home,3,0_100,1,41,ClassGen
-3,Mothers,EBV41,0.6103448484806311,home,3,0_100,1,41,ClassGen
-0,Fathers,EBV42,0.7129307385792085,home,3,0_100,1,42,ClassGen
-1,Female candidates,EBV42,0.4245163657977444,home,3,0_100,1,42,ClassGen
-2,Male candidates,EBV42,0.7786410283167219,home,3,0_100,1,42,ClassGen
-3,Mothers,EBV42,0.6408338034872055,home,3,0_100,1,42,ClassGen
-0,Fathers,EBV43,0.7715614357988575,home,3,0_100,1,43,ClassGen
-1,Female candidates,EBV43,0.4481712150264621,home,3,0_100,1,43,ClassGen
-2,Male candidates,EBV43,0.7664907668011053,home,3,0_100,1,43,ClassGen
-3,Mothers,EBV43,0.6688870061551656,home,3,0_100,1,43,ClassGen
-0,Fathers,EBV44,0.737632529530048,home,3,0_100,1,44,ClassGen
-1,Female candidates,EBV44,0.46423731130374835,home,3,0_100,1,44,ClassGen
-2,Male candidates,EBV44,0.8005536738026079,home,3,0_100,1,44,ClassGen
-3,Mothers,EBV44,0.6747932547803447,home,3,0_100,1,44,ClassGen
-0,Fathers,EBV45,0.8008657933376047,home,3,0_100,1,45,ClassGen
-1,Female candidates,EBV45,0.5240833977262805,home,3,0_100,1,45,ClassGen
-2,Male candidates,EBV45,0.8219701299603577,home,3,0_100,1,45,ClassGen
-3,Mothers,EBV45,0.688656592900405,home,3,0_100,1,45,ClassGen
-0,Fathers,EBV46,0.7818133159809181,home,3,0_100,1,46,ClassGen
-1,Female candidates,EBV46,0.49461921824516036,home,3,0_100,1,46,ClassGen
-2,Male candidates,EBV46,0.5021808699169837,home,3,0_100,1,46,ClassGen
-3,Mothers,EBV46,0.6994616129423388,home,3,0_100,1,46,ClassGen
-0,Fathers,EBV47,0.5758085071405878,home,3,0_100,1,47,ClassGen
-1,Female candidates,EBV47,0.48160502260052424,home,3,0_100,1,47,ClassGen
-2,Male candidates,EBV47,0.6188049852746602,home,3,0_100,1,47,ClassGen
-3,Mothers,EBV47,0.7071803329706651,home,3,0_100,1,47,ClassGen
-0,Fathers,EBV48,0.7046732414184256,home,3,0_100,1,48,ClassGen
-1,Female candidates,EBV48,0.4553505946359115,home,3,0_100,1,48,ClassGen
-2,Male candidates,EBV48,0.7500192484936166,home,3,0_100,1,48,ClassGen
-3,Mothers,EBV48,0.7113504943383684,home,3,0_100,1,48,ClassGen
-0,Fathers,EBV49,0.743465306052775,home,3,0_100,1,49,ClassGen
-1,Female candidates,EBV49,0.4931733667876256,home,3,0_100,1,49,ClassGen
-2,Male candidates,EBV49,0.6077849631588046,home,3,0_100,1,49,ClassGen
-3,Mothers,EBV49,0.7133362523437643,home,3,0_100,1,49,ClassGen
-0,Fathers,EBV50,0.729475249691478,home,3,0_100,1,50,ClassGen
-1,Female candidates,EBV50,0.47582539625317427,home,3,0_100,1,50,ClassGen
-2,Male candidates,EBV50,0.6933396849278151,home,3,0_100,1,50,ClassGen
-3,Mothers,EBV50,0.7189865465689342,home,3,0_100,1,50,ClassGen
+0,Fathers,EBV31,0.8705311332419385,home,3,0_100,1,31,ClassGen
+1,Female candidates,EBV31,0.3601000797199151,home,3,0_100,1,31,ClassGen
+2,Male candidates,EBV31,0.9514819971625438,home,3,0_100,1,31,ClassGen
+3,Male candidates1,EBV31,0.19732706307531828,home,3,0_100,1,31,ClassGen
+4,Mothers,EBV31,0.5524421672305003,home,3,0_100,1,31,ClassGen
+0,Fathers,EBV32,0.8664487147773491,home,3,0_100,1,32,ClassGen
+1,Female candidates,EBV32,0.3213213799264584,home,3,0_100,1,32,ClassGen
+2,Male candidates,EBV32,0.6493187343704552,home,3,0_100,1,32,ClassGen
+3,Male candidates1,EBV32,-0.011659248818721985,home,3,0_100,1,32,ClassGen
+4,Mothers,EBV32,0.5370876003936191,home,3,0_100,1,32,ClassGen
+0,Fathers,EBV33,0.7844432591126063,home,3,0_100,1,33,ClassGen
+1,Female candidates,EBV33,0.2666432058143556,home,3,0_100,1,33,ClassGen
+2,Male candidates,EBV33,0.949072975613279,home,3,0_100,1,33,ClassGen
+3,Male candidates1,EBV33,0.5284189200788688,home,3,0_100,1,33,ClassGen
+4,Mothers,EBV33,0.5290343513100132,home,3,0_100,1,33,ClassGen
+0,Fathers,EBV34,0.8053181614217643,home,3,0_100,1,34,ClassGen
+1,Female candidates,EBV34,0.31966701818365884,home,3,0_100,1,34,ClassGen
+2,Male candidates,EBV34,0.7732976160835091,home,3,0_100,1,34,ClassGen
+3,Male candidates1,EBV34,0.030981711287063625,home,3,0_100,1,34,ClassGen
+4,Mothers,EBV34,0.5155731080386048,home,3,0_100,1,34,ClassGen
+0,Fathers,EBV35,0.7490715411277504,home,3,0_100,1,35,ClassGen
+1,Female candidates,EBV35,0.31092762535999785,home,3,0_100,1,35,ClassGen
+2,Male candidates,EBV35,0.8872444362954042,home,3,0_100,1,35,ClassGen
+3,Male candidates1,EBV35,0.016274898325432215,home,3,0_100,1,35,ClassGen
+4,Mothers,EBV35,0.5203591896437461,home,3,0_100,1,35,ClassGen
+0,Fathers,EBV36,0.8163164966891573,home,3,0_100,1,36,ClassGen
+1,Female candidates,EBV36,0.34674422299641916,home,3,0_100,1,36,ClassGen
+2,Male candidates,EBV36,0.9233539684396859,home,3,0_100,1,36,ClassGen
+3,Male candidates1,EBV36,0.05065993193335865,home,3,0_100,1,36,ClassGen
+4,Mothers,EBV36,0.5185987898534459,home,3,0_100,1,36,ClassGen
+0,Fathers,EBV37,0.7487745495226182,home,3,0_100,1,37,ClassGen
+1,Female candidates,EBV37,0.2662994770338026,home,3,0_100,1,37,ClassGen
+2,Male candidates,EBV37,0.8682435558288876,home,3,0_100,1,37,ClassGen
+3,Male candidates1,EBV37,0.08906131183819073,home,3,0_100,1,37,ClassGen
+4,Mothers,EBV37,0.4997356865574082,home,3,0_100,1,37,ClassGen
+0,Fathers,EBV38,0.7789403635322782,home,3,0_100,1,38,ClassGen
+1,Female candidates,EBV38,0.3009731077064239,home,3,0_100,1,38,ClassGen
+2,Male candidates,EBV38,0.9648854851463251,home,3,0_100,1,38,ClassGen
+3,Male candidates1,EBV38,0.06741062998461633,home,3,0_100,1,38,ClassGen
+4,Mothers,EBV38,0.49747793447331795,home,3,0_100,1,38,ClassGen
+0,Fathers,EBV39,0.8436418409850228,home,3,0_100,1,39,ClassGen
+1,Female candidates,EBV39,0.37270771951036635,home,3,0_100,1,39,ClassGen
+2,Male candidates,EBV39,0.8734611788822415,home,3,0_100,1,39,ClassGen
+3,Male candidates1,EBV39,-0.18411896993868315,home,3,0_100,1,39,ClassGen
+4,Mothers,EBV39,0.49418132558998606,home,3,0_100,1,39,ClassGen
+0,Fathers,EBV40,0.8479365641815109,home,3,0_100,1,40,ClassGen
+1,Female candidates,EBV40,0.38000986202172327,home,3,0_100,1,40,ClassGen
+2,Male candidates,EBV40,0.9210771312073295,home,3,0_100,1,40,ClassGen
+3,Male candidates1,EBV40,0.2872491380482054,home,3,0_100,1,40,ClassGen
+4,Mothers,EBV40,0.4985121610436262,home,3,0_100,1,40,ClassGen
+0,Fathers,EBV41,0.6676631032032515,home,3,0_100,1,41,ClassGen
+1,Female candidates,EBV41,0.3871068336276694,home,3,0_100,1,41,ClassGen
+2,Male candidates,EBV41,-0.18147457521342267,home,3,0_100,1,41,ClassGen
+3,Mothers,EBV41,0.6198213936187071,home,3,0_100,1,41,ClassGen
+0,Fathers,EBV42,0.6028025287530435,home,3,0_100,1,42,ClassGen
+1,Female candidates,EBV42,0.4006032158309635,home,3,0_100,1,42,ClassGen
+2,Male candidates,EBV42,0.6995414462121671,home,3,0_100,1,42,ClassGen
+3,Mothers,EBV42,0.6730611164977298,home,3,0_100,1,42,ClassGen
+0,Fathers,EBV43,0.6904607719146838,home,3,0_100,1,43,ClassGen
+1,Female candidates,EBV43,0.42676405457047395,home,3,0_100,1,43,ClassGen
+2,Male candidates,EBV43,0.6953499102051451,home,3,0_100,1,43,ClassGen
+3,Mothers,EBV43,0.6846776742592932,home,3,0_100,1,43,ClassGen
+0,Fathers,EBV44,0.8033622119511793,home,3,0_100,1,44,ClassGen
+1,Female candidates,EBV44,0.4473417689494433,home,3,0_100,1,44,ClassGen
+2,Male candidates,EBV44,0.6369645988480873,home,3,0_100,1,44,ClassGen
+3,Mothers,EBV44,0.6917170020333296,home,3,0_100,1,44,ClassGen
+0,Fathers,EBV45,0.8886181594589727,home,3,0_100,1,45,ClassGen
+1,Female candidates,EBV45,0.5554153870178148,home,3,0_100,1,45,ClassGen
+2,Male candidates,EBV45,0.6478765507133096,home,3,0_100,1,45,ClassGen
+3,Mothers,EBV45,0.7044422921339402,home,3,0_100,1,45,ClassGen
+0,Fathers,EBV46,0.9152282997775227,home,3,0_100,1,46,ClassGen
+1,Female candidates,EBV46,0.5501565346438654,home,3,0_100,1,46,ClassGen
+2,Male candidates,EBV46,0.5941375031997077,home,3,0_100,1,46,ClassGen
+3,Mothers,EBV46,0.7159007949690976,home,3,0_100,1,46,ClassGen
+0,Fathers,EBV47,0.7617044322316608,home,3,0_100,1,47,ClassGen
+1,Female candidates,EBV47,0.540215724257901,home,3,0_100,1,47,ClassGen
+2,Male candidates,EBV47,0.8243811481871364,home,3,0_100,1,47,ClassGen
+3,Mothers,EBV47,0.7327356328418757,home,3,0_100,1,47,ClassGen
+0,Fathers,EBV48,0.7008872936437602,home,3,0_100,1,48,ClassGen
+1,Female candidates,EBV48,0.4524655409548949,home,3,0_100,1,48,ClassGen
+2,Male candidates,EBV48,0.7087089504670618,home,3,0_100,1,48,ClassGen
+3,Mothers,EBV48,0.7373736864618673,home,3,0_100,1,48,ClassGen
+0,Fathers,EBV49,0.7303270512711575,home,3,0_100,1,49,ClassGen
+1,Female candidates,EBV49,0.4440044563964523,home,3,0_100,1,49,ClassGen
+2,Male candidates,EBV49,0.730421909317722,home,3,0_100,1,49,ClassGen
+3,Mothers,EBV49,0.7289021173166366,home,3,0_100,1,49,ClassGen
+0,Fathers,EBV50,0.7726888881595002,home,3,0_100,1,50,ClassGen
+1,Female candidates,EBV50,0.4419342530106692,home,3,0_100,1,50,ClassGen
+2,Male candidates,EBV50,0.7628645926328914,home,3,0_100,1,50,ClassGen
+3,Mothers,EBV50,0.7139560755877016,home,3,0_100,1,50,ClassGen
 0,Fathers,EBV21,-0.18059104542548265,import,3,0_100,1,21,ClassGen
 1,Female candidates,EBV21,0.18474793961223696,import,3,0_100,1,21,ClassGen
 2,Male candidates,EBV21,0.2010970257729168,import,3,0_100,1,21,ClassGen
@@ -9519,86 +9519,86 @@
 2,Male candidates,EBV30,0.5198544811444892,import,3,0_100,1,30,ClassGen
 3,Male candidates1,EBV30,0.23471651016377046,import,3,0_100,1,30,ClassGen
 4,Mothers,EBV30,0.6070025508001454,import,3,0_100,1,30,ClassGen
-0,Fathers,EBV31,0.10543668709891209,import,3,0_100,1,31,ClassGen
-1,Female candidates,EBV31,0.11032104383892528,import,3,0_100,1,31,ClassGen
-2,Male candidates,EBV31,-0.08886990285222067,import,3,0_100,1,31,ClassGen
-3,Mothers,EBV31,-0.006174778114717277,import,3,0_100,1,31,ClassGen
-0,Fathers,EBV32,-0.1344644261372979,import,3,0_100,1,32,ClassGen
-1,Female candidates,EBV32,0.16338983499943371,import,3,0_100,1,32,ClassGen
-2,Male candidates,EBV32,-0.05275331960945205,import,3,0_100,1,32,ClassGen
-3,Mothers,EBV32,-0.011431715841266498,import,3,0_100,1,32,ClassGen
-0,Fathers,EBV33,-0.0046598134779800866,import,3,0_100,1,33,ClassGen
-1,Female candidates,EBV33,0.06761373515975169,import,3,0_100,1,33,ClassGen
-2,Male candidates,EBV33,0.026454861239864007,import,3,0_100,1,33,ClassGen
-3,Mothers,EBV33,0.007751210413619065,import,3,0_100,1,33,ClassGen
-0,Fathers,EBV34,0.11353531026714887,import,3,0_100,1,34,ClassGen
-1,Female candidates,EBV34,0.019298526284848058,import,3,0_100,1,34,ClassGen
-2,Male candidates,EBV34,-0.011189710291839858,import,3,0_100,1,34,ClassGen
-3,Mothers,EBV34,-0.008312716771427224,import,3,0_100,1,34,ClassGen
-0,Fathers,EBV35,0.27634917525384173,import,3,0_100,1,35,ClassGen
-1,Female candidates,EBV35,0.009174874887289438,import,3,0_100,1,35,ClassGen
-2,Male candidates,EBV35,-0.03057633401092675,import,3,0_100,1,35,ClassGen
-3,Mothers,EBV35,-0.004344735897552168,import,3,0_100,1,35,ClassGen
-0,Fathers,EBV36,0.01356363283316051,import,3,0_100,1,36,ClassGen
-1,Female candidates,EBV36,-0.0035090286450859816,import,3,0_100,1,36,ClassGen
-2,Male candidates,EBV36,-0.0874751277278405,import,3,0_100,1,36,ClassGen
-3,Mothers,EBV36,-0.01486699817716335,import,3,0_100,1,36,ClassGen
-0,Fathers,EBV37,-0.02164894687569595,import,3,0_100,1,37,ClassGen
-1,Female candidates,EBV37,-0.007325165527248921,import,3,0_100,1,37,ClassGen
-2,Male candidates,EBV37,0.06358364188633761,import,3,0_100,1,37,ClassGen
-3,Mothers,EBV37,-0.007660975646280916,import,3,0_100,1,37,ClassGen
-0,Fathers,EBV38,-0.029733236011564215,import,3,0_100,1,38,ClassGen
-1,Female candidates,EBV38,-0.03195270139750089,import,3,0_100,1,38,ClassGen
-2,Male candidates,EBV38,0.09413491379209626,import,3,0_100,1,38,ClassGen
-3,Mothers,EBV38,-0.0027391200031770552,import,3,0_100,1,38,ClassGen
-0,Fathers,EBV39,-0.12702285030674143,import,3,0_100,1,39,ClassGen
-1,Female candidates,EBV39,-0.02070439163536756,import,3,0_100,1,39,ClassGen
-2,Male candidates,EBV39,0.11601456624032942,import,3,0_100,1,39,ClassGen
-3,Mothers,EBV39,-0.006424290227509687,import,3,0_100,1,39,ClassGen
-0,Fathers,EBV40,-0.10003858416792166,import,3,0_100,1,40,ClassGen
-1,Female candidates,EBV40,-0.009333387491902368,import,3,0_100,1,40,ClassGen
-2,Male candidates,EBV40,0.005953674589201615,import,3,0_100,1,40,ClassGen
-3,Mothers,EBV40,-0.01311458791734386,import,3,0_100,1,40,ClassGen
-0,Fathers,EBV41,0.03283332229123184,import,3,0_100,1,41,ClassGen
-1,Female candidates,EBV41,0.009910530751112825,import,3,0_100,1,41,ClassGen
-2,Male candidates,EBV41,0.014781430352424265,import,3,0_100,1,41,ClassGen
-3,Mothers,EBV41,0.00863500899246717,import,3,0_100,1,41,ClassGen
-0,Fathers,EBV42,-0.0028772805785037816,import,3,0_100,1,42,ClassGen
-1,Female candidates,EBV42,-0.024615616066907244,import,3,0_100,1,42,ClassGen
-2,Male candidates,EBV42,0.0314693302143991,import,3,0_100,1,42,ClassGen
-3,Mothers,EBV42,0.011703582051436127,import,3,0_100,1,42,ClassGen
-0,Fathers,EBV43,-0.015367595756466701,import,3,0_100,1,43,ClassGen
-1,Female candidates,EBV43,-0.013985240946496684,import,3,0_100,1,43,ClassGen
-2,Male candidates,EBV43,-0.09779667143916562,import,3,0_100,1,43,ClassGen
-3,Mothers,EBV43,0.00714960855948805,import,3,0_100,1,43,ClassGen
-0,Fathers,EBV44,0.05518485202422051,import,3,0_100,1,44,ClassGen
-1,Female candidates,EBV44,-0.006601043208990882,import,3,0_100,1,44,ClassGen
-2,Male candidates,EBV44,0.052343776356846825,import,3,0_100,1,44,ClassGen
-3,Mothers,EBV44,0.005862821238210741,import,3,0_100,1,44,ClassGen
-0,Fathers,EBV45,0.0747811954113899,import,3,0_100,1,45,ClassGen
-1,Female candidates,EBV45,0.004420316007456931,import,3,0_100,1,45,ClassGen
-2,Male candidates,EBV45,-0.026818617271191256,import,3,0_100,1,45,ClassGen
-3,Mothers,EBV45,0.004749605239863832,import,3,0_100,1,45,ClassGen
-0,Fathers,EBV46,-0.09987456991571353,import,3,0_100,1,46,ClassGen
-1,Female candidates,EBV46,0.022408317874047665,import,3,0_100,1,46,ClassGen
-2,Male candidates,EBV46,0.02135495410539264,import,3,0_100,1,46,ClassGen
-3,Mothers,EBV46,0.006031965370648462,import,3,0_100,1,46,ClassGen
-0,Fathers,EBV47,0.028799600040280534,import,3,0_100,1,47,ClassGen
-1,Female candidates,EBV47,0.00020850078902592123,import,3,0_100,1,47,ClassGen
-2,Male candidates,EBV47,-0.045038074325011494,import,3,0_100,1,47,ClassGen
-3,Mothers,EBV47,-0.006857373569307562,import,3,0_100,1,47,ClassGen
-0,Fathers,EBV48,-0.16628228562873065,import,3,0_100,1,48,ClassGen
-1,Female candidates,EBV48,0.0019755228883190953,import,3,0_100,1,48,ClassGen
-2,Male candidates,EBV48,-0.05262660686820869,import,3,0_100,1,48,ClassGen
-3,Mothers,EBV48,-0.002759447250231111,import,3,0_100,1,48,ClassGen
-0,Fathers,EBV49,0.056128954786393126,import,3,0_100,1,49,ClassGen
-1,Female candidates,EBV49,0.013490740306086857,import,3,0_100,1,49,ClassGen
-2,Male candidates,EBV49,0.022144101846573665,import,3,0_100,1,49,ClassGen
-3,Mothers,EBV49,-0.003240454615089085,import,3,0_100,1,49,ClassGen
-0,Fathers,EBV50,0.050676499557760296,import,3,0_100,1,50,ClassGen
-1,Female candidates,EBV50,0.013872542880070437,import,3,0_100,1,50,ClassGen
-2,Male candidates,EBV50,0.019699517516476982,import,3,0_100,1,50,ClassGen
-3,Mothers,EBV50,0.010549400656676361,import,3,0_100,1,50,ClassGen
+0,Fathers,EBV31,0.5340832897975051,import,3,0_100,1,31,ClassGen
+1,Female candidates,EBV31,0.4121863568157135,import,3,0_100,1,31,ClassGen
+2,Male candidates,EBV31,0.36416525565873337,import,3,0_100,1,31,ClassGen
+3,Mothers,EBV31,0.7635487266157107,import,3,0_100,1,31,ClassGen
+0,Fathers,EBV32,0.6542273136187439,import,3,0_100,1,32,ClassGen
+1,Female candidates,EBV32,0.4111617093941175,import,3,0_100,1,32,ClassGen
+2,Male candidates,EBV32,0.7891996360428211,import,3,0_100,1,32,ClassGen
+3,Mothers,EBV32,0.7366633127302258,import,3,0_100,1,32,ClassGen
+0,Fathers,EBV33,0.8426870110637686,import,3,0_100,1,33,ClassGen
+1,Female candidates,EBV33,0.37186430617981703,import,3,0_100,1,33,ClassGen
+2,Male candidates,EBV33,0.7838261580702859,import,3,0_100,1,33,ClassGen
+3,Mothers,EBV33,0.7146457929510656,import,3,0_100,1,33,ClassGen
+0,Fathers,EBV34,0.8532993492091824,import,3,0_100,1,34,ClassGen
+1,Female candidates,EBV34,0.4364439694108662,import,3,0_100,1,34,ClassGen
+2,Male candidates,EBV34,0.8093561913070556,import,3,0_100,1,34,ClassGen
+3,Mothers,EBV34,0.6983764159007354,import,3,0_100,1,34,ClassGen
+0,Fathers,EBV35,0.8891869435725825,import,3,0_100,1,35,ClassGen
+1,Female candidates,EBV35,0.4555296857856087,import,3,0_100,1,35,ClassGen
+2,Male candidates,EBV35,0.7948221857441531,import,3,0_100,1,35,ClassGen
+3,Mothers,EBV35,0.7029907426224836,import,3,0_100,1,35,ClassGen
+0,Fathers,EBV36,0.8417277940406596,import,3,0_100,1,36,ClassGen
+1,Female candidates,EBV36,0.4405863027723922,import,3,0_100,1,36,ClassGen
+2,Male candidates,EBV36,0.7506635196012429,import,3,0_100,1,36,ClassGen
+3,Mothers,EBV36,0.7067310517448985,import,3,0_100,1,36,ClassGen
+0,Fathers,EBV37,0.7619428239025042,import,3,0_100,1,37,ClassGen
+1,Female candidates,EBV37,0.46817009575905955,import,3,0_100,1,37,ClassGen
+2,Male candidates,EBV37,0.7581310352591314,import,3,0_100,1,37,ClassGen
+3,Mothers,EBV37,0.7149595615878791,import,3,0_100,1,37,ClassGen
+0,Fathers,EBV38,0.7335523548016174,import,3,0_100,1,38,ClassGen
+1,Female candidates,EBV38,0.4019693258000642,import,3,0_100,1,38,ClassGen
+2,Male candidates,EBV38,0.7509127200609778,import,3,0_100,1,38,ClassGen
+3,Mothers,EBV38,0.7201439959656505,import,3,0_100,1,38,ClassGen
+0,Fathers,EBV39,0.7035088119285057,import,3,0_100,1,39,ClassGen
+1,Female candidates,EBV39,0.40183691594389875,import,3,0_100,1,39,ClassGen
+2,Male candidates,EBV39,0.7749727196856251,import,3,0_100,1,39,ClassGen
+3,Mothers,EBV39,0.7243209203117741,import,3,0_100,1,39,ClassGen
+0,Fathers,EBV40,0.727777188766977,import,3,0_100,1,40,ClassGen
+1,Female candidates,EBV40,0.41823477825209215,import,3,0_100,1,40,ClassGen
+2,Male candidates,EBV40,0.7931029661423252,import,3,0_100,1,40,ClassGen
+3,Mothers,EBV40,0.7312235079453243,import,3,0_100,1,40,ClassGen
+0,Fathers,EBV41,0.7675208833511514,import,3,0_100,1,41,ClassGen
+1,Female candidates,EBV41,0.41481013065815786,import,3,0_100,1,41,ClassGen
+2,Male candidates,EBV41,0.7449252209573638,import,3,0_100,1,41,ClassGen
+3,Mothers,EBV41,0.7237036893097772,import,3,0_100,1,41,ClassGen
+0,Fathers,EBV42,0.6907472276830908,import,3,0_100,1,42,ClassGen
+1,Female candidates,EBV42,0.41106344391940247,import,3,0_100,1,42,ClassGen
+2,Male candidates,EBV42,0.7681984149638011,import,3,0_100,1,42,ClassGen
+3,Mothers,EBV42,0.7227936444901254,import,3,0_100,1,42,ClassGen
+0,Fathers,EBV43,0.7590467443998448,import,3,0_100,1,43,ClassGen
+1,Female candidates,EBV43,0.4026559314838165,import,3,0_100,1,43,ClassGen
+2,Male candidates,EBV43,0.7801692529730454,import,3,0_100,1,43,ClassGen
+3,Mothers,EBV43,0.7267139688128509,import,3,0_100,1,43,ClassGen
+0,Fathers,EBV44,0.7302251247555779,import,3,0_100,1,44,ClassGen
+1,Female candidates,EBV44,0.3984492052461984,import,3,0_100,1,44,ClassGen
+2,Male candidates,EBV44,0.771753275935515,import,3,0_100,1,44,ClassGen
+3,Mothers,EBV44,0.7213515003037428,import,3,0_100,1,44,ClassGen
+0,Fathers,EBV45,0.7757563462429622,import,3,0_100,1,45,ClassGen
+1,Female candidates,EBV45,0.37993345733966893,import,3,0_100,1,45,ClassGen
+2,Male candidates,EBV45,0.7865280002352045,import,3,0_100,1,45,ClassGen
+3,Mothers,EBV45,0.7133468330778756,import,3,0_100,1,45,ClassGen
+0,Fathers,EBV46,0.7732007906292353,import,3,0_100,1,46,ClassGen
+1,Female candidates,EBV46,0.4593265134122309,import,3,0_100,1,46,ClassGen
+2,Male candidates,EBV46,0.7868768842258256,import,3,0_100,1,46,ClassGen
+3,Mothers,EBV46,0.7105746477958917,import,3,0_100,1,46,ClassGen
+0,Fathers,EBV47,0.6968595144293019,import,3,0_100,1,47,ClassGen
+1,Female candidates,EBV47,0.41232912735292326,import,3,0_100,1,47,ClassGen
+2,Male candidates,EBV47,0.8166900350888334,import,3,0_100,1,47,ClassGen
+3,Mothers,EBV47,0.7099755301437783,import,3,0_100,1,47,ClassGen
+0,Fathers,EBV48,0.7525795081659487,import,3,0_100,1,48,ClassGen
+1,Female candidates,EBV48,0.3977655601919342,import,3,0_100,1,48,ClassGen
+2,Male candidates,EBV48,0.7891871056706824,import,3,0_100,1,48,ClassGen
+3,Mothers,EBV48,0.7155877397560682,import,3,0_100,1,48,ClassGen
+0,Fathers,EBV49,0.8347978118666772,import,3,0_100,1,49,ClassGen
+1,Female candidates,EBV49,0.43609380845972756,import,3,0_100,1,49,ClassGen
+2,Male candidates,EBV49,0.8059516329645734,import,3,0_100,1,49,ClassGen
+3,Mothers,EBV49,0.716281634463051,import,3,0_100,1,49,ClassGen
+0,Fathers,EBV50,0.7841810406484435,import,3,0_100,1,50,ClassGen
+1,Female candidates,EBV50,0.4393128314643836,import,3,0_100,1,50,ClassGen
+2,Male candidates,EBV50,0.8022268856894027,import,3,0_100,1,50,ClassGen
+3,Mothers,EBV50,0.7178936877576231,import,3,0_100,1,50,ClassGen
 0,Fathers,EBV21,0.05418058203428819,home,2,0_0,1,21,GenGen
 1,Female candidates,EBV21,0.10482679058570016,home,2,0_0,1,21,GenGen
 2,Male candidates,EBV21,0.36832798941743483,home,2,0_0,1,21,GenGen
